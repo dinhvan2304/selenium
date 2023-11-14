@@ -1,0 +1,823 @@
+STT,Tên HO,Ngành nghề,Địa chỉ HO,MST,TTP,MCK,url
+1,Tập đoàn Công nghiệp than khoáng sản Việt Nam,,"226 Lê Duẩn,Phường Trung Phụng,Đống Đa,Hà Nội",5700100256,Hà Nội,,
+2,Tổng công ty lương thực miền Bắc,,"Số 6, phố Ngô Quyền, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội, Vietnam",0100102608,Hà Nội,,
+3,Tổng Công ty VTC,,"Tầng 13, Số 23, Phố Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng,  Hà Nội",0100110006,Hà Nội,,
+4,Ngân hàng Thương mại cổ phần Bưu điện Liên Việt,,"Tầng 2, TN Capital Tower - 109 Trần Hưng Đạo-q.Hoàn Kiếm - Hà nội",6300048638,Hà Nội,LPB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=LPB
+5,Ngân hàng Thương mại Cổ phần Sài Gòn - Hà Nội,,"Số 11 Hàn Thuyên, Phạm đình Hổ, Hai Bà Trưng, Hà Nội - Phòng Kế toán",1800278630,Hà Nội,SHB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SHB
+6,Ngân hàng TMCP Quốc dân,,"Số 28C-D Bà Triệu, P. Hàng Bài, Q.Hoàn Kiếm, Hà Nội",1700169765,Hà Nội,NVB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NVB
+7,Công ty Bảo hiểm Liên Hiệp,,"Tầng 09, tòa nhà Hà Nội Tung Shing Square, Số 2 Ngô Quyền, Quận Hoàn Kiếm, Thành phố Hà Nội",0100112571,Hà Nội,,
+8,Công ty Cổ phần Tập đoàn T&T,,"2A Phạm Sư Manh, phường Phan Chu Trinh, quận Hoàn Kiếm, Hà Nội",0100233223,Hà Nội,,
+9,Tổng Công ty Giấy Việt Nam,,"25A phố Lý Thường Kiệt,, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam",2600357502,Hà Nội,,
+10,TỔNG CÔNG TY ĐẦU TƯ PHÁT TRIỂN NHÀ VÀ ĐÔ THỊ - CÔNG TY TRÁCH NHIỆM HỮU HẠN,,"Tầng 28, 29, 30, 31, 32 tòa nhà Văn phòng thương mại HUDTOWER, số 37 đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",0100106144,Hà Nội,,
+11,CÔNG TY TNHH THƯƠNG MẠI - DỊCH VỤ TÂN HIỆP PHÁT,,219 Đại lộ Bình Dương - Phường Vĩnh Phú - TP. Thuận An - Tỉnh Bình Dương,0301387752,Bình Dương,,
+12,CÔNG TY CỔ PHẦN TẬP ĐOÀN TRƯỜNG HẢI,,"Tòa nhà Sofic, 10 Mai Chí Thọ, P Thủ Thiêm Thủ Đức, TP. Hồ Chí Minh, Việt Nam",3600252847,TP Hồ Chí Minh,THA,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=THA
+13,CÔNG TY CP ĐẦU TƯ THẾ GIỚI DI ĐỘNG,," Lô T2-1.2 đường D1, Khu Công Nghệ Cao, Phường Tân Phú, Quận 9,",0306731335,TP Hồ Chí Minh,MWG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MWG
+14,CÔNG TY CP VÀNG BẠC ĐÁ QUÝ PHÚ NHUẬN,,170E Phan Đăng Lưu - Phường 3 - Quận Phú Nhuận - TP. Hồ Chí Minh,0300521758,TP Hồ Chí Minh,PNJ,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PNJ
+15,CÔNG TY CP THẾ GIỚI SỐ,,"Số 195 – 197 Đường Nguyễn Thái Bình - P. Nguyễn Thái Bình - Q.1, Tp. Hồ Chí Minh",0302861742,TP Hồ Chí Minh,DWG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DWG
+16,NGÂN HÀNG TMCP VIỆT Á,,"119-121 Đ. Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh",0302963695,TP Hồ Chí Minh,VAB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VAB
+17,CÔNG TY CP TẬP ĐOÀN ĐẤT XANH,,"2W Ung Văn Khiêm, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh",0303104343,TP Hồ Chí Minh,DXG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DXG
+18,CÔNG TY CP ĐỊA ỐC SÀI GÒN THƯƠNG TÍN,,253 Hoàng Văn Thụ - P. 2 - Q. Tân Bình - Tp. Hồ Chí Minh,0303315400,TP Hồ Chí Minh,SCR,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SCR
+19,CÔNG TY CP DỊCH VỤ HÀNG KHÔNG SÂN BAY TÂN SƠN NHẤT (SASCO),,Sân bay Quốc tế Tân Sơn Nhất - Phường 2 - Quận Tân Bình - TP. Hồ Chí Minh,0301123125,TP Hồ Chí Minh,SAS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SAS
+20,CÔNG TY CP CHĂN NUÔI C.P. VIỆT NAM,,Số 2 đường 2A - KCN Biên Hòa II - Phường Long Bình Tân - TP. Biên Hòa - Tỉnh Đồng Nai,3600224423,Đồng Nai,,
+21,CÔNG TY TNHH INTEL PRODUCTS VIỆT NAM,,Lô 12 KCN Cao Đường D1 - Phường Tân Phú - Quận 9 - TP. Hồ Chí Minh,0304295429,TP Hồ Chí Minh,,
+22,CÔNG TY TNHH BẢO HIỂM NHÂN THỌ PRUDENTIAL VIỆT NAM,,"37 Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",0301840443,TP Hồ Chí Minh,,
+23,CÔNG TY TNHH QUỐC TẾ UNILEVER VIỆT NAM,,156 Nguyễn Lương Bằng - Phường Tân Phú - Quận 7 - TP. Hồ Chí Minh,0300762150,TP Hồ Chí Minh,,
+24,CÔNG TY TNHH NƯỚC GIẢI KHÁT SUNTORY PEPSICO VIỆT NAM,,"Lô A2-3, Khu Công nghiệp Tây Bắc Củ Chi, phường Tân An Hội, Củ Chi, Tp Hồ Chí Minh",0300816663,TP Hồ Chí Minh,,
+25,CÔNG TY TNHH BẢO HIỂM NHÂN THỌ DAI-ICHI VIỆT NAM,,"Lầu 5, Khách sạn Sheraton, 88 Đường Đồng Khởi, Phường bến Nghé, Quận 1, Thành phố Hồ Chí Minh",0301851276,TP Hồ Chí Minh,,
+26,CÔNG TY CP ACECOOK VIỆT NAM,,"RJ77+9PQ, Đường CN8, Tây Thạnh, Tân Phú, Thành phố Hồ Chí Minh",0300808687,TP Hồ Chí Minh,,
+27,CÔNG TY TÀI CHÍNH TNHH HD SAISON,,"138-142 Hai Bà Trưng, P Đa Kao, Quận 1, Hồ Chí Minh",0304990133,TP Hồ Chí Minh,,
+28,CÔNG TY TNHH TRUYỀN HÌNH CÁP SAIGONTOURIST,,"31-33 Đinh Công Tráng, Phường Tân Định, Quận 1, Tp.Hồ Chí Minh",0301463315,TP Hồ Chí Minh,,
+29,Công Ty TNHH MM Mega Market (Việt Nam) - tên cũ Metro Cash And Carry Việt Nam,,"Khu B Khu đô thị mới An Phú - An Khánh - Quận 2, Tp. Hồ Chí Minh",0302249586,TP Hồ Chí Minh,,
+30,Công Ty TNHH  Sony Electronics Việt Nam,,"Tầng 6&7 tòa nhà President Palace, 93 Nguyễn Du, Quận 1, Hồ Chí Minh",0305712139,TP Hồ Chí Minh,,
+31,Công ty TNHH SIAM CITY CEMENT (Việt Nam) ,,"Cao ốc Fideco, lầu 10, số 81-83-83B-85 Hàm nghi, Quận 1, thành phố Hồ CHí Minh",0300608568,TP Hồ Chí Minh,,
+32,Tổng công ty đầu tư và kinh doanh vốn nhà nước,,"Số 117 đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",0101992921,Hà Nội,,
+33,Tập đoàn Xăng dầu Việt Nam,,"Số 1 Khâm Thiên. Phường Khâm Thiên, Quận Đống Đa,Hà Nội",0100107370,Hà Nội,PLX,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PLX
+34,Tập đoàn Hóa chất Việt Nam,,"1A Tràng Tiền, Q.Hoàn Kiếm, Hà Nội",0100100061,Hà Nội,,
+35,Tập đoàn Điện lực Việt Nam,,"Số 11 Cửa Bắc, phường Trúc Bạch, Quận Ba Đình,Thành phố Hà Nội",0100100079,Hà Nội,,
+36,Tập đoàn Dầu khí Việt Nam,,"Tòa nhà Viện Dầu khí Việt Nam, số 167 đường Trung Kính, Phường Yên Hòa, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",0102276173,Hà Nội,POW,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=POW
+37,Tổng công ty Viễn thông MobiFone,,"Tòa nhà Mobifone, lô VP1, P Yên Hòa, Q Cầu Giấy, TP Hà Nội, VN",0100686209,Hà Nội,,
+38,Tổng công ty Thuốc lá Việt Nam,,"Số 235 đường Nguyễn Trãi, phường Thượng Đình, Quận Thanh Xuân, thành phố Hà Nội",0101216069,Hà Nội,,
+39,Tổng công ty Hàng không Việt Nam,,"Số 200, Phố Nguyễn Sơn, Phường Bồ Đề, Quận Long Biên, TP Hà Nội, Việt Nam",0100107518,Hà Nội,HVN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HVN
+40,Tổng công ty Hàng hải Việt Nam,,"Số 2 Nguyễn Thượng Hiền, Hồng Bàng, Hải Phòng",0200118954,Hải Phòng,,
+41,Tổng công ty Đường sắt Việt Nam,,"118 Lê Duẩn, phường Cửa Nam, Quận Hoàn Kiếm, thành phố Hà Nội",0100105052,Hà Nội,,
+42,Tổng công ty Đầu tư phát triển đường cao tốc Việt Nam,,"Tầng 2,3,4,5 Tháp A, Tòa nhà CENTRAL POINT, Số 219 phố Trun, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội ",0101573511,Hà Nội,,
+43,Tổng công ty Lâm nghiệp Việt Nam,,127 Lò Đúc - Phường Đống Mác - Quận Hai Bà Trưng - Thành Phố Hà Nội,0100102012,Hà Nội,VIF,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VIF
+44,Công ty Cổ phần Tổng Công ty Truyền hình cáp Việt Nam,,Tòa nhà VTV - Số 3/84 đường Ngọc Khánh - P.Giảng Võ- Q.Ba Đình - TP.Hà Nội,0105926285,Hà Nội,CAB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CAB
+45,Tổng công ty Bưu điện Việt Nam,,"Số 1, đường Tân Xuân, phường Xuân Đỉnh, Quận Bắc Từ Liêm, thành phố Hà Nội, Việt Nam.",0101826868,Hà Nội,,
+46,Công ty TNHH  Một thành viên Xổ Số Kiến Thiết Thủ Đô,,"53E Hàng Bài, Phường Hàng Bài, Quận Hoàn Kiếm, Thành Phố Hà Nội, Việt Nam",0100110817,Hà Nội,,
+47,Công ty TNHH Thu phí tự động VETC,,Số 167 phố Trung Kính - Phường Yên Hoà - Quận Cầu Giấy - Tp Hà Nội,0107500414,Hà Nội,,
+48,Tổng công ty Công nghiệp xi măng Việt Nam,,"228 Lê Duẩn, Quận Đống Đa, thành phố Hà Nội",0100106320,Hà Nội,,
+49,Công ty cổ phần thanh toán điện tử VNPT (ePay),,"Tầng 14, tòa nhà Handico, khu đô thị mới Mễ Trì Hạ, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",0102713659,Hà Nội,,
+50,Tổng Công Ty Quản Lý Bay Việt Nam- Công ty TNHH,,"Số 6/200 Nguyễn Sơn, Phường Bồ Đề, Quận Long Biên, thành phố Hà Nội",0100108624,Hà Nội,,
+51,Tổng công ty Thép Việt Nam - CTCP,,"Số 91 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội, Vietnam",0100100047,Hà Nội,TVN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TVN
+52,Ngân hàng TMCP Kỹ Thương Việt Nam,,"Số 191 phố Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",0100230800,Hà Nội,TCB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TCB
+53,Ngân hàng TMCP Công thương Việt Nam,,"108 Trần Hưng Đạo,Quận Hoàn Kiếm,Hà Nội",0100111948,Hà Nội,CTG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CTG
+54,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam,,"35 Hàng Vôi,phường Lý Thái Tổ, quận Hoàn Kiếm, TP Hà Nội",0100150619,Hà Nội,BID,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BID
+55,Ngân hàng TMCP Hàng hải Việt Nam,,"Tâng 29, TNR Tower,54A Nguyễn Chí Thanh, Đống Đa, HN",0200124891,Hà Nội,MSB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MSB
+56,Ngân hàng Nông nghiệp và phát triển nông thôn Việt Nam,,"Tòa nhà Agribank, số 02 Láng Hạ, Ba Đình, Hà Nội",0100686174,Hà Nội,,
+57,Ngân hàng Thương mại Cổ phần Tiên Phong,,"Tòa nhà TPBank, số 57, phố Lý Thường Kiệt, phường Trần Hưng Đạo, quận Hoàn Kiếm, TP Hà Nội",0102744865,Hà Nội,TPB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TPB
+58,Ngân hàng TMCP Quân đội Việt Nam,,"Số 21 Cát Linh, Phường Cát Linh, Quận Đống Đa, Thành phố Hà Nội",0100283873,Hà Nội,MBB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MBB
+59,Ngân hàng TMCP Việt Nam Thịnh Vượng,,Tầng 19 số 89 Láng Hạ Đống Đa. HN,0100233583,Hà Nội,VPB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VPB
+60,Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam,,"Tầng 7 Toà nhà Corner Stone, 16 Phan Chu Trinh, P.Phan Chu Trinh, Q.Hoàn Kiếm, Hà Nội.",0100233488,Hà Nội,VIB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VIB
+61,Ngân hàng Hợp tác xã Việt nam,,"Tầng 4, Tòa Nhà N04, Đường Hoàng Đạo Thúy, Phường Trung Hòa, Quận Cầu Giấy,  Hà Nội",0100112620,Hà Nội,,
+62,Ngân hàng TMCP Ngoại thương Việt Nam,,"Tầng 7, tòa nhà Vietcombank, 198 Trần Quang Khải, Hà Nội",0100112437,Hà Nội,VCB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VCB
+63,Ngân hàng Thương mại Cổ phần Đông Nam á,,"25 Trần Hưng Đạo, Phường Phan Chu Trinh, Hoàn Kiếm, Hà Nội",0200253985,Hà Nội,SSB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SSB
+64,Ngân hàng TMCP Bảo Việt,,"Tầng 5 tòa nhà Corner Stone, số 16 Phan Chu Trinh, Hoàn Kiếm, Hà Nội",0103126572,Hà Nội,,
+65,Ngân hàng phát triển Việt Nam,,"25A Cát Linh, Quận Đống Đa, Thành Phố Hà Nội",0101382193,Hà Nội,,
+66,Ngân hàng TM TNHH MTV Đại Dương,,"Trung tâm CNTT, Tầng 7, tòa nhà DEAHA, 360 Kim Mã, Ba Đình, Hà Nội",0800006089,Hà Nội,,
+67,Ngân hàng Đại Chúng,,"Tầng 24 Tháp B, 173 Xuân Thủy, Cầu Giấy, Hà Nội - Chị Đông: 0988 301 382",0302845719,Hà Nội,,
+68,Ngân hàng chính sách xã hội,,Số 169 Phố Linh Đường - Phường Hoàng Liệt - Quận Hoàng Mai - Hà Nội,0100695387,Hà Nội,,
+69,Ngân hàng Thương mại TNHH MTV Dầu khí Toàn Cầu,,"Tòa nhà capital tower , 109 Trần Hưng Đạo, P Cửa Nam, Q Hoàn Kiếm , TP Hà Nội, VN",2700113651,Hà Nội,PGB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PGB
+70,Ngân hàng TMCP xăng dầu Petrolimex,,"Tầng 21, tòa nhà MIPEC Tower, số 229 Tây Sơn, quận Đống Đa, TP Hà Nội",0100110768,Hà Nội,PGI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PGI
+71,Ngân hàng BNP Paribas,,"Tầng M, Pan Pacific Hà Nội, Số 1 đường Thanh Niên, Phường Trúc Bạch, Quận Ba Đình, Thành phố Hà Nội",0106863743,Hà Nội,,
+72,"Ngân hàng CITIBANK, N.A",,"40 Cát Linh, Đống Đa, Hà Nội",0100112444,Hà Nội,,
+73,Ngân hàng TNHH Một thành viên Public Việt Nam,,"Tầng 11,  tòa nhà Tungshing số 2 ngô quyền, Hà Nội",0100112733,Hà Nội,,
+74,Ngân hàng TNHH Một Thành viên ANZ (Việt Nam),,"13 Hai Bà Trưng, Hoàn Kiếm, Hà Nội",0103134809,Hà Nội,,
+75,Tổng công ty Cổ phần bảo hiểm Bưu điện,,"Tầng 8, Toà nhà số 4A Láng Hạ, Quận Ba Đình,Thành Phố Hà Nội",0100774631,Hà Nội,PTI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PTI
+76,Bảo hiểm tiền gửi Việt Nam,,"Tầng 12A Capital Tower, 109 Trần Hưng Đạo, Quận Hoàn Kiếm, Thành phố Hà Nội",0105255157,Hà Nội,,
+77,Công ty TNHH Bảo hiểm phi nhân thọ MSIG Việt Nam,,"Tháp BIDV , Số 35 Hàng Vôi, Phường Lý Thái Tổ, Quận Hoàn Kiếm, TP Hà Nội",0102973336,Hà Nội,,
+78,Tập đoàn Bảo Việt,,"Số 72, phố Trần Hưng Đạo, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Thành phố Hà Nội",0100111761,Hà Nội,BVH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BVH
+79,Sở giao dịch Chứng khoán Hà Nội,,Số 2 Phan Chu Trinh - Phường Tràng Tiền - Quận Hoàn Kiếm - Tp Hà Nội,0101930530,Hà Nội,,
+80,Công ty Cổ phần Chứng khoán Quốc Gia,,"Tầng 6, tòa nhà Prime Centre, số 53 Quang Trung, phường Nguyễn Du, Quận Hai Bà Trưng, thành phố Hà Nội",0102108468,Hà Nội,,
+81,Công ty cổ phần chứng khoán SSI,,1C Ngô Quyền - Phường Lý Thái Tổ - Quận Hoàn Kiếm Thành Phố Hà Nội,0301955155,Hà Nội,SSI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SSI
+82,Công ty Cổ phần Chứng khoán Tân Việt,,"Tầng 6, số 79, phố Lý Thường Kiệt, phường Cửa Nam, Quận Hoàn Kiếm, thành phố Hà Nội.",0102117529,Hà Nội,,
+83,Công ty cổ phần chứng khoán VNDIRECT,,Số 1 Nguyễn THượng Hiền- Hai Bà Trưng -Hà Nội,0102065366,Hà Nội,VND,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VND
+84,Công ty Cổ phần chứng khoán MB,,"Tầng M-3-7 Số 03 Liễu Giai, Phường Liễu Giai, Quận Ba Đình, TP.Hà Nội",0106393583,Hà Nội,MBS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MBS
+85,Tập đoàn Vingroup - Công ty CP,,"Số 7, đường Bằng Lăng 1,KĐT sinh thái Vinhomes Riverside, P.Việt Hưng, Q.Long Biên, TP.Hà Nội",0101245486,Hà Nội,VIC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VIC
+86,Công ty Cổ phần VCCorp,,"Số 01 Nguyễn Huy Tưởng, phường Thanh Xuân Trung, quận Thanh Xuân, thành phố Hà Nội",0101871229,Hà Nội,,
+87,Công ty Cổ phần Hayday,,"Số 1 ngõ 92 phố Đào Tấn, phường Cống Vị, Quận Ba Đình, thành phố Hà Nội",0107600786,Hà Nội,,
+88,Công ty TNHH Cốc Cốc,,"Phòng 1202 tầng 12, tòa nhà HITTC, số 185 Giảng Võ, phường Cát Linh, Quận Đống Đa, thành phố Hà Nội",0102963440,Hà Nội,,
+89,Công ty cổ phần nghe nhìn Toàn Cầu,,"Phòng Kinh doanh thuê bao, Tầng 12 Tòa nhà IC, Số 82 Duy Tân, Cầu giấy",3700999015,Hà Nội,,
+90,Đài Truyền hình Việt Nam - VTV,,"Số 43 Nguyễn Chí Thanh, Quận Ba Đình, Thành phố Hà Nội",0101567589,Hà Nội,,
+91,Công ty Cổ phần Bạch Minh,,"Phòng 804, tầng 8, toà nhà VET, số 98 đường Hoàng Quốc Việt, phường Nghĩa Đô, Quận Cầu Giấy, Thành phố Hà Nội",0101380911,Hà Nội,,
+92,Tập đoàn Dệt may,,"25 Bà Triệu, Quận Hoàn Kiếm, Hà Nội",0100100008,Hà Nội,VGT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VGT
+93,TCT Sông Đà,,"Tòa nhà Sông Đà, đường Phạm Hùng - Quận Nam Từ Liêm - Hà Nội",0100105870,Hà Nội,SJG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SJG
+94,Cty CP Hóa dầu Quân đội,,N1 - 33B Phạm Ngũ Lão - Phường Phan Chu Trinh - Quận Hoàn Kiếm - Hà Nội,0101436307,Hà Nội,,
+95,Tcty Phát triển nhà UDIC,,"Số 27 Huỳnh Thúc Kháng, Phường Láng Hạ, Quận Đống Đa, Thành Phố Hà Nội, Việt Nam",0100106232,Hà Nội,,
+96,Thể thao điện tử,,"Tầng 29, tòa nhà Trung tâm Lotte Hà Nội, số 54, đường Liễu Giai, Phường Cống Vị, Quận Ba Đình, Thành phố Hà Nội, Việt Nam",0105301438,Hà Nội,,
+97,Công ty cổ phần Mediamart Việt Nam,,"Số 29F Hai Bà Trưng, Phường Tràng Tiền, Quận Hoàn Kiếm, Thành Phố Hà Nội, Việt Nam",0102516308,Hà Nội,,
+98,Công ty cổ phần dịch vụ số liệu Toàn Cầu,,"P722, tầng 7, tòa nhà HITC, 239 đường Xuân Thủy, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",0102669569,Hà Nội,,
+99,Công ty TNHH Thông tin NTT (Việt Nam),,"P.201, tầng 2, tòa nhà HITC, số 239 Xuân Thủy, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",0302534921,Hà Nội,,
+100,Công ty TNHH KDDI Việt nam,," phòng 7, tầng 4, số 17 Ngô Quyền, , Quận Hoàn Kiếm, Hà Nội",0102338510,Hà Nội,,
+101,Công ty CP Dịch vụ Viễn thông Sao Bắc Đẩu,,"Tầng 1 tòa nhà Lilama 10, phố Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",0107926033,Hà Nội,,
+102,Công ty Cổ phần Thương mại và Xuất nhập khẩu Trang Linh,,"P108 B4 TT Trung Tự, phường Trung Tự, Phường Trung Tự, Quận Đống đa, Hà Nội",0101782723,Hà Nội,,
+103,Công ty cổ phần truyền thông VMG,,"Số 33 phố Thái Hà, Phường Trung Liệt, Quận Đống đa, Hà Nội",0102991818,Hà Nội,,
+104,Công ty Cổ phần Hạ tầng Viễn thông CMC,,"Tòa nhà CMC, phố Duy Tân, P Dịch Vọng Hâu, Q Cầu Giấy, TP Hà Nội, VN. Ms Ban: 0976 009 078 Ban KD",0102900049,Hà Nội,,
+105,Tập đoàn FPT,,Số 17 phố Duy Tân - Phường Dịch Vọng Hậu - Quận Cầu Giấy - Hà Nội.,0101248141,Hà Nội,FPT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=FPT
+106,Công ty Cổ phần Viễn thông di động Vietnamobile,,"Tầng 6 tòa nhà King Building, Số 7 Chùa Bộc, phường Quang Trung, Quận Đống Đa, thành phố Hà Nội, Việt Nam",0107429715,Hà Nội,,
+107,Công ty Cổ phần HTC Viễn thông Quốc Tế,,"Tầng 6, Tòa nhà Lotus, số 2 Duy Tân, Cầu Giấy,  Hà Nội",0102362584,Hà Nội,,
+108,Công ty Cổ phần NETNAM,,"Tầng 3, Tòa nhà 2B- khu thử nghiệm công nghệ Nghiã Đô- 18 Hoàng Quốc Việt, Hà Nội.",0100896284,Hà Nội,,
+109,Công ty cổ phần truyền thông HANEL,,"Số 2,phố Chùa Bộc,Phường Trung Tự,Quận Đống Đa,Thành phố Hà Nội,Việt Nam",0102645046,Hà Nội,,
+110,Tập đoàn Công nghiệp - Viễn thông quân đội,,"Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",0100109106,Hà Nội,VTK,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VTK
+111,Công ty TNHH Global Network Service,," Tầng 15 tòa nhà Việt á, phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",0105789409,Hà Nội,,
+112,Công ty cổ phần thương mại công nghệ thông tin di động,,"Số 20 Ngọc Hà, Phường Đội Cấn, Quận Ba Đình, Hà Nội",0105840140,Hà Nội,,
+113,Công ty TNHH truyền thông ALPHA,,"Số 231 Hồng Hà, Phường Phúc Tân, Quận Hoàn Kiếm, Hà Nội",0106883394,Hà Nội,,
+114,Công ty Cổ phần Công nghệ Bình Minh,,Số 328 Lạc Trung - - Quận Hai Bà Trưng - Hà Nội,0106837990,Hà Nội,,
+115,Công ty TNHH Yamaha Motor Việt Nam,,"Thôn Bình An, Xã Trung Giã, Huyện Sóc Sơn, Hà Nội",0100774342,Hà Nội,,
+116,VPĐD Công ty VNPT GLOBAL HK Limited,,"Phòng 605 tầng 6, tòa nhà Thăng Long Ford, 105 láng Hạ, Hà Nội",0104796139,Hà Nội,,
+117,Công ty cổ phần đầu tư và phát triển dịch vụ hạ tầng viễn thông,,"Tầng 2, tòa nhà X2, 70 Nguyên Hồng, Phường Láng Hạ, Quận Đống đa, Hà Nội",0102286252,Hà Nội,,
+118,Công ty Cổ phần Tư vấn Đầu tư phát triển Hạ Tầng Viễn Thông (IFC),,"Tòa nhà Elcom Building, Ngõ 15, P Dịch vọng hậu, cầu giáy hà nội",0101569346,Hà Nội,,
+119,Công ty TNHH Connet Việt Nam,,"Tầng 6 tòa nhà MD Complex (Tòa VP), số 68 Nguyễn Cơ Thạch, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",0108601863,Hà Nội,,
+120,Công ty TNHH Hoya Glass Disk Việt Nam,,"Khu J-3&4, khu công nghiệp Thăng Long, Xã Võng La, Huyện Đông Anh, Hà Nội",0101579263,Hà Nội,,
+121,Công ty cổ phần Phát triển Dịch vụ Học tập và Giải trí trực tuyến,,"Nhà D7, lô A/D6, đường Nguyễn Phong Sắc kéo dài, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",0101848406,Hà Nội,,
+122,Công ty cho thuê tài chính TNHH BIDV-Sumi Trust,,"Tầng 20, tháp A Vincom 191 Bà Triệu, Hai Bà Trưng, Hà Nội",0100777569,Hà Nội,,
+123,Công ty Cổ Phần BKAV,,"Tâng 2, tòa nhà hh1 khu đô thị yên hòa, P yên hòa, cầu giấy, hà nội",0101360697,Hà Nội,,
+124,Công ty Cổ phần công nghệ công nghiệp bưu chính viễn thông,,"Khu công nghiệp công nghệ cao I, KCN cao Hòa Lạc, , Huyện Thạch Thất, Hà Nội",0105140413,Hà Nội,,
+125,Công ty TNHH một thành viên Phần mềm iNet,,"Số 247 Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",0108815544,Hà Nội,,
+126,Công ty CP Phần mềm diệt Virus Bkav,,"Tầng 4, Tòa nhà HH1, Khu đô thị Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",0108431266,Hà Nội,,
+127,Công ty cổ phần giải pháp IDS Việt nam,,"P1703 số 169 Nguyễn Ngọc Vũ, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",0108064513,Hà Nội,,
+128,Công ty cổ phần Hồng Lam,,"Khu Công nghiệp Quang Minh, Thị Trấn Chi Đông, Huyện Mê Linh, Hà Nội",2500258674,Hà Nội,,
+129,Công ty cổ phần công nghệ và giải pháp trực tuyến IDC,,"Số 23, ngách 345/69/11, ngõ 345, Khương Trung, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",0105365015,Hà Nội,,
+130,Công ty TNHH truyền hình số vệ tinh Việt Nam,," Tầng 15,tháp A,Handi Resco, 521 Kim Mã, , Quận Ba Đình, Hà Nội",0104828729,Hà Nội,,
+131,Công ty TNHH Cung cấp Giải pháp Dịch vụ Giá trị gia tăng,,"Số 124 đường Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",0105416171,Hà Nội,,
+132,Công ty Cổ phần Thương mại và Truyền thông HTC,,"Số  25a, ngõ  179/64 phố Vĩnh Hưng, quận hoàng mai, hà nội",0103835339,Hà Nội,,
+133,Công ty cổ phần giải pháp thanh toán Việt Nam,,"Phòng 804A, Số 22, phố Láng Hạ, Phường Láng Hạ, Quận Đống đa, Hà Nội",0106787316,Hà Nội,,
+134,Công ty cổ phần đầu tư kỹ thuật BERJAYA Gia Thịnh,,"Tầng 17, tòa nhà Lim 2, 62A Cách mạng tháng tám, phường 6, quận 3, thành phố Hồ Chí Minh, Việt nam",0311715794,TP Hồ Chí Minh,,
+135,"SAMSUNG SDS CO.,LTD",,"KCN Yên Bình, Phường Đồng Tiến, Thị xã Phổ Yên, Thái Nguyên",4601263113,Hà Nội,,
+136,Công ty TNHH Funing Precision Component,,"KCN Quế Võ, xã Vân Dương, , Thành phố Bắc Ninh, Bắc Ninh",2300329871,Bắc Ninh,,
+137,Công ty Cổ phần thanh toán trực tuyến Vpay,,"Số nhà 29, đường trần phú, P Điện Biên, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",2802529137,Thanh Hóa,,
+138,Công ty Cổ Phần Hoàng Phát Hưng,,"167/25 Đường D1, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",0309133541,TP Hồ Chí Minh,,
+139,Công ty Ô tô Toyota Việt Nam,," Phường Phúc Thắng, Thành phố Phúc Yên, Vĩnh Phúc",2500150335,Vĩnh Phúc,,
+140,Công ty TNHH Ford Việt Nam,,"Phường Tứ Minh, Thành phố Hải Dương, Hải Dương",0801002376,Hải Dương,,
+141,Công Ty TNHH Thương Mại và Dược Phẩm Sang,,"Tầng 3, số 61 cao thắng, P03- Quận 3, Hồ Chí Minh",0310631333,TP Hồ Chí Minh,,
+142,Công ty TNHH LG ELECTRONICS Việt Nam Hải Phòng,,"Lô CN2, khu công nghiệp Tràng Duệ, Xã Lê Lợi, Huyện An Dương, Hải Phòng",0201311397,Hải Phòng,,
+143,Công ty Cổ phần Thanh toán Quốc gia Việt Nam - NAPAS,,"Tầng 16, tầng 17 và tầng 18 tòa nhà Pacific Place, 83B phố Lý Thường Kiệt, Hoàn Kiếm, Hà Nội.",0101517122,Hà Nội,,
+144,Công ty TNHH MTV Xổ số điện toán Việt Nam - Vietlott,,"Tầng 15, Tòa nhà CornerStone, 16 Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội",0105993965,Hà Nội,,
+145,Tập đoàn Tân Á Đại Thành,,"124 P. Tôn Đức Thắng, Quốc Tử Giám, Đống Đa, Hà Nội",1100797006,Hà Nội,,
+146,Công ty cổ phần phát triển nhà Phúc Đồng,,"Lô H2 - TM1 và H2 - TM2 chung cư Hope Residences, Phường Phúc Đồng, Quận Long Biên, Thành phố Hà Nội",0107740744,Hà Nội,,
+147,Tổng Công ty Công Nghiệp Tàu Thủy ,,Số 172 Ngọc Khánh - Phường Giảng Võ - Quận Ba Đình - Hà Nội.,0100113303,Hà Nội,,
+148,CÔNG TY CP VẬN HÀNH VÀ BẢO TRÌ ĐƯỜNG CAO TỐC VIỆT NAM,,"Tầng 8, toà nhà Nam Cường, Km 4 đường Tố Hữu - Phường La Khê - Quận Hà Đông - Hà Nội.",0104403010,Hà Nội,,
+149,Công ty Cổ phần Dịch vụ Thương mại Tổng hợp WinCommerce,,"Tầng 5,Mplaza SaiGon, số 39 Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",0104918404,Hà Nội,,
+150,CÔNG TY TNHH PANASONIC VIỆT NAM ,,"Lô J1-J2, Khu công nghiệp Thăng Long, xã Kim Chung, Huyện   Đông Anh, Thành phố Hà Nội, Việt Nam",0101824243,Hà Nội,,
+151,CÔNG TY CỔ PHẦN MOBICAST ,,"Tầng 4, V1 Home City, 177 phố Trung Kính, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",0107591436,Hà Nội,,
+152,Công ty cổ phần One Mount Group,,"458 P. Minh Khai, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",0109079946,Hà Nội,,
+153,Công ty Cổ phần Truyền thông Iris,,"Số 3 ngõ Phủ Doãn, phường Hàng Trống, quận Hoàn Kiếm, TP Hà Nội",0105687291,Hà Nội,,
+154,Ngân hàng thương mại trách nhiệm hữu hạn một thành viên Xây Dựng Việt Nam,,"10 Lý Tự Trọng, P.Bến Nghé, Quận 1, Hồ Chí Minh",1100176136,TP Hồ Chí Minh,,
+155,Ngân hàng TMCP An Bình,,"170 Hai Bà Trưng, P.Đa Kao, Quận 1, Hồ Chí Minh",0301412222,TP Hồ Chí Minh,ABB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ABB
+156,CÔNG TY CP SỮA VIỆT NAM,,Số 10 Tân Trào - Phường Tân Phú - Quận 7 - TP. Hồ Chí Minh,0300588569,TP Hồ Chí Minh,VNM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VNM
+157,CÔNG TY CP TẬP ĐOÀN HOA SEN,,183 Nguyễn Văn Trỗi - Phường 10 - Quận Phú Nhuận - TP Hồ Chí Minh,3700381324,TP Hồ Chí Minh,HSG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HSG
+158,Ngân hàng TMCP xuất nhập khẩu Việt Nam,,"Tầng 8, tòa nhà Vincom Center, 72 Lê Thánh Tôn,P.Bến Nghé,Quận 1,TP. Hồ Chí Minh",0301179079,TP Hồ Chí Minh,EIB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=EIB
+159,Ngân hàng TMCP Đông á,,"130 Phan Đăng Lưu, Phường 3, Quận Phú Nhuận, Thành phố Hồ Chí Minh",0301442379,TP Hồ Chí Minh,,
+160,Ngân hàng TNHH INDOVINA,,"97A Nguyễn Văn Trỗi, Phường 12, Quận Phú Nhuận, Tp.Hồ Chí Minh",0300733752,TP Hồ Chí Minh,,
+161,Ngân hàng TNHH Một thành viên HSBC (Việt Nam),,"Tầng 1,2,3,6 Tòa nhà Metropolitan, 235 Đồng Khởi, phường Bến Nghé, Quận 1, Thành Phố Hồ Chí Minh",0301232798,TP Hồ Chí Minh,,
+162,Ngân hàng TMCP á châu,,"442 Nguyễn Minh Khai, Phường 5, Quận 3, TP. Hồ Chí Minh",0301452948,TP Hồ Chí Minh,ACB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ACB
+163,Ngân hàng Thương Mại Cổ Phần Nam á,,"201-203 Cách mạng tháng tám, Phường 4, Quận 3, Tp Hồ Chí Minh, VN",0300872315,TP Hồ Chí Minh,NAB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NAB
+164,Ngân hàng TMCP Sài Gòn Thương Tín,,"266-268 Nam Kỳ Khởi Nghĩa, P8, Q3, Tp.Hồ Chí Minh",0301103908,TP Hồ Chí Minh,STB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=STB
+165,Công ty Cổ phần VNG,,"Z06 đường số 13, phường Tân Thuận Đông, quận 7, thành phố Hồ Chí Minh, Việt nam",0303490096,TP Hồ Chí Minh,,
+166,TỔNG CÔNG TY CP BIA RƯỢU NƯỚC GIẢI KHÁT SÀI GÒN,,Số 187 Nguyễn Chí Thanh - Phường 12 - Quận 5 - TP. Hồ Chí Minh,0300583659,TP Hồ Chí Minh,SAB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SAB
+167,CÔNG TY CP DU LỊCH VÀ TIẾP THỊ GIAO THÔNG VẬN TẢI VIỆT NAM - VIETRAVEL,,190 Pasteur - Phường 6 - Quận 3 - TP. Hồ Chí Minh,0300465937,TP Hồ Chí Minh,VTR,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VTR
+168,CÔNG TY CP KINH DOANH KHÍ MIỀN NAM,,Tầng 4 - tòa nhà PetroVietnam - 1 - 5 Lê Duẩn - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,0305097236,TP Hồ Chí Minh,PGS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PGS
+169,CÔNG TY CP ĐẠI TÂN VIỆT,,145 Tôn Thất Đạm - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,0302505776,TP Hồ Chí Minh,,
+170,Tổng công ty Cảng Hàng không,,"58 Trường Sơn, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh",0301081852,TP Hồ Chí Minh,,
+171,Tổng Công ty Cảng hàng không Việt Nam,,"Tòa nhà Tổng công ty Cảng hàng không Việt Nam, 58 Trường Sơn - Phường 2 - Quận Tân Bình - TP. Hồ Chí Minh",0311638525,TP Hồ Chí Minh,ACV,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ACV
+172,Công Ty TNHH Schindler Việt Nam,,"Lầu 8, Tòa nhà President Place 93 đường Nguyễn Du, P. Bến Nghé Q.1, Tp. Hồ Chí Minh",0300798220,TP Hồ Chí Minh,,
+173,Công ty Cổ phần Công Nghệ - Viễn Thông Sài Gòn,,Lô 46 Công viên phần mềm Quang Trung-Phường Tân Chánh Hiệp-Quận 12-TP. Hồ Chí Minh,0302615063,TP Hồ Chí Minh,SGT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SGT
+174,"Ngân Hàng Citibank, N.a., Chi Nhánh Thành Phố Hồ Chí Minh",,"Sunwah Building, 115 Đ. Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",0312443416,TP Hồ Chí Minh,,
+175,NGÂN HÀNG TMCP VIỆT NAM THƯƠNG TÍN (VIETBANK),,"62A Cách Mạng Tháng Tám, Phường 6, Quận 3, TP.Hồ Chí Minh",2200269805,TP Hồ Chí Minh,VBB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VBB
+176,CÔNG TY CP MONDELEZ KINH ĐÔ VN,,138-142 Hai Bà Trưng - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,3700599641,TP Hồ Chí Minh,,
+177,CÔNG TY CP TẬP ĐOÀN MASAN,,"Tầng 8, Tòa nhà Central Plaza, 17 Lê Duẩn - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0303576603,TP Hồ Chí Minh,MSN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MSN
+178,NGÂN HÀNG TMCP SÀI GÒN,,"19 Đ. Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",0311449990,TP Hồ Chí Minh,SCB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SCB
+179,NGÂN HÀNG TMCP PHÁT TRIỂN TP. HỒ CHÍ MINH,,25Bis Nguyễn Thị Minh Khai - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,0300608092,TP Hồ Chí Minh,HDB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HDB
+180,NGÂN HÀNG TMCP PHƯƠNG ĐÔNG,,"45 Lê Duẩn, Quận 1, TP Hồ Chí Minh, Việt Nam",0300852005,TP Hồ Chí Minh,OCB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=OCB
+181,CÔNG TY CỔ PHẦN TẬP ĐOÀN NOVA,,65 Nguyễn Du - Bến Nghé - Quận 1 – TP Hồ Chí Minh,0301447257,TP Hồ Chí Minh,,
+182,NGÂN HÀNG TMCP SÀI GÒN CÔNG THƯƠNG,,"19-21-23-25 đường Nguyễn Huệ, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",0300610408,TP Hồ Chí Minh,SGB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SGB
+183,LIÊN HIỆP HỢP TÁC XÃ THƯƠNG MẠI TP. HỒ CHÍ MINH (CO.OP MART),,"199-205 Nguyễn Thái Học, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh",0301175691,TP Hồ Chí Minh,,
+184,TỔNG CÔNG TY PHÂN BÓN VÀ HÓA CHẤT DẦU KHÍ - CTCP,,Lầu 7 - Tòa nhà PVFCCo - Số 43 Mạc Đĩnh Chi - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0303165480,TP Hồ Chí Minh,DPM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DPM
+185,NGÂN HÀNG TNHH MTV SHINHAN VIỆT NAM,,"43 Mạc Đĩnh Chi, Phường Đa Kao, Quân 1, Thành phố Hồ Chí Minh'",0309103635,TP Hồ Chí Minh,,
+186,Công ty TNHH Cơ Khí Thương Mại và Dịch vụ Đại Hữu,,"32/4F Quang Trung, Phường 8, Quận Gò Vấp, Thành phố Hồ Chí Minh",0311377489,TP Hồ Chí Minh,,
+187,Công ty CP Công Nghệ Tiên Phát (TPCom),,"26A đường 4F, P tân Thuận Tây, Quận 7, Tp Hồ Chí Minh",0311887923,TP Hồ Chí Minh,,
+188,Công ty TNHH Dịch vụ Chuỗi Cung Ứng DHL (Việt Nam),,"lầu 7, Tòa Nhà Etown 3, 364 Cộng Hòa, P13, Q.tân Bình, Tp.Hồ Chí Minh ",0302587881,TP Hồ Chí Minh,,
+189,Công Ty TNHH Chuyển Phát Nhanh DHL-VNPT,,"Số 6 đường Thăng Long, Phường 4, Quận Tân Bình, Tp. Hồ Chí Minh",0304680974,TP Hồ Chí Minh,,
+190,Công ty TNHH NIKE Việt Nam,,"Lầu 12 và 13, số 235 Đồng Khởi, tòa nhà Metropolitan, Quận 1, thành phố Hồ Chí Minh",0306579828,TP Hồ Chí Minh,,
+191,Công ty TNHH DTS Telecom (tên cũ Công Ty Cổ Phần Công Nghệ Truyền  Thông DTS - MST: 0303224270),,"287B Điện Biên Phủ, Phường 7, Quận 3, Tp Hồ Chí Minh",0316540932,TP Hồ Chí Minh,,
+192,Tổng Công ty Cổ phần Khoan và DV Khoan Dầu Khí,,"Lầu 4, Sailing Tower, 111A Pasteur, Q.1, TP.Hồ Chí Minh",0302495126,TP Hồ Chí Minh,PVD,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PVD
+193,Công Ty Cổ Phần Sáng Tạo Truyền Thông Việt Nam,,"Phòng 115, lầu 1, Saigon Trade Center, Số 37 Tôn Đức Thắng, Quận 1, Thành phố Hồ Chí Minh
+Tầng 4, tòa nhà IC,số 82 phố Duy Tân, phường Dịch Vọng Hậu, quận Cầu Giấy,Thành phố Hà Nội,Việt Nam",0101985579,TP Hồ Chí Minh,,
+194,CÔNG TY TNHH ĐẦU TƯ KINH DOANH HẠ TẦNG SCTV,,"32 Đường số 5, Khu dân cư Him Lam, phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0313627046,TP Hồ Chí Minh,,
+195,Công ty TNHH MTV Dịch vụ Mặt Đất Sân bay Việt Nam (VIAGS),,"Hồ Chí Minh Số 49, Đường Trường Sơn, Phường 2, Quận tân Bình, Hồ Chí Minh. ĐC Giao Dịch: Lầu 5, Tòa nhà Tổng Công ty HKVN-CTCP, Sân bay Quốc tế Tân Sơn Nhất, P2, Quận Tân BÌnh, TP Hồ Chí Minh",0313587386,TP Hồ Chí Minh,,
+196,Công Ty Cổ Phần Thương Mại Dịch Vụ Viễn Thông RVC (tên cũ Rồng Việt),,"Lầu 8, Tòa nhà CMARD2, số 45 Đinh Tiên Hoàng, P Bến Nghé, Quận 1, Tp Hồ Chí Minih",0313028740,TP Hồ Chí Minh,,
+197,Công Ty TNHH MTV Địa Vật Lý Giếng Khoan Dầu KHí,,"HC Tầng 10, Sailing Tower, 111A Pasteur,Quận 1, Tp Hồ Chí Minh",0305148138,TP Hồ Chí Minh,,
+198,Công Ty TNHH Dịch Vụ EB,," 163 Phan Đăng Lưu, P1, Quận Phú Nhuận, thành phố Hồ Chí Minh",0105696842,TP Hồ Chí Minh,,
+199,Công Ty TNHH Một Thành Viên Nguyễn Kim,,"63-65 Trần Hưng Đạo, Phường Cầu Ông Lãnh, Quận 1, Thành phố Hồ Chí Minh",0302286281,TP Hồ Chí Minh,,
+200,Công Ty TNHH CJ CGV Việt Nam,,"Hồ Chí Minh Lầu 10-11, Số 2 Bis 4-6, đường lê Thánh Tôn, Phường Bến Nghé, Quận 1, Tp Hồ Chí Minh",0303675393,TP Hồ Chí Minh,,
+201,Công Ty Liên Doanh TNHH Nippon Express Việt Nam,,"364 Cộng Hòa, P.13, Q.Tân Bình, TP.Hồ Chí Minh",0302065148,TP Hồ Chí Minh,,
+202,Công Ty TNHH DKSH Việt Nam,,"23 Đại lộ Độc Lập, Khu công nghiệp Việt Nam - Singapore, Phường Bình Hòa, Thị xã Thuận An, Bình Dương",3700303206,Bình Dương,,
+203,Công ty TNHH Formosa Taffeta Đồng Nai,,"Ấp 1, xã Nhựt Chánh, Huyện Bến Lức, Long An",1100102744,Long An,,
+204,Công Ty TNHH MTV Dịch Vụ Kỹ Thuật Truyền Thông HTV (HTV-TMS ),,"9 Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, Tp Hồ Chí Minh",0311899774,TP Hồ Chí Minh,,
+205,Công Ty TNHH L.C.S,,"102A Bùi Minh Trực, P6, Quận 8, Tp Hồ Chí Minh",0302999571,TP Hồ Chí Minh,,
+206,Công Ty Cổ Phần Phần Mềm Viễn Thông Miền Nam,,136/12 Vườn Chuối - Phường 04 - Quận 3 - TP Hồ Chí Minh,0304006187,TP Hồ Chí Minh,,
+207,CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ HOÀN HẢO,,"Lầu 3, FBA Tower, số 487-489 Điện Biên Phủ, Phường 3, Quận 3, Tp Hồ Chí Minh",0309541413,TP Hồ Chí Minh,,
+208,Công Ty Cổ phần Dịch Vụ Dữ Liệu Công Nghệ Thông Tin Vina,,"Tòa nhà Helios, Lô 6, đường 03, CV Quang Trung, Q.12, Tp Hồ Chí Minh",0304851362,TP Hồ Chí Minh,,
+209,Công ty Cổ Phần Phát triển Công nghệ Viễn Thông Tin Học Sun Việt (SUNVIET),,"2A Phan Thúc Duyện, Phường 4, Quận Tân BÌnh, Tp Hồ Chí Minh",0302246183,TP Hồ Chí Minh,,
+210,Công ty Cổ phần Dịch vụ Bưu Chính Viễn Thông Sài Gòn,,"90 Đường số 8, khu dân cư Trung Sơn, xã Bình HƯng, Huyện BÌnh Chánh, Tp Hồ CHí Minh",0300849034,TP Hồ Chí Minh,,
+211,Công ty TNHH Dịch vụ Viễn thông MK,,"128/12 đường Hùng Vương, phường 2, Quận 10, Tp Hồ Chí Minh",0311821231,TP Hồ Chí Minh,,
+212,Công ty TNHH Một thành viên SAIGONTEL,," Lô 46, Công viên phần mềm Quang Trung phường Tân Chánh Hiệp, Quận 12, TP.Hồ Chí Minh.",0106684254,Hà Nội,,
+213,Công ty TNHH phục vụ Hàng Không và Thương mại Việt Nam,,"Phòng 3, 4 Lầu 11, 65 lê Lợi, P bến Nghé, Quận 1, Tp Hồ Chí Minh",0302137353,TP Hồ Chí Minh,,
+214,Công Ty TNHH Techdata Vina (Tên cũ Công ty Cổ phần TECHDATA Toàn  - MST: '0303707084),,"Số 14 Nguyễn Thị Thập, Khu Him Lam, Phường Tân Hưng, Quận 7, Tp.Hồ Chí Minh",0304258346,TP Hồ Chí Minh,,
+215,Công Ty TNHH Manulife (Việt Nam ),,"75 Hoàng Văn Thái, P tân Phúm Quận 7, TP Hồ Chí Minh",0301774984,TP Hồ Chí Minh,,
+216,Công Ty TNHH MTV Chứng Khoán Ngân Hàng Đông Á,,"Tầng 2 và tầng 3, Tòa nhà 468 Nguyễn Thị Minh Khai, Phường 2, Quận 3, Tp.Hồ Chí Minh",0302941973,TP Hồ Chí Minh,,
+217,Chi cục Công nghệ Thông tin tại TP Hồ Chí Minh - Ngân hàng Nhà Nước Việt Nam,,"08 Võ Văn Kiệt, Quận 1, Tp Hồ Chí Minh",0306274897,TP Hồ Chí Minh,,
+218,Công Ty TNHH Nestle Việt Nam,,"Số 7, đường 17A, KCN Biên hòa 2, Phường Long Bình, Tp biên hòa, ĐỒng Nai
+Tầng  1, Số 41 Nguyễn Thị Minh Khai, Quận 1, Thành phố Hồ Chí Minh",3600235305,TP Hồ Chí Minh,,
+219,Công Ty Cổ Phần Hỗ Trợ Dịch Vụ Thanh Toán Việt Phú,,"104 Mai Thị Lựu, P Đa Kao, Quận 1, Tp Hồ Chí Minh ",0305133050,TP Hồ Chí Minh,,
+220,Công Ty Cổ Phần Trung Tâm Thương Mại Lotte Việt Nam,,"Số 469,Đường Nguyễn Hữu Thọ, P tân Hưng Quận 7, Tp Hồ Chí Minh ",0304741634,TP Hồ Chí Minh,,
+221,Công Ty Cổ phần Phân Phối MOET HENNESSY Việt Nam,,"Hồ Chí Minh lầu 4, Tòa nhà Opera View, 161 ĐỒng Khởi, Quận 1, Hồ Chí Minh",0309932537,TP Hồ Chí Minh,,
+222,CÔNG TY CP TẬP ĐOÀN LỘC TRỜI,,23 Hà Hoàng Hổ - Phường Mỹ Xuyên - TP. Long Xuyên - Tỉnh An Giang,1600192619,An Giang,LTG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=LTG
+223,CÔNG TY CP LEC GROUP,,"Đường Số 4, Khu công nghiệp Phú Mỹ 1 - Phường Phú Mỹ - Thị xã Phú Mỹ - Tỉnh Bà Rịa-Vũng Tàu",3502380495,Bà Rịa - Vũng Tàu,,
+224,CÔNG TY TNHH BACONCO,,KCN Phú Mỹ 1-Thị trấn Phú Mỹ-Huyện Tân Thành-Tỉnh Bà Rịa-Vũng Tàu,3500101065,Bà Rịa - Vũng Tàu,,
+225,CÔNG TY TNHH LIÊN DOANH ỐNG THÉP SENDO,,"Đường 1A, Khu công nghiệp Phú Mỹ I - Phường Phú Mỹ - Thị Xã Phú Mỹ - Tỉnh Bà Rịa-Vũng Tàu",3502280821,Bà Rịa - Vũng Tàu,,
+226,CÔNG TY TNHH MTV DỊCH VỤ CƠ KHÍ HÀNG HẢI PTSC,,Số 31 Đường 30/4 - Phường 9 - TP. Vũng Tàu - Tỉnh Bà Rịa - Vũng Tàu,3500790168,Bà Rịa - Vũng Tàu,,
+227,LIÊN DOANH VIỆT - NGA VIETSOVPETRO,,105 Lê Lợi - Phường Thắng nhì - TP. Vũng Tàu - Tỉnh Bà Rịa Vũng Tàu,3500102414,Bà Rịa - Vũng Tàu,,
+228,TỔNG CÔNG TY CP ĐẦU TƯ PHÁT TRIỂN XÂY DỰNG,,265 Lê Hồng Phong - Phường 8 - TP. Vũng Tàu - Tỉnh Bà Rịa - Vũng Tàu,3500101107,Bà Rịa - Vũng Tàu,DIG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DIG
+229,CÔNG TY CP DẦU KHÍ THÁI DƯƠNG,,Lô D1 KCN Đình Trám-Xã Hoàng Ninh-Huyện Việt Yên-Tỉnh Bắc Giang,2400345718,Bắc Giang,TDG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TDG
+230,CÔNG TY CP HANACANS,,Khu công nghiệp HANAKA - Phường Đồng Nguyên - TP. Từ Sơn - Tỉnh Bắc Ninh,2300372796,Bắc Ninh,,
+231,CÔNG TY CP TẬP ĐOÀN DABACO VIỆT NAM,,35 Đường Lý Thái Tổ - TP. Bắc Ninh - Tỉnh Bắc Ninh,2300105790,Bắc Ninh,DBC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DBC
+232,CÔNG TY CP TẬP ĐOÀN TONMAT,,"Đường TS5 - KCN Tiên Sơn, xã Hoàn Sơn, huyện Tiên Du, tỉnh Bắc Ninh",2300238060,Bắc Ninh,,
+233,CÔNG TY CP TIẾN HƯNG,,KCN Tiên Sơn - Xã Hoàn Sơn - Huyện Tiên Du - Tỉnh Bắc Ninh,2300223949,Bắc Ninh,,
+234,CÔNG TY CP ĐÔNG HẢI BẾN TRE,,"Lô AIII, KCN Giao Long - Xã An Phước - Huyện Châu Thành - Tỉnh Bến Tre",1300358260,Bến Tre,DHC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DHC
+235,CÔNG TY TNHH CHẾ BIẾN DỪA LƯƠNG QUỚI,,"Lô A36, A37 KCN An Hiệp - Xã An Hiệp - Huyện Châu Thành - Tỉnh Bến Tre",1300230895,Bến Tre,,
+236,CÔNG TY CP PHÚ TÀI,,278 Nguyễn Thị Định - Phường Nguyễn Văn Cừ - TP. Quy Nhơn - Tỉnh Bình Định,4100259236,Bình Định,PTB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PTB
+237,BMB STEEL,,"Thửa đất số 214, Tờ bản đồ số 22, Khu phố Long Bình - Phường Khánh Bình - Thị xã Tân Uyên - Bình Dương",3700778489,Bình Dương,,
+238,CÔNG TY CP BÊ TÔNG LY TÂM THỦ ĐỨC 1,,234 Đường Đt 747 ấp Tân Lương-Xã Thạnh Phước-Huyện Tân Uyên-Tỉnh Bình Dương,3700912751,Bình Dương,,
+239,CÔNG TY CP CAO SU PHƯỚC HÒA,,Xã Phước Hoà - Huyện Phú Giáo - Tỉnh Bình Dương,3700147532,Bình Dương,PHR,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PHR
+240,CÔNG TY CP CÔNG NGHIỆP ĐÔNG HƯNG,,Lô 3.2 - Đường số 2 - KCN Tân Đông Hiệp A - Phường Tân Đông Hiệp - Thị xã Dĩ An - Tỉnh Bình Dương,3700820571,Bình Dương,,
+241,CÔNG TY CP ĐẦU TƯ THÁI BÌNH,,Số 5a - Xa Lộ Xuyên á - Xã An Bình - Huyện Dĩ An - Tỉnh Bình Dương,3700148737,Bình Dương,,
+242,CÔNG TY CP GỖ AN CƯỜNG,,"Thửa đất 681, Tờ bản đồ 05, Đường ĐT 747B, Khu phố Phước Hải, Phường Thái Hoà, Thị xã Tân Uyên, Tỉnh Bình Dương",3700748131,Bình Dương,ACG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ACG
+243,CÔNG TY CP KHOÁNG SẢN VÀ XÂY DỰNG BÌNH DƯƠNG,,Đại lộ Bình Dương - Khu phố Hòa Lân I - Phường Thuận Giao - TP. Thuận An - Tỉnh Bình Dương,3700148825,Bình Dương,KSB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=KSB
+244,CÔNG TY CP NHỰA BẢO VÂN,,99/2 Khu Phố Bình Đáng - Phường Bình Hòa - Huyện Thuận An - Tỉnh Bình Dương,3700257662,Bình Dương,,
+245,CÔNG TY CP NƯỚC - MÔI TRƯỜNG BÌNH DƯƠNG,,11 Ngô Văn Trị-Phường Phú Lợi-TP. Thủ Dầu Một-Tỉnh Bình Dương,3700145694,Bình Dương,BWE,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BWE
+246,CÔNG TY CP PHÁT TRIỂN HẠ TẦNG KỸ THUẬT,,"Tầng 15, Becamex Tower, 230 Đại lộ Bình Dương - Phường Phú Hòa - TP. Thủ Dầu Một - Tỉnh Bình Dương",3700805566,Bình Dương,IJC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=IJC
+247,CÔNG TY CP THÉP NAM KIM,,"Lô A1, Đường Đ2, KCN Đồng An 2 - Phường Hòa Phú - TP. Thủ Dầu Một - Tỉnh Bình Dương",3700477019,Bình Dương,NKG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NKG
+248,CÔNG TY CP THỰC PHẨM Á CHÂU,,"Số 9/2, đường ĐT 743, Khu phố 1B - Phường An Phú - Thị xã Thuận An - Tỉnh Bình Dương",3700150020,Bình Dương,,
+249,CÔNG TY CP TÔN ĐÔNG Á,,"Số 5, Đường số 5 - KCN Sóng Thần 1 - Thị xã Dĩ An - Huyện Dĩ An - Tỉnh Bình Dương",3700255880,Bình Dương,,
+250,CÔNG TY TNHH FRIESLANDCAMPINA VIỆT NAM,,Khu phố Bình Đức 1 - Phường Bình Hòa - Thị xã Thuận An - Tỉnh Bình Dương,3700229344,Bình Dương,,
+251,CÔNG TY TNHH KIMBERLY CLARK VIỆT NAM,,36 Đại Lộ Hữu Nghị Visip 1 - Xã Bình Hòa - Huyện Thuận An - Tỉnh Bình Dương,0100114522,Bình Dương,,
+252,CÔNG TY TNHH LIÊN DOANH SẢN XUẤT ÔTÔ NGÔI SAO,,Xã An Binh - Huyện Dĩ An - Tỉnh Bình Dương,3700229030,Bình Dương,,
+253,CÔNG TY TNHH THỨC ĂN GIA SÚC LÁI THIÊU,,48B Khu phố Hòa Long - Phường Lái Thiêu - Thị xã Thuận An - Tỉnh Bình Dương,3700149709,Bình Dương,,
+254,CÔNG TY TNHH THỰC PHẨM ORION VINA,,Lô E-13-CN Đường NA3 - KCN Mỹ Phước 2 - Phường Mỹ Phước - Thị xã Bến Cát - Tỉnh Bình Dương,3700667933,Bình Dương,,
+255,CÔNG TY TNHH UNI-PRESIDENT VIỆT NAM,,"Số 16-18-20, Đường ĐT 743, KCN Sóng Thần 2 - Thị trấn Dĩ An - Huyện Dĩ An - Tỉnh Bình Dương",3700306630,Bình Dương,,
+256,CÔNG TY TNHH URC VIỆT NAM,,"Số 42 VSIP, Đại Lộ Tự Do, KCN Việt Nam-Singapore - Phường An Phú - Thị xã Thuận An  - Tỉnh Bình Dương",3700549827,Bình Dương,,
+257,TỔNG CÔNG TY ĐẦU TƯ VÀ PHÁT TRIỂN CÔNG NGHIỆP - CTCP,,Số 8 Hùng Vương - Phường Hòa Phú - TP. Thủ Dầu Một - Tỉnh Bình Dương,3700145020,Bình Dương,BCM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BCM
+258,TỔNG CÔNG TY THƯƠNG MẠI XUẤT NHẬP KHẨU THANH LỄ - CTCP,,Số 63 Đường Yersin - Phường Hiệp Thành - TP. Thủ Dầu Một - Tỉnh Bình Dương,3700146458,Bình Dương,TLP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TLP
+259,CÔNG TY CP TẬP ĐOÀN THỦY SẢN MINH PHÚ,,KCN Phường 8 - Phường 8 - TP. Cà Mau - Tỉnh Cà Mau,2000393273,Cà Mau,MPC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MPC
+260,CÔNG TY CP GENTRACO,,121 Nguyễn Thái Học - Phường Thốt Nốt - Quận Thốt Nốt - TP. Cần Thơ,1800241743,Cần Thơ,,
+261,CÔNG TY CP SADICO CẦN THƠ,,366E Cách Mạng Tháng 8 - Phường Bùi Hữu Nghĩa - Quận Bình Thuỷ - TP. Cần Thơ,1800155452,Cần Thơ,SDG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SDG
+262,CÔNG TY CP VẬT TƯ HẬU GIANG,,184 Trần Hưng Đạo - Phường An Nghiệp - Quận Ninh Kiều - TP. Cần Thơ,1800506679,Cần Thơ,HAM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HAM
+263,CÔNG TY TNHH NHÀ NƯỚC MTV XỔ SỐ KIẾN THIẾT CẦN THƠ,,29 Cách Mạng Tháng Tám - Phường Thới Bình - Quận Ninh Kiều - TP. Cần Thơ,1800157562,Cần Thơ,,
+264,CÔNG TY CP ĐẦU TƯ HẠ TẦNG GIAO THÔNG ĐÈO CẢ,,27 Bùi Chát - Phường Hòa Khánh Bắc - Quận Liên Chiểu - TP. Đà Nẵng,0400101965,Đà Nẵng,HHV,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HHV
+265,CÔNG TY CP ĐẦU TƯ VÀ KINH DOANH THÉP NHÂN LUẬT,,Quốc lộ 1A-Xã Hòa Châu-Huyện Hòa Vang-TP. Đà Nẵng,0400102616,Đà Nẵng,,
+266,CÔNG TY CP KỸ THUẬT XÂY DỰNG DINCO,,76-78 Bạch Đằng - Phường Hải Châu I - Quận Hải Châu - TP. Đà Nẵng,0400461301,Đà Nẵng,,
+267,CÔNG TY CP THÉP ASEAN,,Khu công nghiệp Hoà Phú - Xã Hòa Phú - TP. Buôn Ma Thuột - Tỉnh Đắk Lắk,6000746180,Đắk Lắk,,
+268,CÔNG TY TNHH MTV XUẤT NHẬP KHẨU 2/9 ĐẮK LẮK,,23 Ngô Quyền - Phường Thắng Lợi - TP. Buôn Ma Thuột - Tỉnh Đắk Lắk,6000234538,Đắk Lắk,,
+269,CÔNG TY TNHH OLAM VIỆT NAM,,Đường Lê Duẩn - Phường Nghĩa Tân - Thị Xã Gia Nghĩa - Tỉnh Đăk Nông,6000346337,Đắk Nông,,
+270,CÔNG TY CỔ PHẦN MẠC TÍCH,,"Đường số 2, KCN Nhơn Trạch III, Giai đoạn 2 - Xã Long Thọ - Huyện Nhơn Trạch - Tỉnh Đồng Nai",0301096513,Đồng Nai,,
+271,CÔNG TY CP DỆT RENZE,,"KCN Nhơn Trạch 5, Thị trấn Hiệp Phước - Huyện Nhơn Trạch - Tỉnh Đồng Nai.",3600852146,Đồng Nai,,
+272,CÔNG TY CP DINH DƯỠNG NÔNG NGHIỆP QUỐC TẾ,,Lô A4 KCN Sông Mây-Xã Bắc Sơn-Huyện Trảng Bom-Tỉnh Đồng Nai,3600618918,Đồng Nai,,
+273,CÔNG TY CP GẠCH MEN V.T.C,,Lô 9 Khu Công Nghiệp Gò Dầu - Xã Phước Thái - Huyện Long Thành - Tỉnh Đồng Nai,3600723398,Đồng Nai,,
+274,CÔNG TY CP HỮU HẠN VEDAN VIỆT NAM,,"Quốc lộ 51, Ấp 1A - Xã Phước Thái - Huyện Long Thành - Tỉnh Đồng Nai",3600239719,Đồng Nai,,
+275,CÔNG TY CP TẬP ĐOÀN THÉP TIẾN LÊN,,G1A - KP4 - Đường Đồng Khởi - Phường Tân Hiệp - TP. Biên Hòa - Tỉnh Đồng Nai,3600512830,Đồng Nai,TLH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TLH
+276,CÔNG TY CP THƯƠNG MẠI DỊCH VỤ DẦU KHÍ HẢI PHÁT,,"Số 26E, Khu phố 1 - Phường Quang Vinh - TP. Biên Hoà - Tỉnh Đồng Nai",3603262480,Đồng Nai,,
+277,CÔNG TY CP TỔNG CÔNG TY MAY ĐỒNG NAI,,Đường số 2 KCN Biên Hòa 1 - Phường An Bình - TP. Biên Hòa - Tỉnh Đồng Nai,3600506058,Đồng Nai,,
+278,CÔNG TY CP TỔNG CÔNG TY TÍN NGHĨA,,96 Hà Huy Giáp - Phường Quyết Thắng - TP. Biên Hòa - Tỉnh Đồng Nai,3600283394,Đồng Nai,TID,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TID
+279,CÔNG TY CP TRUNG ĐÔNG,,Cụm Công Nghiệp Tam Phước 1 - Phường Tam Phước - TP. Biên Hòa - Tỉnh Đồng Nai,3600669165,Đồng Nai,,
+280,CÔNG TY CP VIỆT - PHÁP SẢN XUẤT THỨC ĂN GIA SÚC (PROCONCO),,Đường số 9 - KCN Biên Hòa 1 - Phường An Bình - TP. Biên Hòa - Tỉnh Đồng Nai,3600234534,Đồng Nai,,
+281,CÔNG TY CP XĂNG DẦU TÍN NGHĨA,,"95A đường Cách mạng Tháng 8, Phường Quyết Thắng, thành phố Biên Hòa, tỉnh Đồng Nai, Việt Nam",3601038204,Đồng Nai,,
+282,CÔNG TY TNHH DINH DƯỠNG Á CHÂU (VN),,KCN Sông Mây - Xã Bắc Sơn - Huyện Trảng Bom - Tỉnh Đồng Nai,3600233805,Đồng Nai,,
+283,CÔNG TY TNHH GROBEST INDUSTRIAL (VIỆT NAM),,Số 9 Đường 3 A - Phường Long Bình - TP. Biên Hòa - Tỉnh Đồng Nai,3600456424,Đồng Nai,,
+284,CÔNG TY TNHH HOÀNG ĐẠI VƯƠNG,,"Đường D2, Cụm Công Nghiệp Hố Nai 3 - Xã Hố Nai 3 - Huyện Trảng Bom - Tỉnh Đồng Nai",3600697236,Đồng Nai,,
+285,CÔNG TY TNHH NHỰA VÀ HÓA CHẤT TPC VINA,,KCN Gò Dầu - Huyện Long Thành - Tỉnh Đồng Nai,3600248368,Đồng Nai,,
+286,CÔNG TY TNHH VINA,,Số 64 Quốc lộ 51 - Xã Phước Tân - TP. Biên Hòa - Tỉnh Đồng Nai,3600364780,Đồng Nai,,
+287,CÔNG TY TNHH XUẤT NHẬP KHẨU VI NA ĐẠI VIỆT,,"Số 292, Đường Võ Thị Sáu, KP 7 - Phường Thống Nhất - TP. Biên Hoà - Tỉnh Đồng Nai",3602576702,Đồng Nai,,
+288,CÔNG TY TÔN PHƯƠNG NAM,,Đường Số 9 - KCN Biên Hòa 1 - Phường An Bình - TP. Biên Hòa - Tỉnh Đồng Nai,3600236891,Đồng Nai,,
+289,TỔNG CÔNG TY CP PHÁT TRIỂN KHU CÔNG NGHIỆP,,"Số 1, Đường 1, KCN Biên Hoà 1 - Phường An Bình - TP. Biên Hòa - Tỉnh Đồng Nai",3600335363,Đồng Nai,SNZ,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SNZ
+290,Công ty Cổ phần DNP Holding,,Đường 9 KCN Nhơn Trạch 1-Phường An Bình-TP. Biên Hòa-Tỉnh Đồng Nai,3600662561,Đồng Nai,DNP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DNP
+291,CÔNG TY CP ĐẦU TƯ DU LỊCH VÀ PHÁT TRIỂN THỦY SẢN,,Quốc lộ 80 Cụm CN Vàm Cống-An Thạnh-Xã Bình Thành-Huyện Lấp Vò-Tỉnh Đồng Tháp,1600895650,Đồng Tháp,,
+292,CÔNG TY CP VĨNH HOÀN,,Quốc Lộ 30 - Phường 11 - TP. Cao Lãnh - Tỉnh Đồng Tháp,1400112623,Đồng Tháp,VHC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VHC
+293,CÔNG TY TNHH CỎ MAY LAI VUNG,,"Lô 18-19, khu công nghiệp Sông Hậu - Xã Tân Thành - Huyện Lai Vung - Tỉnh Đồng Tháp",1401598685,Đồng Tháp,,
+294,CÔNG TY TNHH MTV THỨC ĂN THỦY SẢN MEKONG,,Ấp Tân Cường - Xã Phú Cường - Huyện Tam Nông - Tỉnh Đồng Tháp,1401934305,Đồng Tháp,,
+295,CÔNG TY TNHH PHÁT TÀI,,Số 69 Quốc lộ 80 - Ấp Bình Phú Quới - Thị trấn Lấp Vò - Huyện Lấp Vò - Tỉnh Đồng Tháp,1400105785,Đồng Tháp,,
+296,CÔNG TY TNHH SAO MAI SUPER FEED,,"Cụm Công nghiệp Vàm Cống, Ấp An Thạnh - Xã Bình Thành - Huyện Lấp Vò - Tỉnh Đồng Tháp",1401976866,Đồng Tháp,,
+297,CÔNG TY TNHH THƯƠNG MẠI-DỊCH VỤ-XUẤT NHẬP KHẨU TƯỜNG NGUYÊN,,"Số 138, Quốc lộ 30, khóm An Thạnh A - Phường An Lộc - TP. Hồng Ngự - Tỉnh Đồng Tháp",1400683063,Đồng Tháp,,
+298,CÔNG TY TNHH LOUIS DREYFUS COMMODITIES VIỆT NAM,,Lô A11 - KCN Trà Đa - Xã Trà Đa - TP. Pleiku - Tỉnh Gia Lai,5900424466,Gia Lai,,
+299,CÔNG TY TNHH VĨNH HIỆP,,"404 Lê Duẩn, phường Thắng Lợi, TP Pleiku, tỉnh Gia Lai, Việt Nam",5900315114,Gia Lai,,
+300,CÔNG TY CP DINH DƯỠNG HỒNG HÀ,,KCN Đồng Văn - Phường Đồng Văn - Thị xã Duy Tiên - Tỉnh Hà Nam,0700220547,Hà Nam,,
+301,CÔNG TY CP NHỰA CHÂU ÂU,,Khu Công nghiệp Đồng Văn - Phường Đồng Văn - Thị Xã Duy Tiên - Tỉnh Hà Nam,0700253609,Hà Nam,,
+302,CÔNG TY CP XI MĂNG XUÂN THÀNH,,Thôn Bồng Lạng - Xã Thanh Nghị - Huyện Thanh Liêm - Tỉnh Hà Nam,0700576529,Hà Nam,,
+303,CÔNG TY CỔ PHẦN ĐẦU TƯ CÔNG NGHỆ HACOM,,129 + 131 Lê Thanh Nghị - Phường Đồng Tâm - Quận Hai Bà Trưng - TP. Hà Nội,0101161194,Hà Nội,,
+304,CÔNG TY CỔ PHẦN ĐẦU TƯ EVERLAND,,"Tầng 3, Tòa nhà 97-99 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",0104228175,Hà Nội,EVG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=EVG
+305,CÔNG TY CP BAO BÌ VÀ IN NÔNG NGHIỆP,,Số 72 Trường Chinh - Phường Phương Mai - Quận Đống Đa - TP. Hà Nội,0101508664,Hà Nội,INN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=INN
+306,CÔNG TY CP BẤT ĐỘNG SẢN THẾ KỶ,,"Tầng 1, Số 137 Nguyễn Ngọc Vũ - Phường Trung Hòa - Quận Cầu Giấy - TP. Hà Nội",0101160306,Hà Nội,CRE,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CRE
+307,CÔNG TY CP BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG,,87-89 Hạ Đình - Phường Thanh Xuân Trung - Quận Thanh Xuân - TP. Hà Nội,0101526991,Hà Nội,RAL,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=RAL
+308,CÔNG TY CP CAO SU SAO VÀNG,,Số 231 Nguyễn Trãi - Phường Thượng Đình - Quận Thanh Xuân - TP. Hà Nội,0100100625,Hà Nội,SRC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SRC
+309,CÔNG TY CP CASPER VIỆT NAM,,"B12A-12B, Vinhomes Gardenia, đường Hàm Nghi - Phường Cầu Diễn - Quận Nam Từ Liêm - TP. Hà Nội",0107009894,Hà Nội,,
+310,CÔNG TY CP CHỨNG KHOÁN SÀI GÒN - HÀ NỘI,,"Tầng 1-5, Tòa nhà Unimex Hà Nội, Số 41 Ngô Quyền - Phường Hàng Bài - Quận Hoàn Kiếm - TP. Hà Nội",0102524651,Hà Nội,SHS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SHS
+311,CÔNG TY CP CHỨNG KHOÁN VPS,,65 Cảm Hội - Quận Hai Bà Trưng - TP. Hà Nội,0104979904,Hà Nội,,
+312,CÔNG TY CP CƠ ĐIỆN TRẦN PHÚ,,Số 41 Phố Phương Liệt - Phường Phương Liệt - Quận Thanh Xuân - TP. Hà Nội,0100106063,Hà Nội,,
+313,CÔNG TY CP CÔNG NGHỆ VÀ DỊCH VỤ IMEDIA,,"Tầng 18, Tòa nhà Peakview Tower, 36 Hoàng Cầu - Phường Ô Chợ Dừa - Quận Đống Đa - TP. Hà Nội",0105837941,Hà Nội,,
+314,CÔNG TY CP ĐẠI HỮU,,"( Xóm Đồng Văn Điển Tứ Hiệp Thanh Trì) Cụm Công Nghiệp Xã Quất Động Huyện Thường Tín, Thành Phố Hà Nội",0101206367,Hà Nội,,
+315,CÔNG TY CP ĐẦU TƯ & PHÁT TRIỂN CÔNG NGHỆ QUỐC GIA ADG,,"Số 42+44,Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",0102023052,Hà Nội,,
+316,CTCP Tập đoàn Giáo dục EGROUP,,"Tầng 2, nhà 25 T1, Lô đất N05, Khu đô thị Đông Nam đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",0102952657,Hà Nội,,
+317,CÔNG TY CP ĐẦU TƯ QUỐC TẾ VÀ XUẤT NHẬP KHẨU DHT,,"Tầng 05 tòa nhà Stellar Garden, Số 35 Lê Văn Thiêm, phường Thanh Xuân Trung, quận Thanh Xuân, Hà Nội",0102036100,Hà Nội,,
+318,CÔNG TY CP ĐẦU TƯ TỔNG HỢP HÀ NỘI,,"Tầng 9, Tòa nhà Peakview, 36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",0102287094,Hà Nội,SHN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SHN
+319,CÔNG TY CP ĐẦU TƯ VÀ XÂY DỰNG VINA2,,Tầng 2-4-Tòa nhà D1-Khu đô thị mới Kim Văn-Kim Lũ-Phường Đại Kim-Quận Hoàng Mai-TP. Hà Nội,0100105895,Hà Nội,VC2,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VC2
+320,CÔNG TY CP ĐẦU TƯ VÀ XÂY DỰNG XUÂN MAI,,Tầng 4-Tòa Tháp Xuân Mai-Đường Tô Hiệu-Phường Hà Cầu-Quận Hà Đông-TP. Hà Nội,0500443916,Hà Nội,XMC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=XMC
+321,CÔNG TY CP ĐẦU TƯ VĂN PHÚ - INVEST,,104 Thái Thịnh - Phường Trung Liệt - Quận Đống Đa - TP. Hà Nội,0102702590,Hà Nội,VPI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VPI
+322,Cty Cổ Phần Bê Tông Hà Thanh,,Lô I- A2 Đường 23b Xã Tiên Dương Huyện Đông Anh Thành Phố Hà Nội Việt Nam,0101093709,Hà Nội,,
+323,CÔNG TY CP ĐẦU TƯ XÂY DỰNG VÀ THƯƠNG MẠI QUỐC TẾ - ICT,,Lô 2 - 9A - KCN Quận Hoàng Mai - Phường Hoàng Văn Thụ - Quận Hoàng Mai - TP. Hà Nội,0100828742,Hà Nội,,
+324,"CÔNG TY CP ĐẦU TƯ, THƯƠNG MẠI VÀ DỊCH VỤ - VINACOMIN",,Số 1 Phan Đình Giót - Phường Phương Liệt - Quận Thanh Xuân - TP. Hà Nội,0200170658,Hà Nội,ITS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ITS
+325,CTCP Thiết bị điện GELEX,,"Số 52 phố Lê Đại Hành, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội, Việt Nam",0107547109,Hà Nội,GEE,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=GEE
+326,CÔNG TY CP DÂY VÀ CÁP ĐIỆN THƯỢNG ĐÌNH,,Ngõ 320 Khương Đình - Cụm 3 - Phường Hạ Đình - Quận Thanh Xuân - TP. Hà Nội,0100892628,Hà Nội,,
+327,CÔNG TY CP DỆT 10/10,,Số 9 Ngõ 253 Minh Khai - Phường Vĩnh Tuy - Quận Hai Bà Trưng - TP. Hà Nội,0100100590,Hà Nội,,
+328,CÔNG TY CP DƯỢC PHẨM ECO,,Số 180 Trường Chinh - Phường Khương Thượng - Quận Đống Đa - TP. Hà Nội,0102637020,Hà Nội,,
+329,CÔNG TY CP DƯỢC PHẨM HÀ TÂY,,Số 10A Quang Trung - Quận Hà Đông - TP. Hà Nội,0500391400,Hà Nội,DHT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DHT
+330,CÔNG TY CP DƯỢC PHẨM THIẾT BỊ Y TẾ HÀ NỘI,,2 Hàng Bài - Phường Tràng Tiền - Quận Hoàn Kiếm - TP. Hà Nội,0100109699,Hà Nội,,
+331,CÔNG TY CP ECOBA VIỆT NAM,,"Tầng 5, Tòa nhà Udic Complex, Đường Hoàng Đạo Thúy - Phường Trung Hoà - Quận Cầu Giấy - TP. Hà Nội",0104415496,Hà Nội,,
+332,CÔNG TY CP EUROWINDOW,,"(Lô Số 15 Khu Công Nghiệp Quang Minh, Thị Trấn Quang Minh, Huyện Mê Linh, Tp.Hà Nội, Việt Nam) Phía Sau Trung Tâm Thương Mại, Mê Linh Plaza, Thị Trấn Quang Minh, Huyện Mê Linh, Hà Nội",2500217526,Hà Nội,,
+333,CÔNG TY CP FECON,,"Tầng 15, Tháp CEO, Lô HH2-1, KĐT Mễ Trì Hạ - Đường Phạm Hùng - Phường Mễ Trì - Quận Nam Từ Liêm - TP. Hà Nội",0101502599,Hà Nội,FCN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=FCN
+334,CÔNG TY CP GIẢI PHÁP THANH TOÁN VIỆT NAM,,"Tầng 8, Số 22, Phố Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Thành Phố Hà Nội",0102182292,Hà Nội,,
+335,CÔNG TY CP GIAO HÀNG TIẾT KIỆM,,"Tòa nhà VTV, số 8 Phạm Hùng - Phường Mễ Trì - Quận Nam Từ Liêm - TP. Hà Nội",0106181807,Hà Nội,,
+336,CÔNG TY CP HÀNG KHÔNG VIETJET,,302/3 phố Kim Mã - Phường Ngọc Khánh - Quận Ba Đình - TP. Hà Nội,0102325399,Hà Nội,VJC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VJC
+337,Công Ty Cổ Phần Hawee Cơ Điện,,"Tòa nhà Hawee, Khu đấu giá D2 - Phố Vạn Phúc - Quận Hà Đông - TP. Hà Nội",0101466566,Hà Nội,,
+338,CÔNG TY CP HYUNDAI THÀNH CÔNG VIỆT NAM,,"Khu công nghiệp Gián Khẩu, Xã Gia Trấn, Huyện Gia Viễn, Tỉnh Ninh Bình, Việt Nam",2700668614,Hà Nội,,
+339,CÔNG TY CP KHÓA VIỆT - TIỆP,,"Tổ 47, Thị Trấn Đông Anh, Huyện Đông Anh, Hà Nội",0100100537,Hà Nội,,
+340,CÔNG TY CP KOSY,,"B6-BT5, Khu đô thị mới Mỹ Đình 2 - Phường Mỹ Đình 2 - Quận Nam Từ Liêm - TP. Hà Nội",0102681319,Hà Nội,KOS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=KOS
+341,CÔNG TY CP KỸ THUẬT SIGMA,,"Tầng 27, Tòa nhà HUD Tower, Số 37 Lê Văn Lương - Phường Nhân Chính - Quận Thanh Xuân - TP. Hà Nội",0101600518,Hà Nội,,
+342,CÔNG TY CP KỸ THƯƠNG THIÊN HOÀNG,,"Tầng 6, tòa Diamond Flower Tower, đường Lê Văn Lương - Phường Nhân Chính - Quận Thanh Xuân - TP. Hà Nội",0101272578,Hà Nội,,
+343,CÔNG TY CP LICOGI 13,,"Tòa nhà LICOGI 13, đường Khuất Duy Tiến, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",0100106426,Hà Nội,LIG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=LIG
+344,CÔNG TY CP MÁY TÍNH VĨNH XUÂN,,39 Trần Quốc Toản – Phường Trần Hưng Đạo – Quận Hoàn Kiếm – TP. Hà Nội,0100516045,Hà Nội,,
+345,CÔNG TY CP MEGRAM,,"Tầng 17 toà nhà 319 Bộ Quốc phòng, số 63 Lê Văn Lương, Quận Cầu Giấy, Hà Nội",0105284398,Hà Nội,,
+346,CÔNG TY CP MIZA,,Cụm công nghiệp vừa và nhỏ Nguyên Khê - Xã Nguyên Khê - Huyện Đông Anh - TP. Hà Nội,0105028958,Hà Nội,,
+347,CÔNG TY CP NHÔM ĐÔ THÀNH,,KCN Vừa Và Nhỏ Phú Thị - Xã Phú Thị - Huyện Gia Lâm - TP. Hà Nội,0100510501,Hà Nội,,
+348,CÔNG TY CP PI CO,,Số 229 phố Tây Sơn-Phường Ngã Tư Sở-Quận Đống Đa-TP. Hà Nội,0102018260,Hà Nội,,
+349,CÔNG TY CP PVI,,"Tòa Nhà Pvi, Lô Vp2, Phố Phạm Văn Bạch, Phường Yên Hoà, Quận Cầu Giấy, Thành Phố Hà Nội, Việt Nam",0100151161,Hà Nội,PVI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PVI
+350,CÔNG TY CP QUỐC TẾ SƠN HÀ,,Lô CN1 - Cụm công nghiệp Từ Liêm - Phường Minh Khai - Quận Bắc Từ Liêm - TP. Hà Nội,0100776445,Hà Nội,SHI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SHI
+351,CÔNG TY CP SẢN XUẤT VÀ THƯƠNG MẠI P.P,,"Số 101A Nguyễn Khuyến, Phường Văn Miếu, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",0101437981,Hà Nội,,
+352,CÔNG TY CP SAO THÁI DUONG,,"Lô CC1-III.13.4 thuộc dự án khu đô thị mới Pháp Vân - Tứ Hiệp, Phường Hoàng Liệt, Quận Hoàng Mai, Thành phố Hà Nội, Việt Nam",0101252356,Hà Nội,,
+353,CÔNG TY CP SCI,,"Tầng 3, Tháp C, Tòa Nhà Golden Palace - Đường Mễ Trì - Phường Mễ Trì - Quận Nam Từ Liêm - TP. Hà Nội",0101405355,Hà Nội,S99,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=S99
+354,CÔNG TY CP STAVIAN HÓA CHẤT,,"Tầng 4, Tòa Century Tower, KĐT, 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội",0104160054,Hà Nội,,
+355,CÔNG TY CP TẬP ĐOÀN AUSTDOOR,,"Số 37, Đường Lê Văn Thiêm, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",0101306139,Hà Nội,,
+356,CÔNG TY CP TẬP ĐOÀN C.E.O,,"Tầng 5, Tháp CEO, Lô HH2-1, Đường Phạm Hùng - Phường Mễ Trì - Quận Nam Từ Liêm - TP. Hà Nội",0101183550,Hà Nội,CEO,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CEO
+357,CÔNG TY CP TẬP ĐOÀN CIENCO4,,"Tầng 10-11 Tòa nhà ICON4, số 243A Đường Đê La Thành-Phường Láng Thượng-Quận Đống Đa-TP. Hà Nội",2900324850,Hà Nội,C4G,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=C4G
+358,CÔNG TY CP TẬP ĐOÀN CÔNG NGHỆ CMC,,Tòa nhà CMC - Số 11 Phố Duy Tân - Phường Dịch Vọng Hậu - Quận Cầu Giấy - TP. Hà Nội,0100244112,Hà Nội,CMG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CMG
+359,CÔNG TY CP TẬP ĐOÀN ĐẠI DƯƠNG,,"Số 4 Láng Hạ, Phường Thành Công, Quận Ba Đình, Thành phố Hà Nội, Việt Nam",0102278484,Hà Nội,OGC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=OGC
+360,CÔNG TY CP TẬP ĐOÀN ĐẠT PHƯƠNG,,"Tầng 15, Tòa nhà Handico, KĐT mới Mễ Trì Hạ - Đường Phạm Hùng - Phường Mễ Trì - Quận Nam Từ Liêm - TP. Hà Nội",0101218757,Hà Nội,DPG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DPG
+361,CÔNG TY CP TẬP ĐOÀN ĐIỆN LẠNH ĐIỆN MÁY VIỆT ÚC,,"Tầng 5, Tòa nhà Ocean Park, Số 1 Đào Duy Anh - Phường Phương Mai - Quận Đống Đa - TP. Hà Nội",0101360104,Hà Nội,,
+362,CÔNG TY CP TẬP ĐOÀN ĐUA FAT,,"Số 15, liền kề 10, khu đô thị Xa La - Phường Phúc La - Quận Hà Đông - Hà Nội",0104008162,Hà Nội,,
+363,CÔNG TY CP TẬP ĐOÀN F.I.T,,"Tầng 5, tòa Times Tower - HACC 1 Complex Building, số 35 đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",0102182140,Hà Nội,FIT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=FIT
+364,CÔNG TY CP TẬP ĐOÀN FLC,,"Tầng 5, Tòa nhà FLC Land Mark Tower Đường Lê Đức Thọ-Phường Mỹ Đình 2-Quận Nam Từ Liêm-TP. Hà Nội",0102683813,Hà Nội,FLC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=FLC
+365,CÔNG TY CP TẬP ĐOÀN GELEX,,GELEX Tower - 52 Lê Đại Hành - Phường Lê Đại Hành - Quận Hai Bà Trưng - TP. Hà Nội,0100100512,Hà Nội,GEX,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=GEX
+366,CÔNG TY CP TẬP ĐOÀN HÀ ĐÔ,,Số 8 Láng Hạ - Phường Thành Công - Quận Ba Đình - TP. Hà Nội,0100283802,Hà Nội,HDG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HDG
+367,CÔNG TY CP TẬP ĐOÀN IPC,,"Số 7b/331, Trần Khát Chân, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",0102055583,Hà Nội,,
+368,CÔNG TY CP TẬP ĐOÀN MAVIN,,"Thị tứ Bô Thời, Xã Hồng Tiến, Huyện Khoái Châu , Tỉnh Hưng Yên, Việt Nam",0900841823,Hà Nội,,
+369,CÔNG TY CP TẬP ĐOÀN NGỌC DIỆP,,118 Nguyễn Du - Quận Hai Bà Trưng - TP. Hà Nội,0901019782,Hà Nội,,
+370,CÔNG TY CP TẬP ĐOÀN NHỰA ĐÔNG Á,,"Lô 1-Cn5-Cụm Công Nghiệp Ngọc Hồi, Xã Ngọc Hồi, Huyện Thanh Trì, Thành Phố Hà Nội",0101099228,Hà Nội,DAG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DAG
+371,CÔNG TY CP TẬP ĐOÀN PAN,,"Lô A1-9, Đường Vl3, Kcn Vĩnh Lộc 2, Xã Long Hiệp, Huyện Bến Lức, Tỉnh Long An, Việt Nam",0301472704,Hà Nội,PAN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PAN
+372,CÔNG TY CP TẬP ĐOÀN PC1,,"Số 18 Lý Văn Phúc, Lý Văn Phúc, Phường Cát Linh, Quận Đống Đa, Hà Nội",0100100745,Hà Nội,PC1,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PC1
+373,CÔNG TY CP TẬP ĐOÀN PHƯỢNG HOÀNG XANH A&A,,Số 167 phố Hoàng Ngân - Phường Trung Hòa - Quận Cầu Giấy - TP. Hà Nội,0104961939,Hà Nội,,
+374,CÔNG TY CP TẬP ĐOÀN SUNHOUSE,,"Số 139, phố Nguyễn Thái Học, Phường Điện Biên, Quận Ba Đình, Thành phố Hà Nội, Việt Nam",0101976905,Hà Nội,,
+375,CÔNG TY CP TẬP ĐOÀN THÀNH CÔNG,,CN1 - KCN  Nguyên Khê - Xã Nguyên Khê - Huyện Đông Anh - TP. Hà Nội,0100831174,Hà Nội,,
+376,CÔNG TY CP TẬP ĐOÀN TOJI,,"LK34-Khu Đô thị Bắc Hà, Phường Mộ Lao, Quận Hà Đông, Thành phố Hà Nội, Việt Nam",0101261431,Hà Nội,,
+377,CÔNG TY CP TẬP ĐOÀN VÀNG BẠC ĐÁ QUÝ DOJI,,5 Lê Duẩn - Phường Điện Biên - Quận Ba Đình - TP. Hà Nội,0100365621,Hà Nội,,
+378,CÔNG TY CP THAIHOLDINGS,,Số 210 Đường Trần Quang Khải - Phường Tràng Tiền - Quận Hoàn Kiếm - TP. Hà Nội,0105202998,Hà Nội,THD,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=THD
+379,CÔNG TY CP THÉP VÀ VẬT TƯ XÂY DỰNG,,"Số 40, Ngõ 102, Đường Trường Chinh - Phường Phương Mai - Quận Đống Đa - TP. Hà Nội",0101967587,Hà Nội,,
+380,CÔNG TY CP THIẾT KẾ VÀ XÂY DỰNG GIZA VIỆT NAM,,"M Floor, Viglacera Building 671 Hoang Hoa Tham, Ba Dinh, Hanoi, Viet Nam.",0106300187,Hà Nội,,
+381,CÔNG TY CP THỰC PHẨM SỮA TH,,Xã Nghĩa Sơn - Huyện Nghĩa Đàn - TP. Hà Nội,0103414411,Hà Nội,,
+382,CÔNG TY CP THƯƠNG MẠI CITICOM,,"Tầng 24, tòa nhà ICON 4, số 243A Đê La Thành, Đống Đa, Hà Nội",0101370014,Hà Nội,,
+383,CÔNG TY CP THƯƠNG MẠI DỊCH VỤ CỔNG VÀNG,,"Tầng 6, Tòa nhà Toyota, 315 Trường Chinh - Quận Thanh Xuân - TP. Hà Nội",0102721191,Hà Nội,,
+384,CÔNG TY CP THƯƠNG MẠI HIỆP HƯƠNG,,"Số 3, Ngõ Viện Máy - Phường Mai Dịch - Quận Cầu Giấy - TP. Hà Nội",0100953567,Hà Nội,,
+385,CÔNG TY CP TRAPHACO,,75 Yên Ninh - Phường Quán Thánh - Quận Ba Đình - TP. Hà Nội,0100108656,Hà Nội,TRA,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TRA
+386,CÔNG TY CP TƯ VẤN VÀ XÂY DỰNG PHÚ XUÂN,,106 Ngõ Hoàng 6A - Đường Phạm Văn Đồng - Phường Cổ Nhuế 1 - Quận Bắc Từ Liêm - TP. Hà Nội,0101185572,Hà Nội,,
+387,CÔNG TY CP VẬN TẢI VÀ XẾP DỠ HẢI AN,,"Tầng 7, Số 45 Triệu Việt Vương - Phường Bùi Thị Xuân - Quận Hai Bà Trưng - TP. Hà Nội",0103818809,Hà Nội,HAH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HAH
+388,CÔNG TY CP VẬT TƯ NÔNG SẢN,,14 Ngô Tất Tố - Phường Văn Miếu - Quận Đống Đa - TP. Hà Nội,0100104066,Hà Nội,,
+389,Công Ty Cổ Phần Viễn Thông - Tin Học Bưu Điện,,158/2 Phố Hồng Mai - Phường Quỳnh Lôi - Quận Hai Bà Trưng - TP. Hà Nội,0100683374,Hà Nội,,
+390,CÔNG TY CP VINCOM RETAIL,,"Số 7, Đường Bằng Lăng 1 - KĐT Sinh Thái Vinhomes Riverside - Phường Việt Hưng - Quận Long Biên - TP. Hà Nội",0105850244,Hà Nội,VRE,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VRE
+391,CÔNG TY CP XÂY DỰNG CDC,,"LK 18-24, Galaxy 8, Khu nhà ở Ngân Hà Vạn Phúc, 69 Tố Hữu - Phường Vạn Phúc - Quận Hà Đông - TP. Hà Nội",0105283073,Hà Nội,,
+392,CÔNG TY CP XÂY DỰNG FLC FAROS,,Số 265 Cầu Giấy - Phường Dịch Vọng - Quận Cầu Giấy - TP. Hà Nội,0105167581,Hà Nội,ROS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ROS
+393,CÔNG TY CP XÂY DỰNG HỢP LỰC,,"B8, Lô BT04, Khu đô thị mới Việt Hưng - Đường Nguyễn Cao Luyện - Phường Giang Biên - Quận Long Biên - TP. Hà Nội",0103711478,Hà Nội,,
+394,CÔNG TY CP XÂY DỰNG PHỤC HƯNG HOLDINGS,,"Tầng 1, Tháp A, Tòa Nhà CT2 (The Light), Đường Tố Hữu - Phường Trung Văn - Quận Nam Từ Liêm - TP. Hà Nội",0101311315,Hà Nội,PHC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PHC
+395,CÔNG TY CP XÂY DỰNG SCG,,"Tầng 8, toà nhà Sunshine Center, 16 Phạm Hùng - Phường Mỹ Đình 2 - Quận Nam Từ Liêm - TP. Hà Nội",0108704763,Hà Nội,SCG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SCG
+396,CÔNG TY CP XÂY DỰNG VÀ CÔNG NGHIỆP NSN,,"Số 11, Ngõ 89 Phố Kim Quan Thượng - Phường Việt Hưng - Quận Long Biên - TP. Hà Nội",0101428070,Hà Nội,,
+397,CÔNG TY CP XNK MÁY VÀ PHỤ TÙNG,,558 Nguyễn Văn Cừ - Phường Gia Thụy - Quận Long Biên - TP. Hà Nội,0100107275,Hà Nội,,
+398,CÔNG TY CP XUẤT NHẬP KHẨU NHẤT THÀNH,,"Số 1 ngách 19, ngõ 85 phố Định Công Thượng - Phường Định Công - Quận Hoàng Mai - TP. Hà Nội",0106025519,Hà Nội,,
+399,CÔNG TY CP XUẤT NHẬP KHẨU THIÊN Á,,"Số 9, ngõ 850, đường Láng - Phường Láng Thượng - Quận Đống Đa - TP. Hà Nội",0101726782,Hà Nội,,
+400,CÔNG TY TÀI CHÍNH CỔ PHẦN TÍN VIỆT,,"Tầng 17, tòa nhà MIPEC TOWER, số 229 Tây Sơn - Phường Ngã Tư Sở - Quận Đống Đa - TP. Hà Nội",0102766770,Hà Nội,TIN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TIN
+401,Cty Tài Chính Cổ Phần Điện Lực,,"Tầng 14,15,16 Thấp B Tòa Nhà Evn Số 11 Cửa Bắc, Phường Trúc Bạch, Quận Ba Đình, Thành Phố Hà Nội",0102806367,Hà Nội,EVF,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=EVF
+402,Công Ty Cổ Phần Thương Mại Dịch Vụ Tràng Thi,,"Số 12-14 Phố Tràng Thi, Phường Hàng Trống, Quận Hoàn Kiếm, Thành Phố Hà Nội",0100107437,Hà Nội,,
+403,CÔNG TY TNHH BẢO HIỂM NHÂN THỌ MB AGEAS,,"Tầng 15, Tòa nhà 21 Cát Linh, phường Cát Linh, quận Đống Đa, Tp. Hà Nội",0107520795,Hà Nội,,
+404,CÔNG TY TNHH BẢO TÍN MINH CHÂU,,Số 29 Trần Nhân Tông - Phường Nguyễn Du - Quận Hai Bà Trưng - TP. Hà Nội,0100683952,Hà Nội,,
+405,CÔNG TY TNHH CƠ KHÍ XÂY DỰNG DST VIỆT NAM,,"Số 83, Đường 32 - Phường Phú Thịnh - Thị Xã Sơn Tây - TP. Hà Nội",0106462325,Hà Nội,,
+406,Công Ty Tnhh Kiểm Toán Deloitte Việt Nam,,"Tầng 15, Tòa Nhà Vinaconex, Số 34 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Thành Phố Hà Nội, Việt Nam",0100112500,Hà Nội,,
+407,CÔNG TY TNHH DENSO VIỆT NAM,,Lô E1 KCN Thăng Long - Xã Kim Chung - Huyện Đông Anh - TP. Hà Nội,0101210878,Hà Nội,,
+408,CÔNG TY TNHH DỊCH VỤ VÀ THƯƠNG MẠI MESA,,20 Bùi Thị Xuân - Phường Bùi Thị Xuân - Quận Hai Bà Trưng - TP. Hà Nội,0100520429,Hà Nội,,
+409,CÔNG TY TNHH DINH DƯỠNG QUỐC TẾ VIỆT ĐỨC,,"Quốc lộ 23B, Thôn Mỹ Lộc - Xã Thanh Lâm - Huyện Mê Linh - TP. Hà Nội",0102075540,Hà Nội,,
+410,CÔNG TY TNHH FSI VIỆT NAM,,Số 29 Võng Thị-Phường Bưởi- Quận Tây Hồ-TP. Hà Nội,0103812250,Hà Nội,,
+411,CÔNG TY TNHH HÒA BÌNH,,84 Đội Cấn - Phường Đội Cấn - Quận Ba Đình - TP. Hà Nội,0100276146,Hà Nội,,
+412,CÔNG TY TNHH ỐNG THÉP HÒA PHÁT,,Số 39 Nguyễn Đình Chiểu - Phường Lê Đại Hành - Quận Hai Bà Trưng - TP. Hà Nội,0100598873,Hà Nội,,
+413,Công Ty Tnhh Quốc Tế Vinata,,"289, Khuất Duy Tiến, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",0100113494,Hà Nội,,
+414,CÔNG TY TNHH TẬP ĐOÀN XÂY DỰNG DELTA,,"Số 81, phố Lạc Trung - Phường Vĩnh Tuy - Quận Hai Bà Trưng - TP. Hà Nội",0100512717,Hà Nội,,
+415,Công Ty Tnhh Tập Đoàn Thang Máy Thiết Bị Thăng Long,,"44, Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",0101130774,Hà Nội,,
+416,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TIN HỌC AN PHÁT,,"Số 49 Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành Phố Hà Nội.",0101468933,Hà Nội,,
+417,CÔNG TY TNHH THƯƠNG MẠI DƯỢC PHẨM ĐÔNG Á,,"Só Nhà 13, Lô 13a-Phường Trung Hoà- Quận Cầu Giấy-TP. Hà Nội",0100274124,Hà Nội,,
+418,CÔNG TY TNHH THƯƠNG MẠI VÀ SẢN XUẤT HOÀNG MAI,,17 Hàng Bún - Phường Nguyễn Trung Trực - Quận Ba Đình - TP. Hà Nội,0101179473,Hà Nội,,
+419,CÔNG TY TNHH THƯƠNG MẠI VÀ SẢN XUẤT NAM PHÁT,,P1010 - N18 - 18T1 KĐT Trung Hoà - Phường Nhân Chính - Quận Thanh Xuân - TP. Hà Nội,0101806244,Hà Nội,,
+420,CÔNG TY TNHH THƯƠNG MẠI VÀ VẬN TẢI THÁI TÂN,,Số 29 Biệt thự 3 Bán Đảo Linh Đàm - Phường Hoàng Liệt - Quận Hoàng Mai - TP. Hà Nội,0101188943,Hà Nội,,
+421,CÔNG TY TNHH THƯƠNG MẠI VHC (SIÊU THỊ ĐIỆN MÁY HC),,"Tòa nhà VHC, 399 Phạm Văn Đồng - Phường Xuân Đỉnh - Quận Bắc Từ Liêm - TP. Hà Nội",0105690657,Hà Nội,,
+422,CÔNG TY TNHH THƯƠNG MẠI XUẤT NHẬP KHẨU VIỆT HÀN,,Số 68 Kim Mã - Phường Kim Mã - Quận Ba Đình - TP. Hà Nội,0101325854,Hà Nội,,
+423,CÔNG TY TNHH TM QUỐC TẾ THỦY LINH,," Số 33 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",0101099475,Hà Nội,,
+424,CÔNG TY TNHH TOTO VIỆT NAM,,"Lô F1, Khu Công nghiệp Thăng Long - Xã Kim Chung - Huyện Đông Anh - TP. Hà Nội",0101225306,Hà Nội,,
+425,CÔNG TY TNHH XUÂN LỘC THỌ,,"Số 51, Ngõ 258, Phố Tân Mai - Phường Thịnh Liệt - Quận Hoàng Mai - TP. Hà Nội",0100736347,Hà Nội,,
+426,Công Ty Cổ Phần Tập Đoàn Minh Tiến- Mtg,,"Tầng 10 Tòa nhà Geleximco, số 36 phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội, Việt Nam",0101013887,Hà Nội,,
+427,CÔNG TY TNHH ZUELLIG PHARMA VIỆT NAM,,"B3, Đường Công nghiệp 4, KCN Sài Đồng B - Phường Thạch Bàn - Quận Long Biên - TP. Hà Nội",0100915699,Hà Nội,,
+428,NGÂN HÀNG TMCP ĐẠI CHÚNG VIỆT NAM,,"Số 22, Ngô Quyền, Phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội",0101057919,Hà Nội,PVF,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PVF
+429,NGÂN HÀNG TMCP XĂNG DẦU PETROLIMEX,,"Tầng 16, 23, 24 - Tòa nhà Mipec - 229 Tây Sơn - Quận Đống Đa - TP. Hà Nội",1400116233,Hà Nội,,
+430,NGÂN HÀNG TNHH MTV STANDARD CHARTERED (VIỆT NAM),,"Tầng 3, Tháp 1 Và Tháp 2, Phòng Cp1.L01 Và Phòng Cp2.L01, Tòa Nhà Capital Place, Số 29 Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành Phố Hà Nội, Việt Nam",0103617147,Hà Nội,,
+431,TẬP ĐOÀN GELEXIMCO - CTCP,,36 Hoàng Cầu - Quận Đống Đa - TP. Hà Nội,0100514947,Hà Nội,,
+432,TỔNG CÔNG TY 319,,Số 63 Lê Văn Lương - Phường Trung Hòa - Quận Cầu Giấy - TP. Hà Nội,0100108984,Hà Nội,,
+433,TỔNG CÔNG TY 36,,141 Hồ Đắc Di-Phường Nam Đồng- Quận Đống Đa-TP. Hà Nội,0105454762,Hà Nội,G36,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=G36
+434,TỔNG CÔNG TY BẢO HIỂM BẢO VIỆT,,"Số 07 Phố Lý Thường Kiệt, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Thành phố Hà nội",0101527385,Hà Nội,,
+435,TỔNG CÔNG TY BẢO VIỆT NHÂN THỌ,,Tầng 37-Tòa nhà Keangnam-Đường Phạm Hùng-TP. Hà Nội,0102641429,Hà Nội,,
+436,TỔNG CÔNG TY BƯU ĐIỆN VIỆT NAM,,Số 5 Phạm Hùng - Phường Mỹ Đình 2 - Quận Nam Từ Liêm - TP. Hà Nội,0102595740,Hà Nội,,
+437,TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM SÀI GÒN - HÀ NỘI,,Số 86 Bà Triệu - Phường Hàng Bài - Quận Hoàn Kiếm - TP. Hà Nội,0103085460,Hà Nội,,
+438,TỔNG CÔNG TY CP BẢO HIỂM HÀNG KHÔNG,,"Tầng 15, Tòa nhà Geleximco, số 36, Hoàng Cầu, Quận Đống Đa, Thành Phố Hà Nội",0102737963,Hà Nội,,
+439,TỔNG CÔNG TY CP BIA - RƯỢU - NƯỚC GIẢI KHÁT HÀ NỘI,,"Số 183, Phố, Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",0101376672,Hà Nội,BHN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BHN
+440,Công ty TNHH Vietnam Beverage,,"Phòng 502A, tầng 5, tòa nhà HCO Building, 44B Lý Thường Kiệt, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam",0108014953,Hà Nội,,
+441,TỔNG CÔNG TY CP XUẤT NHẬP KHẨU VÀ XÂY DỰNG VIỆT NAM,,Tòa nhà Vinaconex - 34 Láng Hạ - Quận Đống Đa - TP. Hà Nội,0100105616,Hà Nội,VCG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VCG
+442,TỔNG CÔNG TY ĐỨC GIANG - CTCP,,59 Đức Giang - Long Biên - Phường Đức Giang - Quận Long Biên - TP. Hà Nội,0100101403,Hà Nội,MGG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MGG
+443,TỔNG CÔNG TY DƯỢC VIỆT NAM - CTCP,,"Số 12 Ngô Tất Tố, Phường Văn Miếu, Quận Đống Đa, Thành Phố Hà Nội",0100109385,Hà Nội,DVN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DVN
+444,TỔNG CÔNG TY HÓA CHẤT VÀ DỊCH VỤ DẦU KHÍ - CTCP,,Tầng 6 & 7 - Tòa nhà Viện Dầu khí - số 173 - Trung Kính - Phường Yên Hòa - Quận Cầu Giấy - TP. Hà Nội,0100150873,Hà Nội,PVC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PVC
+445,Tổng Công Ty Lắp Máy Việt Nam - Ctcp,,124 Minh Khai-Phường Minh Khai-Quận Hai Bà Trưng-TP. Hà Nội,0100106313,Hà Nội,LLM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=LLM
+446,TỔNG CÔNG TY LICOGI- CTCP,,"Nhà G1, Phường Thanh Xuân Nam, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",0100106440,Hà Nội,LIC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=LIC
+447,TỔNG CÔNG TY MAY 10 - CTCP,,765A Nguyễn Văn Linh - Phường Sài Đồng - Quận Long Biên - TP. Hà Nội,0100101308,Hà Nội,M10,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=M10
+448,TỔNG CÔNG TY MÁY ĐỘNG LỰC VÀ MÁY NÔNG NGHIỆP VIỆT NAM - CTCP,,"Lô D, Khu D1 - Phường Phú Thượng - Quận Tây Hồ - TP. Hà Nội",0100103866,Hà Nội,VEA,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VEA
+449,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CTCP,,Số 189 Đường Lâm Tiên-Thị trấn Đông Anh-Huyện Đông Anh-TP. Hà Nội,0100101322,Hà Nội,TBD,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TBD
+450,TỔNG CÔNG TY THƯƠNG MẠI HÀ NỘI - CTCP,,38-40 Lê Thái Tổ - Phường Hàng Trống - Quận Hoàn Kiếm - TP. Hà Nội,0100101273,Hà Nội,HTM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HTM
+451,TỔNG CÔNG TY VẬN TẢI HÀ NỘI,,5 Lê Thánh Tông - Phường Phan Chu Trinh - Quận Hoàn Kiếm - TP. Hà Nội,0101148154,Hà Nội,,
+452,TỔNG CÔNG TY VẬT TƯ NÔNG NGHIỆP,,164 Trần Quang Khải - Phường Lý Thái Tổ - Quận Hoàn Kiếm - TP. Hà Nội,0100104468,Hà Nội,,
+453,CTCP Hạ tầng GELEX,,"Tòa nhà GELEX, số 52 Lê Đại Hành, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội, Việt Nam",0107652657,Hà Nội,,
+454,TỔNG CÔNG TY XÂY DỰNG HÀ NỘI,,"Số 57 Quang Trung, Nguyễn Du-Phường Nguyễn Du-Quận Hai Bà Trưng-TP. Hà Nội",0100106338,Hà Nội,HAN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HAN
+455,TỔNG CTCP THƯƠNG MẠI XÂY DỰNG,,201 Minh Khai-Phường Minh Khai- Quận Hai Bà Trưng-TP. Hà Nội,0100203476,Hà Nội,,
+456,TỔNG CÔNG TY HÀNG HẢI VIỆT NAM - CTCP,,"Tòa nhà Ocean Park, Số1 Đào Duy Anh - Phường Phương Mai - Quận Đống Đa - TP. Hà Nội",0100104595,Hà Nội,MVN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MVN
+457,Tập đoàn Dầu khí Việt Nam,,18 Láng Hạ - Phường Thành Công - Quận Ba Ðình - TP. Hà Nôi,0100681592,Hà Nội,,
+458,TẬP ĐOÀN BƯU CHÍNH VIỄN THÔNG VIỆT NAM,,"57, Huỳnh Thúc Kháng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",0100684378,Hà Nội,,
+459,Công ty Cổ phần Nhựa An Phát Xanh,,"Lô CN 11-CN 12, Cụm Công nghiệp An Đồng - Thị trấn Nam Sách - Huyện Nam Sách - Tỉnh Hải Dương",0800373586,Hải Dương,AAA,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=AAA
+460,CÔNG TY CP B.C.H,,Km 77+500 - Xã Kim Liên - Huyện Kim Thành - Tỉnh Hải Dương,0800286887,Hải Dương,,
+461,CÔNG TY CP LUYỆN KIM TÂN NGUYÊN HẢI DƯƠNG VIỆT NAM,,Khu 2 - Phường Phú Thứ - Thị xã Kinh Môn - Tỉnh Hải Dương,0800740412,Hải Dương,,
+462,CÔNG TY CP ỐNG THÉP THUẬN PHÁT,,Khu phố Quán Gỏi - Xã Vĩnh Hưng - Huyện Bình Giang - Tỉnh Hải Dương,0800902222,Hải Dương,,
+463,CÔNG TY CP TẬP ĐOÀN AN PHÁT HOLDINGS,,"Lô CN11+CN12, cụm CN An Đồng - Thị trấn Nam Sách - Huyện Nam Sách - Tỉnh Hải Dương",0801210129,Hải Dương,APH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=APH
+464,CÔNG TY TNHH MTV XI MĂNG VICEM HOÀNG THẠCH,,Khu Bích Nhôi 2 - Phường Minh Tân - Thị xã Kinh Môn - Tỉnh Hải Dương,0800004797,Hải Dương,,
+465,CÔNG TY CP CƠ KHÍ XÂY DỰNG AMECC,,Km 35-Quốc lộ 10-Xã Quốc Tuấn-Huyện An Lão-Hải Phòng,0200786983,Hải Phòng,AMS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=AMS
+466,CÔNG TY CP CÔNG NGHIỆP NHỰA PHÚ LÂM,,Km 9 Đường Phạm Văn Đồng - Phường Hải Thành - Quận Dương Kinh - TP. Hải Phòng,0200109445,Hải Phòng,,
+467,CÔNG TY CP ĐẦU TƯ DỊCH VỤ TÀI CHÍNH HOÀNG HUY,,116 Nguyễn Đức Cảnh - Phường Cát Dài - Quận Lê Chân - TP. Hải Phòng,0200117929,Hải Phòng,TCH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TCH
+468,CÔNG TY CP ĐẦU TƯ THƯƠNG MẠI XNK VIỆT PHÁT,,97 Bạch Đằng-Phường Hạ Lý- Quận Hồng Bàng-TP. Hải Phòng,0200826844,Hải Phòng,VPG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VPG
+469,CÔNG TY CP NHẬT TIẾN,,Số 145 Đường 351-Xã Nam Sơn-Huyện An Dương-TP. Hải Phòng,0200919993,Hải Phòng,,
+470,CÔNG TY CP NHỰA THIẾU NIÊN TIỀN PHONG,,Số 2 An Đà - Phường Lạch Tray - Quận Ngô Quyền - TP. Hải Phòng,0200167782,Hải Phòng,NTP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NTP
+471,CÔNG TY CP NỘI THẤT 190,,Km 89 Quốc lộ 5 mới - Thôn Mỹ Chanh - Xã Nam Sơn - Huyện An Dương - TP. Hải Phòng,0200656938,Hải Phòng,,
+472,CÔNG TY CP SẢN XUẤT VÀ CÔNG NGHỆ NHỰA PHA LÊ,,"Lô Đất CN4.3 KCN MP Đình Vũ, Khu Kinh tế Đình Vũ-Cát Hải - Phường Đông Hải 2 - Quận Hải An - TP. Hải Phòng",0103018538,Hải Phòng,PLP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PLP
+473,CÔNG TY CP SƠN HẢI PHÒNG,,Số 12 Lạch Tray - Phường Lạch Tray - Quận Ngô Quyền - TP. Hải Phòng,0200575580,Hải Phòng,,
+474,CÔNG TY CP TẬP ĐOÀN TRANG KHANH,,Số 197 lô 22 đường Lê Hồng Phong-Phường Đông Khê-Quận Ngô Quyền-TP. Hải Phòng,0201725327,Hải Phòng,,
+475,CÔNG TY CP VẬN TẢI 1 TRACO,,Số 271 Lê Thánh Tông - Phường Máy Chai - Quận Ngô Quyền - TP. Hải Phòng,0200380768,Hải Phòng,TR1,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TR1
+476,CÔNG TY LIÊN DOANH SẢN XUẤT THÉP VINAUSTEEL,,Km 9 Vật Cách - Phường Quán Toan - Quận Hồng Bàng - TP. Hải Phòng,0200108811,Hải Phòng,,
+477,CÔNG TY SẢN XUẤT THÉP ÚC SSE,,Km 9 Vật Cách - Phường Quán Toan - Quận Hồng Bàng - TP. Hải Phòng,0200373471,Hải Phòng,,
+478,CÔNG TY TNHH BÊ TÔNG VÀ XÂY DỰNG MINH ĐỨC,,TT. Minh Đức - Huyện Thuỷ Nguyên - TP. Hải Phòng,0200611969,Hải Phòng,,
+479,TỔNG CÔNG TY XÂY DỰNG BẠCH ĐẰNG,,268 Trần Nguyên Hãn - Phường Cát Dài - Quận Lê Chân - TP. Hải Phòng,0200157840,Hải Phòng,,
+480,CÔNG TY CP THÉP VÀ THƯƠNG MẠI HÀ NỘI,,Xóm Cố Thổ-Xã Hòa Sơn-Huyện Lương Sơn-Hòa Bình,5400363141,Hòa Bình,,
+481,CÔNG TY CP ABC VIỆT NAM,,Thôn Khả Duy - Xã Đoàn Đào - Huyện Phù Cừ - Tỉnh Hưng Yên,0900254448,Hưng Yên,,
+482,CÔNG TY CP ĐÔNG GIANG,,KCN Phố Nối A-Xã Trưng Trắc- Huyện Văn Lâm-Tỉnh Hưng Yên,0900220897,Hưng Yên,,
+483,CÔNG TY CP NHỰA HƯNG YÊN,,115 Nguyễn Thiện Thuật - Phường Minh Khai - TP. Hưng Yên - Tỉnh Hưng Yên,0900108380,Hưng Yên,,
+484,CÔNG TY CP ỐNG ĐỒNG TOÀN PHÁT,,"Đường 206, Khu D, KCN Phố Nối A - Xã Lạc Hồng - Huyện Văn Lâm - Tỉnh Hưng Yên",0900246768,Hưng Yên,,
+485,CÔNG TY CP TẬP ĐOÀN ECOPARK,,KĐT thương mại và du lịch Văn Giang - Xã Xuân Quan - Huyện Văn Giang - Tỉnh Hưng Yên,0101395308,Hưng Yên,,
+486,CÔNG TY CP TẬP ĐOÀN HÒA PHÁT,,KCN Phố Nối A - Xã Giai Phạm - Huyện Yên Mỹ - Tỉnh Hưng Yên,0900189284,Hưng Yên,HPG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HPG
+487,CÔNG TY CP THUẬN ĐỨC,,Thôn Bằng Ngang - Thị trấn Lương Bằng - Huyện Kim Động - Tỉnh Hưng Yên,0900264799,Hưng Yên,TDP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TDP
+488,CÔNG TY TNHH KẾT CẤU THÉP 568,,"Km33, Quốc lộ 5A - Xã Minh Đức - Huyện Mỹ Hào - Tỉnh Hưng Yên",0900273306,Hưng Yên,,
+489,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI MINH NGỌC,,Khu D - KCN Phố Nối A - Xã Lạc Hồng - Huyện Văn Lâm - Tỉnh Hưng Yên,0900237146,Hưng Yên,,
+490,CÔNG TY TNHH THÉP NHẬT QUANG,,KCN Phố Nối A-Xã Lạc Đạo-Huyện Văn Lâm-Tỉnh Hưng Yên,0900234699,Hưng Yên,,
+491,CÔNG TY TNHH THIẾT BỊ ĐIỆN LIOA,,Đình Dù-Xã Đình Dù-Huyện Văn Lâm-Tỉnh Hưng Yên,0900246535,Hưng Yên,,
+492,CÔNG TY TNHH THƯƠNG MẠI VÀ CÔNG NGHIỆP MỸ VIỆT,,Thôn Ngọc-Xã Lạc Đạo-Huyện Văn Lâm-Tỉnh Hưng Yên,0900239753,Hưng Yên,,
+493,CÔNG TY TNHH XE ĐIỆN XE MÁY DETECH,,KCN Phố Nối-Xã Dị Sử-Huyện Mỹ Hào-Tỉnh Hưng Yên,0900189171,Hưng Yên,,
+494,CÔNG TY CP ĐẦU TƯ VCN,,"Tòa nhà VCN, đường A1, KĐT Vĩnh Điềm Trung - TP. Nha Trang - Tỉnh Khánh Hòa",4200644489,Khánh Hòa,,
+495,CÔNG TY CP DỊCH VỤ NÔNG NGHIỆP BÌNH THUẬN,,Số 3 Nguyễn Du. - Phường Đức Thắng - TP. Phan Thiết - Tỉnh Khánh Hòa,3400382278,Khánh Hòa,ABS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ABS
+496,Taisho Pharmaceutical,,"Quốc lộ 1A, Xã Suối Hiệp, Huyện Diên Khánh, Tỉnh Khánh Hòa, Việt Nam",4200381102,Khánh Hòa,,
+497,CÔNG TY CP MASCOPEX,,Số 38B Nguyễn Biểu - Phường Vĩnh Hải - TP. Nha Trang - Tỉnh Khánh Hòa,4200236666,Khánh Hòa,,
+498,CÔNG TY TNHH CÁ NGỪ VIỆT NAM,,Lô A4-A8 Khu công nghiệp Suối Dầu - Xã Suối Tân - Huyện Cam Lâm - Tỉnh Khánh Hòa,4201620427,Khánh Hòa,,
+499,CÔNG TY TNHH NHÀ NƯỚC MTV YẾN SÀO KHÁNH HÒA,,248 Thống Nhất - Phường Phương Sơn - TP. Nha Trang - Tỉnh Khánh Hòa,4200338918,Khánh Hòa,,
+500,CÔNG TY TNHH THƯƠNG MẠI KHATOCO,,Số 7 Võ Thị Sáu - Phường Vĩnh Nguyên - TP. Nha Trang - Tỉnh Khánh Hoà,4200485207,Khánh Hòa,,
+501,TỔNG CÔNG TY KHÁNH VIỆT,,118 Hùng Vương - Phường Lộc Thọ - TP. Nha Trang - Tỉnh Khánh Hoà,4200486169,Khánh Hòa,,
+502,CÔNG TY CP TẬP ĐOÀN ĐỨC TƯỜNG,,"Số 59 đường Nguyễn Văn Cừ, Khu phố 3 - Thị trấn An Thới - Huyện Phú Quốc - Tỉnh Kiên Giang",1701884951,Kiên Giang,,
+503,CÔNG TY CP TẬP ĐOÀN TƯ VẤN ĐẦU TƯ XÂY DỰNG KIÊN GIANG,,34 Trần Phú - Phường Vĩnh Thanh - TP. Rạch Giá - Tỉnh Kiên Giang,1700113586,Kiên Giang,CKG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CKG
+504,CÔNG TY CP THƯƠNG MẠI KIÊN GIANG,,190 Trần Phú - Phường Vĩnh Thanh Vân - TP. Rạch Giá - Tỉnh Kiên Giang,1700523208,Kiên Giang,KTC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=KTC
+505,NGÂN HÀNG TMCP KIÊN LONG,,40-42-44 Phạm Hồng Thái - Phường Vĩnh Thanh Vân - TP. Rạch Giá - Tỉnh Kiên Giang,1700197787,Kiên Giang,KLB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=KLB
+506,CÔNG TY TNHH MTV APATIT VIỆT NAM,,Phường Pom Hán - TP. Lào Cai - Tỉnh Lào Cai,5300100276,Lào Cai,,
+507,CÔNG TY CP ĐỒNG TÂM,,Số 7 - Khu Phố 6 - Thị trấn Bến Lức - Huyện Bến Lức - Tỉnh Long An,1100548578,Long An,,
+508,CÔNG TY CP GREENFEED VIỆT NAM,,Xã Nhựt Chánh - Huyện Bến Lức - Tỉnh Long An,1100598642,Long An,,
+509,CÔNG TY CP SẢN XUẤT THÉP VINA ONE,,Quốc lộ 1-Ấp Voi Lá-Xã Long Hiệp- Huyện Bến Lức-Tỉnh Long An,1100549268,Long An,,
+510,CÔNG TY CP TẬP ĐOÀN HOÀNG LONG,,"Tòa nhà Hoàng Long, Số 68 Nguyễn Trung Trực - Khu phố 9 - Thị trấn Bến Lức - Huyện Bến Lức - Tỉnh Long An",1100414052,Long An,HLG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HLG
+511,CÔNG TY CP TẬP ĐOÀN THÉP NGUYỄN MINH,,"Lộ D1-9 đến D1-22, KCN Vĩnh Lộc 2 - Xã Long Hiệp - Huyện Bến Lức - Tỉnh Long An",1101359647,Long An,,
+512,CÔNG TY CP THÉP TOP PRO,,"Lô số 12, Cụm Công nghiệp Long Định-Long Cang - Xã Long Cang - Huyện Cần Đước - Tỉnh Long An",1100798176,Long An,,
+513,CÔNG TY CP THÉP TVP,,Số 400 Quốc lộ 1A - Khu phố 9 - Thị trấn Bến Lức - Huyện Bến Lức - Tỉnh Long An,1100598716,Long An,,
+514,CÔNG TY CP THIỆN PHÚ SĨ,,"Lô C, Đường D6, KCN Đức Hòa III - Việt Hóa - Xã Đức Lập Hạ - Huyện Đức Hoà - Tỉnh Long An",0303376241,Long An,,
+515,CÔNG TY CP THỰC PHẨM AN LONG,,Cụm Cn Long Định - Long Cang - Xã Long Cang - Huyện Cần Đước - Tỉnh Long An,1100814572,Long An,,
+516,CÔNG TY TNHH CJ VINA AGRI,,"Quốc lộ 1A, Xã Mỹ Yên, Huyện Bến Lức, Tỉnh Long An",1100439762,Long An,,
+517,CÔNG TY TNHH LE LONG VIỆT NAM,,Số 40 Bà Chánh Thâu - Khu phố 2 - Thị trấn Bến Lức - Huyện Bến Lức - Tỉnh Long An,1100102656,Long An,,
+518,CÔNG TY TNHH SẢN XUẤT TẬP ĐOÀN ĐẠI VIỆT,,"Lô F1 Đường số 10, Cụm công nghiệp Hải Sơn - Xã Đức Hòa Đông - Huyện Đức Hoà - Tỉnh Long An",1101928050,Long An,,
+519,CÔNG TY CP DƯỢC PHẨM NAM HÀ,,415 Hàn Thuyên - Phường Vị Xuyên - TP. Nam Định - Tỉnh Nam Định,0600206147,Nam Định,,
+520,CÔNG TY CP MAY SÔNG HỒNG,,Số 105 Đường Nguyễn Đức Thuận - Phường Thống Nhất - TP. Nam Định - Tỉnh Nam Định,0600333307,Nam Định,MSH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MSH
+521,CÔNG TY CP TẬP ĐOÀN SEMEC,,Đại lộ V.I Lê Nin - Xã Nghi Phú - TP. Vinh - Tỉnh Nghệ An,2900608267,Nghệ An,,
+522,CÔNG TY CP VILACONIC,,Xóm 2-Xã Nghi Phú- TP. Vinh-Tỉnh Nghệ An,2901274715,Nghệ An,,
+523,NGÂN HÀNG TMCP BẮC Á,,117 Quang Trung - Phường Quang Trung - TP. Vinh - Tỉnh Nghệ An,2900325526,Nghệ An,BAB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BAB
+524,CÔNG TY TNHH THÉP KYOEI VIỆT NAM,,"Tổ 4, Phường Nam Sơn, Thành phố Tam Điệp, Tỉnh Ninh Bình, Việt Nam",2700631318,Ninh Bình,,
+525,CÔNG TY CP GIẤY VIỆT TRÌ,,Đường Sông Thao - Phường Bến Gót - TP. Việt Trì - Tỉnh Phú Thọ,2600107284,Phú Thọ,GVT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=GVT
+526,CÔNG TY TNHH HẢI LINH,,Khu 2 - Xã Sông Lô - TP. Việt Trì - Tỉnh Phú Thọ,2600261303,Phú Thọ,,
+527,CÔNG TY TNHH MIWON VIỆT NAM,,Phố Sông Thao - Phường Thọ Sơn - TP. Việt Trì - Tỉnh Phú Thọ,2600109933,Phú Thọ,,
+528,CÔNG TY TNHH XÂY DỰNG TỰ LẬP,,Số 3010 đường Hùng Vương - Phường Vân Phú - TP. Việt Trì - Tỉnh Phú Thọ,2600251062,Phú Thọ,,
+529,CÔNG TY TNHH THƯƠNG MẠI TỔNG HỢP TUẤN VIỆT,,Đường Thống Nhất-Tiểu Khu Diêm Thượng-Phường Đức Ninh Đông-TP. Đồng Hới-Tỉnh Quảng Bình,3100261120,Quảng Bình,,
+530,CÔNG TY CP TUẤN ĐẠT,,KCN Trường Xuân - Phường Trường Xuân - TP. Tam Kỳ - Tỉnh Quảng Nam,4000378744,Quảng Nam,,
+531,CÔNG TY TNHH CALOFIC,,KCN Cái Lân - Phường Bãi Cháy - TP. Hạ Long - Tỉnh Quảng Ninh,5700101362,Quảng Ninh,,
+532,CÔNG TY TNHH ĐIỆN LỰC AES MÔNG DƯƠNG,,Khu 8 - Phường Mông Dương - TP. Cẩm Phả - Tỉnh Quảng Ninh,5701384498,Quảng Ninh,,
+533,CÔNG TY TNHH SẢN XUẤT BỘT MỲ VIMAFLOUR,,KCN Cái Lân - Phường Giếng Đáy - TP. Hạ Long - Tỉnh Quảng Ninh,5700101210,Quảng Ninh,,
+534,CÔNG TY TNHH TẬP ĐOÀN BIM,,Tầng 1 Tòa nhà Green Bay - Đường Hoàng Quốc Việt - Phường Hùng Thắng - TP. Hạ Long - Tỉnh Quảng Ninh,5701942544,Quảng Ninh,,
+535,CÔNG TY TNHH TẬP ĐOÀN BIM - BIM GROUP,,Tầng 1 Tòa nhà Green Bay - Đường Hoàng Quốc Việt - Phường Hùng Thắng - TP. Hạ Long - Tỉnh Quảng Ninh,5700103433,Quảng Ninh,,
+536,TỔNG CÔNG TY ĐÔNG BẮC,,Phường Hồng Hải - TP. Hạ Long - Tỉnh Quảng Ninh,5700101468,Quảng Ninh,,
+537,CÔNG TY CP THỰC PHẨM SAO TA,,"Km 2132, Quốc lộ 1A - Phường 2 - TP. Sóc Trăng - Tỉnh Sóc Trăng",2200208753,Sóc Trăng,FMC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=FMC
+538,CÔNG TY CP THỦY SẢN SẠCH VIỆT NAM,,Lô F KCN An Nghiệp-Xã An Hiệp- Huyện Châu Thành-Tỉnh Sóc Trăng,2200325351,Sóc Trăng,,
+539,CÔNG TY CP THỦY SẢN SÓC TRĂNG,,220 Quốc lộ 1A - Phường 7 - TP. Sóc Trăng - Tỉnh Sóc Trăng,2200108445,Sóc Trăng,,
+540,CÔNG TY TNHH MTV XỔ SỐ KIẾN THIẾT SÓC TRĂNG,,16 Trần Hưng Đạo - Phường 2 - TP. Sóc Trăng - Tỉnh Sóc Trăng,2200108572,Sóc Trăng,,
+541,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ THÀNH TÍN,,Số 383 Bạch Đằng - Phường 9 - TP. Sóc Trăng - Tỉnh Sóc Trăng,2200208834,Sóc Trăng,,
+542,CÔNG TY CP GIỐNG BÒ SỮA MỘC CHÂU,,Thị Trấn Nông Trường Mộc Châu - Thị trấn NT Mộc Châu - Huyện Mộc Châu - Tỉnh Sơn La,5500154060,Sơn La,MCM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MCM
+543,CÔNG TY CP HẢI ĐĂNG,,"Số 9 đường QH6, Đường Đặng Ngọc Chinh-KP. 5-Phường 3-TP. Tây Ninh-Tỉnh Tây Ninh",3900513521,Tây Ninh,,
+544,CÔNG TY TNHH XUẤT NHẬP KHẨU - THƯƠNG MẠI - CÔNG NGHỆ - DỊCH VỤ HÙNG DUY,,"Số 250, đường Lý Thường Kiệt - Khu phố 4 - Phường Long Hoa - Thị xã Hòa Thành - Tỉnh Tây Ninh.",3900212443,Tây Ninh,,
+545,CÔNG TY CP DAMSAN,,"Lô A4, đường Bùi Viện, KCN Nguyễn Đức Cảnh - Phường Trần Hưng Đạo - TP. Thái Bình - Tỉnh Thái Bình",1000389853,Thái Bình,ADS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ADS
+546,CÔNG TY CP ĐẦU TƯ VÀ THƯƠNG MẠI TNG,,"Số 434/1, Đường Bắc Kạn - Phường Hoàng Văn Thụ - TP. Thái Nguyên - Tỉnh Thái Nguyên",4600305723,Thái Nguyên,TNG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TNG
+547,CÔNG TY CP GANG THÉP THÁI NGUYÊN,,Tổ 21 - Phường Cam Giá - TP. Thái Nguyên - Tỉnh Thái Nguyên,4600100155,Thái Nguyên,TIS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TIS
+548,CÔNG TY CP THƯƠNG MẠI THÁI HƯNG,,Tổ 14 - Phường Gia Sàng - TP. Thái Nguyên - Tỉnh Thái Nguyên,4600310787,Thái Nguyên,,
+549,CÔNG TY TNHH SAMSUNG ELECTRONICS VIỆT NAM THÁI NGUYÊN,,KCN Yên Bình - Phường Đồng Tiến - Thị xã Phổ Yên - Tỉnh Thái Nguyên,4601124536,Thái Nguyên,,
+550,CÔNG TY TNHH TRUNG THÀNH THÁI NGUYÊN,,Tổ 9 - Phường Trung Thành - TP. Thái Nguyên - Tỉnh Thái Nguyên,4600201989,Thái Nguyên,,
+551,CÔNG TY CP CÔNG NÔNG NGHIỆP TIẾN NÔNG,,274b Bà Triệu - Phường Đông Thọ - TP. Thanh Hóa - Tỉnh Thanh Hóa,2800142141,Thanh Hóa,,
+552,CÔNG TY CP MÍA ĐƯỜNG LAM SƠN,,Thị Trấn Lam Sơn-Huyện Thọ Xuân-Tỉnh Thanh Hóa,2800463346,Thanh Hóa,LSS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=LSS
+553,CÔNG TY CP TẬP ĐOÀN VAS NGHI SƠN,,Khu liên hợp Gang thép Nghi Sơn - Khu kinh tế Nghi Sơn - Tỉnh Thanh Hóa,2801115888,Thanh Hóa,,
+554,CÔNG TY CP THIẾT BỊ VẬT TƯ Y TẾ THANH HOÁ,,109 Nguyễn Trãi - Phường Ba Đình - TP. Thanh Hóa - Tỉnh Thanh Hóa,2800588271,Thanh Hóa,,
+555,TỔNG CÔNG TY CỔ PHẦN MIỀN TRUNG,,"Số 137, Đường Lý Nam Đế - Phường Đông Hương - TP. Thanh Hoá - Tỉnh Thanh Hoá",2800976203,Thanh Hóa,,
+556,CÔNG TY CP DƯỢC MEDIPHARCO,,8 Nguyễn Trường Tộ - Phường Phước Vĩnh - TP. Huế - Tỉnh Thừa Thiên Huế,3300101406,Thừa Thiên Huế,,
+557,CÔNG TY TNHH THƯƠNG MẠI CARLSBERG VIỆT NAM,,"Tầng 8, Tòa nhà BIDV, 41 Hùng Vương - Phường Phú Hội - TP. Huế - Tỉnh Thừa Thiên Huế",0102314245,Thừa Thiên Huế,,
+558,Tập đoàn Central Retail Việt Nam,,"163 Đường Phan Đăng Lưu, Phường 01, Quận Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",312467752,TP Hồ Chí Minh,,
+559,CÔNG TY CỔ PHẦN SEAREFICO,,"Lầu 14, Tòa nhà VP Centec Tower, Số 72 - 74 Nguyễn Thị Minh Khai - Phường 6 - Quận 3 - TP. Hồ Chí Minh",0301825452,TP Hồ Chí Minh,SRF,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SRF
+560,Tập đoàn Đầu tư và Phát triển kinh tế NovaGroup,,"65 Nguyễn Du, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",0313468212,TP Hồ Chí Minh,,
+561,CÔNG TY CP Á ĐÔNG ADG,,178/4A Phan Đăng Lưu - Phường 3 - Quận Phú Nhuận - TP. Hồ Chí Minh,0308113486,TP Hồ Chí Minh,,
+562,CÔNG TY CP AZB,,"Số 24-24A Đường số 6, Khu đô thị mới Him Lam - Phường Tân Hưng - Quận 7 - TP. Hồ Chí Minh",0310734321,TP Hồ Chí Minh,,
+563,CÔNG TY CP BẢO HIỂM VIỄN ĐÔNG,,99 Trần Hưng Đạo - Phường Cầu Ông Lãnh - Quận 1 - TP. Hồ Chí Minh,0303099446,TP Hồ Chí Minh,,
+564,CÔNG TY CP BM WINDOWS,,Newtecons Tower - 96 Phan Đăng Lưu - Phường 5 - Quận Phú Nhuận - TP. Hồ Chí Minh,0313919539,TP Hồ Chí Minh,,
+565,CÔNG TY CP BÓNG ĐÈN ĐIỆN QUANG,,125 Hàm Nghi-Phường Nguyễn Thái Bình- Quận 1-TP. Hồ Chí Minh,0300363808,TP Hồ Chí Minh,DQC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DQC
+566,CÔNG TY CP CẢNG RAU QUẢ,,Số 1 Nguyễn Văn Quỳ - Phường Phú Thuận - Quận 7 - TP. Hồ Chí Minh,0302336158,TP Hồ Chí Minh,VGP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VGP
+567,CÔNG TY CP CÁP ĐIỆN THỊNH PHÁT,,144A Hồ Học Lãm - Phường An Lạc - Quận Bình Tân - TP. Hồ Chí Minh,0315767095,TP Hồ Chí Minh,,
+568,CÔNG TY CP CHỨNG KHOÁN BẢN VIỆT,,"Tầng 15, Tháp tài chính Bitexco, số 2 Hải Triều, Quận 1, Tp. Hồ Chí Minh, Việt Nam",0305299779,TP Hồ Chí Minh,VCI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VCI
+569,CÔNG TY CP CHỨNG KHOÁN TP. HỒ CHÍ MINH,,"Tầng 5, 6 Toà Nhà Ab, 76 Lê Lai - Phường Bến Thành - Quận 1 - TP. Hồ Chí Minh",0302910950,TP Hồ Chí Minh,HCM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HCM
+570,CÔNG TY CP CITY AUTO,,218 Quốc Lộ 13 - Phường Hiệp Bình Chánh - Quận Thủ Đức - TP. Hồ Chí Minh,0307979603,TP Hồ Chí Minh,CTF,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CTF
+571,CÔNG TY CP CƠ ĐIỆN ĐOÀN NHẤT,,323/A9 Đào Duy Anh - Phường 09 - Quận Phú Nhuận - TP. Hồ Chí Minh,0305289273,TP Hồ Chí Minh,,
+572,CÔNG TY CP CƠ ĐIỆN LẠNH,,364 Cộng Hòa - Phường 13 - Quận Tân Bình - TP. Hồ Chí Minh,0300741143,TP Hồ Chí Minh,REE,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=REE
+573,CÔNG TY CP CƠ KHÍ XÂY DỰNG THƯƠNG MẠI ĐẠI DŨNG,,121-123 Bạch Đằng - Phường 2 - Quận Tân Bình - TP. Hồ Chí Minh,0301932246,TP Hồ Chí Minh,,
+574,CÔNG TY CP CÔNG NGHỆ ELITE,,289/1 Ung Văn Khiêm - Phường 25 - Quận Bình Thạnh - TP. Hồ Chí Minh,0303853575,TP Hồ Chí Minh,,
+575,CÔNG TY CP CÔNG NGHIỆP VĨNH TƯỜNG,,"Tầng 8 - Tòa nhà SOFIC, Số 10 Đường Mai Chí Thọ - Quận 2 - TP. Hồ Chí Minh",0304075529,TP Hồ Chí Minh,,
+576,CÔNG TY CP DAIKIN AIR CONDITIONING (VIETNAM),,Tầng 14-15 Tòa nhà Văn phòng Nam Á - Số 201-203 - Cách Mạng Tháng Tám - Quận 3 - TP. Hồ Chí Minh,0301450108,TP Hồ Chí Minh,,
+577,CÔNG TY CP DATVIET MEDIA,,222 Pasteur-Phường 06-Quận 3-TP. Hồ Chí Minh,0304752594,TP Hồ Chí Minh,,
+578,CÔNG TY CP DATVIET VAC GROUP HOLDINGS,,222 Pasteur - Phường Võ Thị Sáu - Quận 3 - TP. Hồ Chí Minh,0315744468,TP Hồ Chí Minh,,
+579,CÔNG TY CP DẦU THỰC VẬT TÂN BÌNH,,889 Trường Chinh - Phường Tây Thạnh - Quận Tân Phú - TP. Hồ Chí Minh,0303587122,TP Hồ Chí Minh,,
+580,CÔNG TY CP ĐẦU TƯ HẠ TẦNG KỸ THUẬT TP. HỒ CHÍ MINH,,3A Nguyễn Văn Thủ - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0302483177,TP Hồ Chí Minh,CII,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CII
+581,CÔNG TY CP ĐẦU TƯ LBM,,Số 184 Nam Kỳ Khởi Nghĩa - Phường 6 - Quận 3 - TP. Hồ Chí Minh,0308783233,TP Hồ Chí Minh,,
+582,CÔNG TY CP ĐẦU TƯ MAI TIẾN PHÁT,,"Số 33 Đường 211A, Khu phố 4 - Phường Tân Phú - TP. Thủ Đức - TP. Hồ Chí Minh",0309930593,TP Hồ Chí Minh,,
+583,CÔNG TY CP ĐẦU TƯ NĂM BẢY BẢY,,"Tòa nhà Carina Plaza, 1648 Võ Văn Kiệt - Phường 16 - Quận 8 - TP. Hồ Chí Minh",0303885305,TP Hồ Chí Minh,NBB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NBB
+584,CÔNG TY CP ĐẦU TƯ NAM LONG,,Số 6 Nguyễn Khắc Viện - Phường Tân Phú - Quận 7 - TP. Hồ Chí Minh,0301438936,TP Hồ Chí Minh,NLG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NLG
+585,CÔNG TY CP ĐẦU TƯ PHAN VŨ,,A2 Trường Sơn - Phường 2 - Quận Tân Bình - TP. Hồ Chí Minh,0302217087,TP Hồ Chí Minh,,
+586,CÔNG TY CP ĐẦU TƯ SÀI GÒN VRG,,"Lô TT2-1, Đường D4, KCN Đông Nam - Xã Hòa Phú - Huyện Củ Chi - TP. Hồ Chí Minh",0305268812,TP Hồ Chí Minh,SIP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SIP
+587,CÔNG TY CP ĐẦU TƯ THƯƠNG MẠI SMC,,Số 396 Ung Văn Khiêm - Phường 25 - Quận Bình Thạnh - TP. Hồ Chí Minh,0303522206,TP Hồ Chí Minh,SMC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SMC
+588,CÔNG TY CP ĐẦU TƯ VÀ KINH DOANH NHÀ KHANG ĐIỀN,,"Phòng 1&2, Tầng 11, Tòa nhà Saigon Centre, 67 Lê Lợi - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0302588596,TP Hồ Chí Minh,KDH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=KDH
+589,CÔNG TY CP ĐẦU TƯ VÀ PHÁT TRIỂN BẤT ĐỘNG SẢN AN GIA,,30 Nguyễn Thị Diệu-Phường 06-Quận 3-Thành phố Hồ Chí Minh,0311500196,TP Hồ Chí Minh,AGG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=AGG
+590,CÔNG TY CP ĐẦU TƯ XÂY DỰNG BCONS,,"176/1 - 176/3, Đường Nguyễn Văn Thương - Phường 25 - Quận Bình Thạnh - TP. Hồ Chí Minh",0312173537,TP Hồ Chí Minh,,
+591,CÔNG TY CP ĐẦU TƯ XÂY DỰNG NEWTECONS,,"Newtecons Tower, 96 Phan Đăng Lưu, Phường 05, Quận Phú Nhuận. TP.Hồ Chí Minh, Việt Nam",0303103212,TP Hồ Chí Minh,,
+592,CÔNG TY CP ĐẦU TƯ XÂY DỰNG RICONS,,"Tầng 1, Số 53-55 Bà Huyện Thanh Quan - Phường 6 - Quận 3 - TP. Hồ Chí Minh",0303527596,TP Hồ Chí Minh,,
+593,CÔNG TY CP ĐẦU TƯ XÂY DỰNG SOL E&C,,Số 31 Lý Văn Phức - Phường Tân Định - Quận 1 - TP. Hồ Chí Minh,0313541575,TP Hồ Chí Minh,,
+594,CÔNG TY CP DÂY CÁP ĐIỆN DAPHACO,,15/15 Khu phố 5 - Phan Văn Hơn - Phường Tân Thới Nhất - Quận 12 - TP. Hồ Chí Minh,0302008774,TP Hồ Chí Minh,,
+595,CÔNG TY CP DỆT MAY - ĐẦU TƯ - THƯƠNG MẠI THÀNH CÔNG,,36 Tây Thạnh - Phường Tây Thạnh - Quận Tân Phú - TP. Hồ Chí Minh,0301446221,TP Hồ Chí Minh,TCM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TCM
+596,CÔNG TY CP ĐỊA ỐC PHÚ LONG,,D2-19 KP Mỹ Hưng 2 Nguyễn Văn Linh - Phường Tân Phong - Quận 7 - TP. Hồ Chí Minh,0303739921,TP Hồ Chí Minh,,
+597,CÔNG TY CP DỊCH VỤ CÔNG NGHỆ TIN HỌC HPT,,"Lô E2a-3 đường D1, khu Công nghệ cao, TP. Thủ Đức, TP.Hồ Chí Minh",0301447426,TP Hồ Chí Minh,HPT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HPT
+598,CÔNG TY CP DỊCH VỤ HÀNG HẢI HÀNG KHÔNG CON CÁ HEO,,39B Trường Sơn - Phường 04 - Quận Tân Bình - TP. Hồ Chí Minh,0305358801,TP Hồ Chí Minh,,
+599,Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam,,Lầu 5 - PetroVietnam Tower - số 1-5 Lê Duẩn - Quận 1 - TP. Hồ Chí Minh,0100150577,TP Hồ Chí Minh,PVS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PVS
+600,CÔNG TY CP DỊCH VỤ Ô TÔ HÀNG XANH,,333 Điện Biên Phủ - Phường 15 - Quận Bình Thạnh - TP. Hồ Chí Minh,0302000126,TP Hồ Chí Minh,HAX,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HAX
+601,CÔNG TY CP DỊCH VỤ TỔNG HỢP SÀI GÒN,,66B - 68 Nam Kỳ Khởi Nghĩa - Phường Nguyễn Thái Bình - Quận 1 - TP. Hồ Chí Minh,0301154821,TP Hồ Chí Minh,SVC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SVC
+602,CÔNG TY CP DỊCH VỤ TRỰC TUYẾN CỘNG ĐỒNG VIỆT,,35 Nguyễn Huệ-Phường Đa Kao-Quận 1-TP. Hồ Chí Minh,0305458683,TP Hồ Chí Minh,,
+603,CÔNG TY CP DƯỢC LIỆU TRUNG ƯƠNG 2,,24 Nguyễn Thị Nghĩa - Phường Bến Thành - Quận 1 - TP. Hồ Chí Minh,0302597576,TP Hồ Chí Minh,,
+604,CÔNG TY CP DƯỢC PHẨM AN THIÊN,,314 Bông Sao - Phường 5 - Quận 8 - TP. Hồ Chí Minh,0305706103,TP Hồ Chí Minh,,
+605,CÔNG TY CP DƯỢC PHẨM OPC,,1017 Hồng Bàng - Phường 12 - Quận 6 - TP. Hồ Chí Minh,0302560110,TP Hồ Chí Minh,OPC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=OPC
+606,CÔNG TY CP GEMADEPT,,Số 6 Lê Thánh Tôn - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,0301116791,TP Hồ Chí Minh,GMD,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=GMD
+607,CÔNG TY CP GIAO DỊCH HÀNG HÓA TÂY NGUYÊN,,"Block E, Tầng 3, Phòng 17-18, Lexington Residence, 67 Mai Chí Thọ - Phường An Phú - TP. Thủ Đức - TP. Hồ Chí Minh",6001552050,TP Hồ Chí Minh,,
+608,CÔNG TY CP GIAO NHẬN TOÀN CẦU DHL (VIỆT NAM),,"Lầu 11, Etown 2, Số 364 Cộng Hòa - Phường 13 - Quận Tân Bình - TP. Hồ Chí Minh",0305707643,TP Hồ Chí Minh,,
+609,CÔNG TY CP GIAO NHẬN VÀ VẬN CHUYỂN IN DO TRẦN,,52 - 54 - 56 Trường Sơn - Phường 2 - Quận Tân Bình - TP. Hồ Chí Minh,0301909173,TP Hồ Chí Minh,,
+610,CÔNG TY CP GIAO NHẬN VẬN TẢI CON ONG,,39B Trường Sơn - Phường 4 - Quận Tân Bình - TP. Hồ Chí Minh,0303482440,TP Hồ Chí Minh,,
+611,Công ty TNHH MasanConsumerHoldings,,"Tầng 12, Tòa nhà Mplaza Saigon, Số 39 Lê Duẩn - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0302017440,TP Hồ Chí Minh,MCH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MCH
+612,CÔNG TY CP HIM LAM,,234 Ngô Tất Tố - Phường 22 - Quận Bình Thạnh - TP. Hồ Chí Minh,0301437499,TP Hồ Chí Minh,,
+613,CÔNG TY CP HÓA - DƯỢC PHẨM MEKOPHAR,,297/5 Lý Thường Kiệt - Phường 15 - Quận 11 - TP. Hồ Chí Minh,0302533156,TP Hồ Chí Minh,MKP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MKP
+614,HNC Group,,"L17-11, Tầng 17, Tòa nhà Vincom Center, Số 72 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",0316867800,TP Hồ Chí Minh,,
+615,CÔNG TY CP HƯNG THỊNH INCONS,,53 Trần Quốc Thảo - Phường Võ Thị Sáu - Quận 3 - TP. Hồ Chí Minh,0305371707,TP Hồ Chí Minh,HTN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HTN
+616,CÔNG TY CP IN VÀ BAO BÌ MỸ CHÂU,,18 Lũy Bán Bích - Phường Tân Thới Hòa - Quận Tân Phú - TP. Hồ Chí Minh,0301671386,TP Hồ Chí Minh,MCP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MCP
+617,CÔNG TY CP KẾT CẤU THÉP ATAD,,99 Nguyễn Thị Minh Khai - Phường Bến Thành - Quận 1 - TP. Hồ Chí Minh,1100641143,TP Hồ Chí Minh,,
+618,CÔNG TY CP KIM LOẠI MÀU VÀ NHỰA ĐỒNG VIỆT,,"Số 35, Đường số 10 - Phường An Lợi Đông - Quận 2 - TP. Hồ Chí Minh",0309174756,TP Hồ Chí Minh,,
+619,CÔNG TY CP KỸ NGHỆ THỰC PHẨM VIỆT NAM (VIFON),,913 Trường Chinh - Phường Tây Thạnh - Quận Tân Phú - TP. Hồ Chí Minh,0300627384,TP Hồ Chí Minh,,
+620,CÔNG TY CP LIZEN,,"24A Phan Đăng Lưu, Phường 6, Quận Bình Thạnh, TP. Hồ Chí Minh",0302310209,TP Hồ Chí Minh,LCG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=LCG
+621,CÔNG TY CP LOGISTICS VINALINK,,145-147 Nguyễn Tất Thành - Phường 13 - Quận 4 - TP. Hồ Chí Minh,0301776205,TP Hồ Chí Minh,VNL,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VNL
+622,CÔNG TY CP LOUIS HOLDINGS,,14 Nguyễn Văn Vĩnh - Phường 4 - Quận Tân Bình - TP. Hồ Chí Minh,1101573295,TP Hồ Chí Minh,,
+623,CTCP Tầm nhìn Ma San,,"Phòng 802, tầng 8, Tòa nhà Central Plaza, Số 17 Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",0309966871,TP Hồ Chí Minh,,
+624,CÔNG TY CP MAY VIỆT THỊNH,,58 Thoại Ngọc Hầu - Phường Hòa Thạnh - Quận Tân Phú - TP. Hồ Chí Minh,0303614739,TP Hồ Chí Minh,,
+625,Tổng Công ty Khí Việt Nam-CTCP,,Tòa nhà PVGas Tower - 673 Nguyễn Hữu Thọ - Xã Phước Kiến - Huyện Nhà Bè - TP. Hồ Chí Minh,3500102710,TP Hồ Chí Minh,GAS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=GAS
+626,CÔNG TY CP PHÁT HÀNH SÁCH TP. HỒ CHÍ MINH - FAHASA,,60-62 Lê Lợi - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,0304132047,TP Hồ Chí Minh,FHS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=FHS
+627,CÔNG TY CP PHÁT TRIỂN BẤT ĐỘNG SẢN PHÁT ĐẠT,,"Tầng 8 và 9 Tháp B, Tòa nhà Viettel, 285 Đường Cách Mạng Tháng Tám - Phường 12 - Quận 10 - TP. Hồ Chí Minh",0303493756,TP Hồ Chí Minh,PDR,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PDR
+628,CÔNG TY CP PHÁT TRIỂN ĐẦU TƯ XÂY DỰNG HT,,82-82A-82B-82C Võ Văn Tần - Phường Võ Thị Sáu - Quận 3 - TP. Hồ Chí Minh,0314637978,TP Hồ Chí Minh,,
+629,CÔNG TY CP PHÚC SINH,,Số 238-240 Võ Văn Kiệt - Phường Cầu Ông Lãnh - Quận 1 - TP. Hồ Chí Minh,0302401061,TP Hồ Chí Minh,,
+630,CÔNG TY CP RẠNG ĐÔNG HOLDING,,190 Lạc Long Quân - Phường 3 - Quận 11 - TP. Hồ Chí Minh,0300384357,TP Hồ Chí Minh,RDP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=RDP
+631,CÔNG TY CP SÀI GÒN FOOD,,"Lô C24 - 24B/II, C25/II - Đường 2F - KCN Vĩnh Lộc - Xã Vĩnh Lộc A - Huyện Bình Chánh - TP. Hồ Chí Minh",0302994301,TP Hồ Chí Minh,,
+632,CÔNG TY CP SAM HOLDINGS,,"152/11B Điện Biên Phủ, P.25, Quận Bình Thạnh, TP.Hồ Chí Minh",3600253537,TP Hồ Chí Minh,SAM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SAM
+633,CÔNG TY CP SẢN XUẤT KINH DOANH XUẤT NHẬP KHẨU BÌNH THẠNH,,334A Phan Văn Trị - Phường 11 - Quận Bình Thạnh - TP. Hồ Chí Minh,0302181666,TP Hồ Chí Minh,GIL,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=GIL
+634,CÔNG TY CP SẢN XUẤT NHỰA DUY TÂN,,298 Hồ Học Lãm - Phường An Lạc - Quận Bình Tân - TP. Hồ Chí Minh,0306151768,TP Hồ Chí Minh,,
+635,CÔNG TY CP SẢN XUẤT THƯƠNG MẠI SÀI GÒN,,Lô 6-Đường E-KCN Tân Tạo-Phường Tân Tạo A-Quận Bình Tân-TP. Hồ Chí Minh,0302776127,TP Hồ Chí Minh,,
+636,CÔNG TY CP SIÊU THANH,,A20 Tân Phong Nguyễn Hữu Thọ-Phường Tân Phong-Quận 7-TP. Hồ Chí Minh,0302563707,TP Hồ Chí Minh,ST8,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ST8
+637,CÔNG TY CP TẬP ĐOÀN BAMBOO CAPITAL,,"Tầng 14, Vincom Center, 72 Lê Thánh Tôn - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0311315789,TP Hồ Chí Minh,BCG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BCG
+638,CÔNG TY CP TẬP ĐOÀN DẦU KHÍ AN PHA,,"Phòng 805, Lầu 8, Tòa nhà Paragon, Số 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TP. Hồ Chí Minh",0303224471,TP Hồ Chí Minh,ASP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ASP
+639,CÔNG TY CP TẬP ĐOÀN ĐẦU TƯ ĐỊA ỐC NO VA,,313B-315 Nam Kỳ Khởi Nghĩa - Phường 07 - Quận 3 - TP. Hồ Chí Minh,0301444753,TP Hồ Chí Minh,NVL,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NVL
+640,CÔNG TY CP TẬP ĐOÀN HƯNG THỊNH,,"110-112 Trần Quốc Thảo, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh",0305410561,TP Hồ Chí Minh,,
+641,CÔNG TY CP TẬP ĐOÀN INTIMEX,,61 Nguyễn Văn Giai - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0304421306,TP Hồ Chí Minh,,
+642,CÔNG TY CP TẬP ĐOÀN KIDO,,138 - 142 Hai Bà Trưng - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0302705302,TP Hồ Chí Minh,KDC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=KDC
+643,CÔNG TY CP TẬP ĐOÀN KIM TÍN,,69 Nguyễn Thi - Phường 13 - Quận 5 - TP. Hồ Chí Minh,0303738780,TP Hồ Chí Minh,,
+644,CÔNG TY CP TẬP ĐOÀN THIÊN LONG,,"Lô 6, 8, 10, 12 Đường Số 3, KCN Tân Tạo - Phường Tân Tạo A - Quận Bình Tân - TP. Hồ Chí Minh",0301464830,TP Hồ Chí Minh,TLG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TLG
+645,CÔNG TY CP TẬP ĐOÀN VINACAM,,28 Mạc Đĩnh Chi - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0303800051,TP Hồ Chí Minh,,
+646,CÔNG TY CP TẬP ĐOÀN XÂY DỰNG HÒA BÌNH,,235 Võ Thị Sáu - Phường 7 - Quận 3 - TP. Hồ Chí Minh,0302158498,TP Hồ Chí Minh,HBC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HBC
+647,CÔNG TY CP TETRA PAK VIỆT NAM,,"14/F, Tòa nhà Metropolitan, 235 Đồng Khởi - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0302803331,TP Hồ Chí Minh,,
+648,Công ty TNHH TM-SX Thép Việt,,"289 Lý Thường Kiệt, Phường 15, Quận 11, Thành phố Hồ Chí Minh, Việt Nam",0301121174,TP Hồ Chí Minh,,
+649,CÔNG TY CP THUẬN HẢI,,"Lô VB.20A2, Đường 24, Khu chế xuất Tân Thuận - Phường Tân Thuận Đông - Quận 7 - TP. Hồ Chí Minh",0305601319,TP Hồ Chí Minh,,
+650,CÔNG TY CP THỰC PHẨM CHOLIMEX,,"Lô C40-43/I, C51-55/II, Đường số 7, KCN Vĩnh Lộc - Xã Vĩnh Lộc A - Huyện Bình Chánh - TP. Hồ Chí Minh",0304475742,TP Hồ Chí Minh,CMF,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CMF
+651,CÔNG TY CP THƯƠNG MẠI DỊCH VỤ THIÊN NAM HOÀ,,277b Cách Mạng Tháng 8 - Phường 12 - Quận 10 - TP. Hồ Chí Minh,0302429934,TP Hồ Chí Minh,,
+652,CÔNG TY CP THƯƠNG MẠI THÉP INDECO,,140B Nguyễn Văn Trỗi - Phường 08 - Quận Phú Nhuận - TP. Hồ Chí Minh,0313562014,TP Hồ Chí Minh,,
+653,CÔNG TY CP THƯƠNG MẠI XUẤT NHẬP KHẨU DẦU KHÍ MINH ĐỨC,,"Số 34, Đường 44 - Phường Thảo Điền - TP. Thủ Đức - TP. Hồ Chí Minh",0313094165,TP Hồ Chí Minh,,
+654,CÔNG TY CP THƯƠNG MẠI XUẤT NHẬP KHẨU THIÊN NAM,,"Tòa nhà văn phòng Thiên Nam, Số 111-121 Ngô Gia Tự - Phường 2 - Quận 10 - TP. Hồ Chí Minh",0301172041,TP Hồ Chí Minh,TNA,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TNA
+655,Công ty TNHH Thương mại và Dịch vụ Long Hưng,,"20 Nguyễn Thị Huỳnh, Phường 08, Quận Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",0303937088,TP Hồ Chí Minh,,
+656,CÔNG TY CP TÔ THÀNH PHÁT,,56 Phạm Hữu Chí-Phường 12- Quận 5-TP. Hồ Chí Minh,0301521415,TP Hồ Chí Minh,,
+657,CÔNG TY CP TRANSIMEX,,172 (lầu 9-10) Hai Bà Trưng - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0301874259,TP Hồ Chí Minh,TMS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TMS
+658,CÔNG TY CP TRUYỀN THÔNG TK - L,,222 Pasteur - Phường 06 - Quận 3 - TP. Hồ Chí Minh,0300993574,TP Hồ Chí Minh,,
+659,CÔNG TY CP TƯ VẤN D.P,,02 Ngô Đức Kế - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,0302273109,TP Hồ Chí Minh,,
+660,CÔNG TY CP TƯ VẤN XÂY DỰNG ĐIỆN 2,,32 Ngô Thời Nhiệm - Phường 7 - Quận 3 - TP. Hồ Chí Minh,0300420157,TP Hồ Chí Minh,TV2,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=TV2
+661,CÔNG TY CP UNIBEN,,Đường Phan Văn Đối - ấp Tiền Lân - Xã Bà Điểm - Huyện Hóc Môn - TP. Hồ Chí Minh,0301442989,TP Hồ Chí Minh,,
+662,CÔNG TY CP VẬT LIỆU XÂY DỰNG VÀ TRANG TRÍ NỘI THẤT TP. HỒ CHÍ MINH,,215 - 217 Trần Hưng Đạo - Phường Cô Giang - Quận 1 - TP. Hồ Chí Minh,0302495140,TP Hồ Chí Minh,CMD,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CMD
+663,CÔNG TY CP VẬT TƯ XĂNG DẦU (COMECO),,"COMECO Tower, 549 Điện Biên Phủ - Phường 3 - Quận 3 - TP. Hồ Chí Minh",0300450673,TP Hồ Chí Minh,COM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=COM
+664,Công ty TNHH MTV Masan Beverage (MSB)	,,"Tầng 12, tòa nhà MPlaza Saigon, số 39 Lê Duẩn, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",0312797567,TP Hồ Chí Minh,,
+665,CÔNG TY CP XÂY DỰNG AN PHONG,,"55-57 Khu C, Đường Vũ Tông Phan, Khu Đô Thị An Phú An Khánh - Phường An Phú - Quận 2 - TP. Hồ Chí Minh",0304621513,TP Hồ Chí Minh,,
+666,CÔNG TY CP XÂY DỰNG AN PHÚ GIA,,178/11 Nguyễn Văn Thương -  Phường 25 - Quận Bình Thạnh - TP. Hồ Chí Minh,0304172307,TP Hồ Chí Minh,,
+667,CÔNG TY CP XÂY DỰNG CBC,,176A Trần Kế Xương - Phường 7 - Quận Phú Nhuận - TP. Hồ Chí Minh,0313717010,TP Hồ Chí Minh,,
+668,CÔNG TY CP XÂY DỰNG CENTRAL,,204/9 Nguyễn Văn Hưởng - Phường Thảo Điền - Quận 2 - TP. Hồ Chí Minh,0314476689,TP Hồ Chí Minh,,
+669,CÔNG TY CP XÂY DỰNG COTECCONS,,236/6 Điện Biên Phủ-Phường 17-Quận Bình Thạnh-TP. Hồ Chí Minh,0303443233,TP Hồ Chí Minh,CTD,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CTD
+670,CÔNG TY CP XÂY DỰNG PHƯỚC THÀNH,,21 đường 24 Khu Dân cư Him Lam - Xã Bình Hưng - Huyện Bình Chánh - TP. Hồ Chí Minh,0303615482,TP Hồ Chí Minh,,
+671,CÔNG TY CP XÂY LẮP THƯƠNG MẠI 2,,36 Ung Văn Khiêm - Phường 25 - Quận Bình Thạnh - TP. Hồ Chí Minh,0300584155,TP Hồ Chí Minh,ACS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=ACS
+672,CÔNG TY CP XÂY LẮP VÀ VẬT TƯ XÂY DỰNG,,93 Nguyễn Công Trứ-Phường Nguyễn Thái Bình- Quận 1-TP. Hồ Chí Minh,0300588664,TP Hồ Chí Minh,,
+673,CÔNG TY CP XUẤT NHẬP KHẨU THUẬN MINH,,Số 76 đường Trần Minh Quyền - Phường 11 - Quận 10 - TP. Hồ Chí Minh,0309828977,TP Hồ Chí Minh,,
+674,CÔNG TY TÀI CHÍNH TNHH NGÂN HÀNG VIỆT NAM THỊNH VƯỢNG SMBC,,"Tầng 2, Tòa nhà REE Tower, Số 9 Đoàn Văn Bơ - Phường 12 - Quận 4 - TP. Hồ Chí Minh",0102180545,TP Hồ Chí Minh,,
+675,CÔNG TY TNHH AEON VIỆT NAM,,Số 30 Đường Bờ Bao Tân Thắng - Phường Sơn Kỳ - Quận Tân Phú - TP. Hồ Chí Minh,0311241512,TP Hồ Chí Minh,,
+676,CÔNG TY TNHH BẢO HIỂM HANWHA LIFE VIỆT NAM,,"Lầu 14, Tòa Nhà Doji, 81-85 Hàm Nghi - Phường Nguyễn Thái Bình - Quận 1 - TP. Hồ Chí Minh",0305774706,TP Hồ Chí Minh,,
+677,CÔNG TY TNHH BẢO HIỂM NHÂN THỌ AIA (VIỆT NAM),,"Tầng 15, Tòa nhà Saigon Centre tháp 2, Số 67 đường Lê Lợi - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0301930337,TP Hồ Chí Minh,,
+678,CÔNG TY TNHH BẢO HIỂM NHÂN THỌ CHUBB VIỆT NAM,,"Tầng 21 Tòa nhà Sun Wah, 115 Nguyễn Huệ - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0303845969,TP Hồ Chí Minh,,
+679,CÔNG TY TNHH CARGILL VIỆT NAM,,"Lầu 10-11, Trung tâm Thương mại Maple Tree 1060 Nguyễn Văn Linh - Phường Tân Phong - Quận 7 - TP.Hồ Chí Minh",3600233178,TP Hồ Chí Minh,,
+680,CÔNG TY TNHH CÔNG NGHIỆP MINH HƯNG,,"527-529 Bình Thới, Phường 10-Quận 11-Thành phố Hồ Chí Minh",1201044062,TP Hồ Chí Minh,,
+681,CÔNG TY TNHH CỬA SỔ VIỆT CHÂU Á ASEANWINDOW,,31 Võ Văn Tần - Phường Tân Tạo - Quận Bình Tân - TP. Hồ Chí Minh,0308779300,TP Hồ Chí Minh,,
+682,CÔNG TY TNHH ĐẦU TƯ ĐỊA ỐC THÀNH PHỐ,,24 Nguyễn Bỉnh Khiêm-Phường Đa Kao- Quận 1-TP. Hồ Chí Minh,0302980690,TP Hồ Chí Minh,,
+683,CÔNG TY TNHH ĐẦU TƯ SẢN XUẤT THƯƠNG MẠI DỊCH VỤ PHAN MINH,,"Số 300, Đường Khuông Việt - Phường Phú Trung - Quận Tân Phú - TP. Hồ Chí Minh",0303283290,TP Hồ Chí Minh,,
+684,CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG UNICONS,,"Tầng 5-6, Số 236/6 Điện Biên Phủ - Phường 17 - Quận Bình Thạnh - TP. Hồ Chí Minh",0304472276,TP Hồ Chí Minh,,
+685,CÔNG TY TNHH EXPEDITORS VIỆT NAM,,"Số 182 (tầng 8, Tòa nhà Flemington), Đường Lê Đại Hành - Phường 15 - Quận 11 - TP. Hồ Chí Minh",0312545104,TP Hồ Chí Minh,,
+686,CÔNG TY TNHH FURUKAWA AUTOMOTIVE PARTS (VIETNAM),,14 - 16 Kcx Tân Thuận - Phường Tân Thuận Đông - Quận 7 - TP. Hồ Chí Minh,0300797153,TP Hồ Chí Minh,,
+687,CÔNG TY TNHH HÀO HƯNG,,47/46 - 48 Lạc Long Quân - Phường 01 - Quận 11 - TP. Hồ Chí Minh,0301952517,TP Hồ Chí Minh,,
+688,CÔNG TY TNHH HEWLETT - PACKARD VIỆT NAM,,29 Lê Duẩn - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh,0300539709,TP Hồ Chí Minh,,
+689,CÔNG TY TNHH HÙNG CÁ,,"736-738 Điện Biên Phủ, P. 10, Q. 10, TP Hồ Chí Minh",1400528082,TP Hồ Chí Minh,,
+690,CÔNG TY TNHH KIẾN VƯƠNG,,"Lô 22 Đường Số 7, KCN Tân Tạo Phường Tân Tạo A-Phường Tân Tạo A-Quận Bình Tân-TP. Hồ Chí Minh",0304355389,TP Hồ Chí Minh,,
+691,CÔNG TY TNHH KINH DOANH LỐP XE BRIDGESTONE VIỆT NAM,,"Lầu 4, 56 - 58 - 60 Hai Bà Trưng - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0309875328,TP Hồ Chí Minh,,
+692,CÔNG TY TNHH MTV BÒ SỮA VIỆT NAM,,Số 10 Tân Trào - Phường Tân Phú - Quận 7 - TP. Hồ Chí Minh,5000268824,TP Hồ Chí Minh,,
+693,CÔNG TY TNHH MTV DƯỢC SÀI GÒN,,Số 18-20 Nguyễn Trường Tộ - Phường 12 - Quận 4 - TP. Hồ Chí Minh,0300523385,TP Hồ Chí Minh,,
+694,CÔNG TY TNHH MTV HERBALIFE VIỆT NAM,,Số 26 Đường Trần Cao Vân - Phường 6 - Quận 3 - TP. Hồ Chí Minh,0309069208,TP Hồ Chí Minh,,
+695,CÔNG TY TNHH MTV THỰC PHẨM VÀ ĐẦU TƯ FOCOCEV,,21 Bùi Thị Xuân - Phường Bến Thành - Quận 1 - TP. Hồ Chí Minh,0400101588,TP Hồ Chí Minh,,
+696,CÔNG TY TNHH MTV TỔNG CÔNG TY 28,,03 Nguyễn Oanh - Phường 10 - Quận Gò Vấp - TP. Hồ Chí Minh,0300516772,TP Hồ Chí Minh,,
+697,CÔNG TY TNHH MTV TỔNG CÔNG TY TÂN CẢNG SÀI GÒN,,722 Điện Biên Phủ - Phường 22 - Quận Bình Thạnh - TP. Hồ Chí Minh,0300514849,TP Hồ Chí Minh,,
+698,CÔNG TY TNHH MTV TỔNG CÔNG TY THÁI SƠN,,Số 3 - đường Ba Tháng Hai - Phường 11 - Quận 10 - TP. Hồ Chí Minh,0300533471,TP Hồ Chí Minh,,
+699,CÔNG TY TNHH MTV VÀNG BẠC ĐÁ QUÝ SÀI GÒN - SJC,,418-420 Nguyễn Thị Minh Khai - Phường 5 - Quận 3 - TP. Hồ Chí Minh,0301045759,TP Hồ Chí Minh,,
+700,CÔNG TY TNHH NHỰA LONG THÀNH,,Số 8 Kim Biên - Phường 13 - Quận 5 - TP. Hồ Chí Minh,0301275199,TP Hồ Chí Minh,,
+701,CÔNG TY TNHH ONPOINT,,"Tầng 4, Tòa nhà AB, 27B Nguyễn Đình Chiểu - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh",0314709816,TP Hồ Chí Minh,,
+702,CÔNG TY TNHH PHÂN PHỐI TIÊN TIẾN,,1D Phổ Quang - Phường 2 - Quận Tân Bình - TP. Hồ Chí Minh,0303549039,TP Hồ Chí Minh,,
+703,CÔNG TY TNHH PHÁT TRIỂN PHÚ MỸ HƯNG,,801 Nguyễn Văn Linh - Phường Tân Phú - Quận 7 - TP. Hồ Chí Minh,0300604002,TP Hồ Chí Minh,,
+704,CÔNG TY TNHH RITA VÕ,,327 Xa Lộ Hà Nội - Phường An Phú - Quận 2 - TP. Hồ Chí Minh,0302802627,TP Hồ Chí Minh,,
+705,CÔNG TY TNHH THƯƠNG MẠI - DỊCH VỤ HAI SÁU SÁU,,50/12 Nguyễn Kim - Phường 6 - Quận 10 - TP. Hồ Chí Minh,0303781761,TP Hồ Chí Minh,,
+706,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SẢN XUẤT GIẤY KHẢI HOÀN,,33/8/19A Phạm Văn Chiêu - Phường 14 - Quận Gò Vấp - TP. Hồ Chí Minh,0306012059,TP Hồ Chí Minh,,
+707,CÔNG TY TNHH THƯƠNG MẠI KIM ĐỨC,,"Tầng 2704, Sai Gon Trade Center, 37 Tôn Đức Thắng - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0301921780,TP Hồ Chí Minh,,
+708,CÔNG TY TNHH THƯƠNG MẠI THÉP ĐẠI TOÀN THẮNG,,"Tầng 2, Tòa nhà thép Toàn Thắng, Số 8A - 10A Trường Sơn - Phường 2 - Quận Tân Bình - TP Hồ Chí Minh",0301893928,TP Hồ Chí Minh,,
+709,CÔNG TY TNHH THƯƠNG MẠI THÉP NAM VIỆT,,Số 307D - Đường Nguyễn Văn Trỗi - Phường 1 - Quận Tân Bình - TP. Hồ Chí Minh,0301985093,TP Hồ Chí Minh,,
+710,CÔNG TY TNHH THƯƠNG MẠI THÉP TOÀN THẮNG,,"Tòa nhà Thép Toàn Thắng, 8A - 10A Trường Sơn, Phường 2, Q.Tân Bình, TP. Hồ Chí Minh",0301424404,TP Hồ Chí Minh,,
+711,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ PHÁT TIẾN,,Số 16 đường Lữ Gia - Phường 15 - Quận 11 - TP. Hồ Chí Minh,0301049150,TP Hồ Chí Minh,,
+712,CÔNG TY TNHH THƯƠNG MẠI VÀ SẢN XUẤT DẦU THỰC VẬT MINH HUÊ,,383/7 Hoà Bình - Phường Hòa Thạnh - Quận Tân Phú - TP. Hồ Chí Minh,0304391796,TP Hồ Chí Minh,,
+713,CÔNG TY TNHH THƯƠNG MẠI VÀ SẢN XUẤT TƯỜNG VIỆT,,14 Phan Tôn - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0302853607,TP Hồ Chí Minh,,
+714,CÔNG TY TNHH THƯƠNG MẠI XÂY DỰNG VẬN TẢI THANH LONG,,"Lô 17/II, Đường 2F, KCN Vĩnh Lộc - Huyện Bình Chánh - TP. Hồ Chí Minh",0304133227,TP Hồ Chí Minh,,
+715,CÔNG TY TNHH TNI KING COFFEE,,161 Võ Văn Tần - Phường Võ Thị Sáu - Quận 3 - TP. Hồ Chí Minh,0313743966,TP Hồ Chí Minh,,
+716,CÔNG TY TNHH TRUYỀN THÔNG BEE,,6D Trần Quang Diệu - Phường 13 - Quận 3 - TP. Hồ Chí Minh,0314115227,TP Hồ Chí Minh,,
+717,CÔNG TY TNHH XÂY DỰNG CÔNG TRÌNH HÙNG VƯƠNG,,435-437 Hoà Hảo-Phường 05-Quận 10-TP. Hồ Chí Minh,0301115156,TP Hồ Chí Minh,,
+718,CÔNG TY TNHH XÂY DỰNG LÊ PHAN,,97 Nguyễn Duy Dương - Phường 9 - Quận 5 - TP. Hồ Chí Minh,0301125316,TP Hồ Chí Minh,,
+719,CÔNG TY TNHH XÂY DỰNG TUẤN LÊ,,"P103, Lầu 1, Lô B C/c Trần Kế Xương-Phường 07-Quận Phú Nhuận-TP. Hồ Chí Minh",0307859271,TP Hồ Chí Minh,,
+720,MINH HƯNG GROUP,,527 - 529 Bình Thới - Phường 10 - Quận 11 - TP. Hồ Chí Minh,1200748517,TP Hồ Chí Minh,,
+721,NGÂN HÀNG TMCP BẢN VIỆT,,"Tòa nhà HM Town, số 412 Nguyễn Thị Minh Khai - Phường 5 - Quận 3 - TP. Hồ Chí Minh",0301378892,TP Hồ Chí Minh,BVB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BVB
+722,TẬP ĐOÀN TRUNG NGUYÊN LEGEND,,82-84 Bùi Thị Xuân - Phường Bến Thành - Quận 1 - TP. Hồ Chí Minh,0304324655,TP Hồ Chí Minh,,
+723,TỔNG CÔNG TY CẤP NƯỚC SÀI GÒN - TNHH MTV,,01 Công Trường Quốc Tế-Phường 06-Quận 3-TP. Hồ Chí Minh,0301129367,TP Hồ Chí Minh,,
+724,TỔNG CÔNG TY CƠ KHÍ GIAO THÔNG VẬN TẢI SÀI GÒN - TNHH MTV,,262 Trần Hưng Đạo-Phường Nguyễn Cư Trinh-Quận 1-TP. Hồ Chí Minh,0300481551,TP Hồ Chí Minh,,
+725,TỔNG CÔNG TY CÔNG NGHIỆP SÀI GÒN - TNHH MTV,,Số 58-60 Nguyễn Tất Thành - Phường 12 - Quận 4 - TP. Hồ Chí Minh,0300713668,TP Hồ Chí Minh,,
+726,TỔNG CÔNG TY CP BẢO HIỂM BẢO LONG,,185 Điện Biên Phủ - Phường Đa Kao - Quận 1 - TP. Hồ Chí Minh,0301458065,TP Hồ Chí Minh,BLI,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BLI
+727,TỔNG CÔNG TY CP DỊCH VỤ TỔNG HỢP DẦU KHÍ,,"Lầu 6, Tòa nhà Petrovietnam, Số 1-5 Lê Duẩn - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0300452060,TP Hồ Chí Minh,PET,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PET
+728,TỔNG CÔNG TY CP MAY VIỆT TIẾN,,7 Lê Minh Xuân - Phường 07 - Quận Tân Bình - TP. Hồ Chí Minh,0300401524,TP Hồ Chí Minh,VGG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VGG
+729,TỔNG CÔNG TY CP PHONG PHÚ,,48 Tăng Nhơn Phú - Khu phố 3 - Phường Tăng Nhơn Phú B - Quận 9 - TP. Hồ Chí Minh,0301446006,TP Hồ Chí Minh,PPH,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PPH
+730,TỔNG CÔNG TY CP VẬN TẢI DẦU KHÍ,,Tầng 2 Tòa nhà PVFCCo - 43 Mạc Đĩnh Chi - Phường Đakao - Quận 1 - TP. Hồ Chí Minh,0302743192,TP Hồ Chí Minh,PVT,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=PVT
+731,TỔNG CÔNG TY IDICO - CTCP,,Số 151 Ter Nguyễn Đình Chiểu - Phường 6 - Quận 3 - TP. Hồ Chí Minh,0302177966,TP Hồ Chí Minh,IDC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=IDC
+732,TỔNG CÔNG TY MAY NHÀ BÈ - CTCP,,Số 4 Bến Nghé - Phường Tân Thuận Đông - Quận 7 - TP. Hồ Chí Minh,0300398889,TP Hồ Chí Minh,MNB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MNB
+733,TỔNG CÔNG TY VẬT LIỆU XÂY DỰNG SỐ 1 - CTCP,,"Tầng 15, Tòa nhà Sailling Tower, Số 11A Pasteur - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0300402493,TP Hồ Chí Minh,FIC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=FIC
+734,TỔNG CÔNG TY XÂY DỰNG SỐ 1 - CTCP,,"Tầng 9, Tòa nhà Sailing Tower, 111A Pasteur - Phường Bến Nghé - Quận 1 - TP. Hồ Chí Minh",0301429113,TP Hồ Chí Minh,CC1,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CC1
+735,TẬP ĐOÀN CÔNG NGHIỆP CAO SU VIỆT NAM - CTCP,,236 Nam Kỳ Khởi Nghĩa - Phường 06 - Quận 3 - TP. Hồ Chí Minh,0301266564,TP Hồ Chí Minh,GVR,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=GVR
+736,TỔNG CÔNG TY THƯƠNG MẠI SÀI GÒN - TNHH MTV,,275B Phạm Ngũ Lão - Phường Phạm Ngũ Lão - Quận 1 - TP. Hồ Chí Minh,0300100037,TP Hồ Chí Minh,,
+737,CÔNG TY TNHH GANG THÉP TUYÊN QUANG,,Khu Công nghiệp Long Bình An - Phường Đội Cấn - TP. Tuyên Quang - Tỉnh Tuyên Quang,5000230718,Tuyên Quang,,
+738,CÔNG TY CP BÊ TÔNG 620 CHÂU THỚI,,"Tổ 10, Ấp Mỹ Hưng 2, Xã Mỹ Hòa, Thị xã Bình Minh, Tỉnh Vĩnh Long",1500419552,Vĩnh Long,,
+739,CÔNG TY CP THƯƠNG MẠI DẦU KHÍ CỬU LONG,,Số 64/20A-67/6A đường Phó Cơ Điều - Phường 4 - TP. Vĩnh Long - Tỉnh Vĩnh Long,1500498480,Vĩnh Long,,
+740,CÔNG TY TNHH DE HEUS,,"Lô A4, KCN Hòa Phú, Ấp Phước Hòa - Xã Hòa Phú - Huyện Long Hồ - Tỉnh Vĩnh Long",3701091716,Vĩnh Long,,
+741,CÔNG TY CP CÔNG NGHIỆP Á MỸ,,"Lô 1, KCN Thái Hòa-Liễn Sơn-Liên Hòa - Thị trấn Hoa Sơn - Huyện Lập Thạch - Tỉnh Vĩnh Phúc",2500552524,Vĩnh Phúc,,
+742,CÔNG TY CP ỐNG THÉP VIỆT - ĐỨC VG PIPE,,KCN Bình Xuyên - Xã Đạo Đức - Huyện Bình Xuyên - Tỉnh Vĩnh Phúc,2500267703,Vĩnh Phúc,VGS,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=VGS
+743,CÔNG TY CP TẬP ĐOÀN SƠN HÀ XANH,,"Km3, Quốc lộ 2 - Phường Phúc Thắng - TP. Phúc Yên - Tỉnh Vĩnh Phúc",2500209363,Vĩnh Phúc,,
+744,CÔNG TY CP TẬP ĐOÀN VITTO,,"Lô 1, Khu vực A, KCN Tam Dương II - Xã Kim Long - Huyện Tam Dương - Tỉnh Vĩnh Phúc",2500578360,Vĩnh Phúc,,
+745,CÔNG TY TNHH CÔNG NGHIỆP CHÍNH XÁC VIỆT NAM 1,,KCN Khai Quang - Phường Khai Quang - TP. Vĩnh Yên - Tỉnh Vĩnh Phúc,2500213190,Vĩnh Phúc,,
+746,CÔNG TY TNHH JAPFA COMFEED VIỆT NAM,,Thị trấn Hương Canh - Huyện Bình Xuyên - Tỉnh Vĩnh Phúc,2500175548,Vĩnh Phúc,,
+747,CÔNG TY CP TẬP ĐOÀN HÒA BÌNH MINH,,"Số nhà 16, Đường Hoàng Hoa Thám - Tổ 2 - Phường Nguyễn Thái Học - TP. Yên Bái - Tỉnh Yên Bái",5200896375,Yên Bái,,
+748,Công ty cổ phần Dêt lụa Nam Định,,"4, Hà Huy Tập, Trần Hưng Đạo, Nam Định, Nam Định",0600016097,Nam Định,,
+749,Công ty cổ phần xi măng Bỉm Sơn,,Lô 17 Đường Đông A - Hòa Vượng - Lộc Hòa - T.p Nam Định,2800232620,Nam Định,BCC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BCC
+750,Trung tâm lưu ký chứng khoán,,"Số 112 đường Hoàng Quốc Việt, phường Cổ Nhuế 1, quận Bắc Từ Liêm, thành phố Hà Nội",0104154332,Hà Nội,,
+751,Ngân hàng Thế Giới (Worldbank),,"63 Lý Thái Tổ, Hoàn Kiếm, Hà Nội",0101333710,Hà Nội,,
+752,TONG CONG TY BAO HIEM PVI,," TANG 24 TOA NHA PVI TOWER, LO VP2 YEN HOA, PHUONG YEN HOA, QUAN CAU GIAY, THANH ",0105402531,Hà Nội,,
+753,Công ty cổ phần giải pháp mạng Bạch Kim,,"BT2-VT18, Khu nhà ở Xa La, Phường Phúc La, Quận Hà Đông, Thành phố Hà Nội, Việt Nam.",0104850587,Hà Nội,,
+754,Công ty Cổ phần Truyền thông và Dịch vụ số Kiến lửa,,"Số 296 Đường Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Thanh Xuân, Hà Nội",0106829855,Hà Nội,,
+755,Công ty TNHH Công nghệ Dịch vụ VIETSERVER,,"Thôn Xa Khúc, Xã Chu Phan, Huyện Mê Linh, Hà Nội",0107262576,Hà Nội,,
+756,Công ty TNHH Mua bán nợ Việt Nam,,"Số 51, Quang Trung, Phường Nguyễn Du, Quận Hai Bà Trưng, Hà Nội",0101431355,Hà Nội,,
+757,CONG TY CO PHAN TAP DOAN DAU TU XAY DUNG VA DU LICH BAO SON,,Ks Qt Bảo Sơn Số 50 Nguyễn Chí Thanh Phường Láng Thượng Q.Đđ,0100372107,Hà Nội,,
+758,CTY CO PHAN DU LICH KIM LIEN - Q.DD,,Số 7 Đào Duy Anh Phường Phương Mai Q.Đđ,0100107067,Hà Nội,,
+759,CONG TY CO PHAN VAN PHONG PHAM HONG HA,,"Số 672, Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Hà Nội",0100100216,Hà Nội,,
+760,CONG TY CO PHAN KIM KHI THANG LONG,,"Phố Sài Đồng , Phường Sài Đồng, Quận Long Biên, Hà Nội",0100100618,Hà Nội,KTL,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=KTL
+761,CONG TY TU VAN DAU TU VA DICH VU KY THUAT CONG NGHIEP,,"Số 7a Phố Mạc Thị Bưởi, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành Phố Hà Nội",0100101379,Hà Nội,MIE,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=MIE
+762,CONG TY TNHH MOT THANH VIEN DU LICH CONG DOAN VN - Q.HK,,Số 14 Trần Bình Trọng - Phường Trần Hưng Đạo - Quận Hoàn Kiếm - Tp Hà Nội,0100110091,Hà Nội,,
+763,CONG TY CO PHAN TAP DOAN HIPT,,"152 Thuỵ Khuê, Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",0100364579,Hà Nội,HIG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=HIG
+764,CONG TY CO PHAN MAY CHIEN THANG,,Số 22 Thành Công Phường Thành Công Q.Bđ,0100101058,Hà Nội,,
+765,CONG TY DET KIM DONG XUAN - TONG CONG TY DET MAY VN,,"Số 524, Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",0100100583,Hà Nội,,
+766,Công ty Cp KidsPlaza,,"(Số 20 Thái Thịnh - Phường Ngã Tư Sở - Quận Đống Đa - Hà Nội) Tầng 4 Tòa Nhà C14ct2 Đường Tố Hữu, Xã Trung Văn, Huyện Từ Liêm, Thành Phố Hà Nội",0105330703,Hà Nội,,
+767,Công Ty TNHH Minh Phúc,,Tầng 10 Tòa Nhà Sudico Đường Mễ Trì - Mỹ Đình 1 - Nam Từ Liêm - Hà Nội - Việt Nam,0101275730,Hà Nội,,
+768,Công ty Cổ phần Tập đoàn Mặt trời,,"Tầng 11, Tòa nhà Đà Nẵng ACB Tower, số 218 Bạch Đằng, Phường Phước Ninh, Quận Hải Châu, Thành phố Đà Nẵng, Việt Nam",0305016195,Hà Nội,,
+769,CONG TY TNHH DAU NHON CHEVRON,,"(Lô F4, Kcn Đình Vũ, Phường Đông Hải 2, Quận Hải An), Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",0200115417,Hà Nội,,
+770,Công Ty Cổ Phần Chứng Khoán Đà Nẵng,,"Tầng 2 Tòa Nhà Thành Công - Số 80, Dịch Vọng Hậu, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",0400554813,Hà Nội,DSC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DSC
+771,CÔNG TY CỔ PHẦN CLOUDFLY,,"56 Nguyễn Tri Phương, Phường Chính Gián, Quận Thanh Khê, Thành phố Đà Nẵng, Việt Nam",0402035884,Hà Nội,,
+772,CÔNG TY TRÁCH NHIỆM HỮU HẠN LOGITEM VIỆT NAM,,"Lô số 6, Khu công nghiệp Quang Minh, Thị Trấn Quang Minh, Huyện Mê Linh, Thành phố Hà Nội, Việt Nam",2500257222,Hà Nội,,
+773,CONG TY TNHH PIZZA Việt Nam,,"Số 138, Phố Tôn Đức Thắng, P.Quốc Tử Giám, Q.Đống Đa. Tp Hà Nội",0303902751,Hà Nội,,
+774,CONG TY TNHH SIEMENS HEALTHCARE,,"Số 33, Đường Lê Duẩn - Phường Bến Nghé - Quận 1 - Tp Hồ Chí Minh",0313409143,Hà Nội,,
+775,CÔNG TY TNHH CAO SU INOUE VIỆT NAM,,"Thôn Phú Nhi, Xã Thanh Lâm, Huyện Mê Linh, Thành phố Hà Nội, Việt Nam",2500150631,Hà Nội,,
+776,CÔNG TY TNHH THỰC PHẨM & NƯỚC GIẢI KHÁT Ý TƯỞNG VIỆT,,"76 Lê Lai, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",0312065210,Hà Nội,,
+777,Công Ty TNHH Khai Thác Chế Biến Khoáng Sản Núi Pháo,,"xóm Suối Cát, Xã Hà Thượng, Huyện Đại Từ, Tỉnh Thái Nguyên, Việt Nam",4600864513,Hà Nội,,
+778,Công ty Cổ phần Thương mại và Du lịch Hà Lan,,"Tổ 5, đường Dương Tự Minh, Phường Tân Long, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",4600346825,Thái Nguyên,,
+779,Công Ty Cổ Phần Tập Đoàn Nam Cường,,"69, Đông A, Lộc Hòa, Nam Định, Nam Định",0600082558-010,Nam Định,,
+780,Công ty TNHH Công nghiêp RAMATEX ̣ ,,"Khu Công Ngiệp Bảo Minh, Đội 8 Xóm Mới, Kim Thái, Vụ Bản, Nam Định ",0601155054,Nam Định,,
+781,Công ty TNHH Giầy AMARA Việt Nam ,,"Khu Song Khê, Thị trấn Cổ Lễ, Trực Ninh, Nam Định ",0601038738,Nam Định,,
+782,Công Ty TNHH GREENYELLOW POWER VENTURES,,"Lô 01, Đường N5A, Khu Cn Hoà Xá, Mỹ Xá, Nam Định, Nam Định ",0316421389,Nam Định,,
+783,Công Ty TNHH May PL ,,"Lô C13-1, Khu Cn Hoà Xá, Mỹ Xá, Nam Định, Nam Định ",0601177386,Nam Định,,
+784,Công Ty Cổ Phần Nước Sạch Quảng Ninh,,"449 đường Nguyễn Văn Cừ, Phường Hồng Hải, Thành phố Hạ Long, Tỉnh Quảng Ninh",5700100104,Quảng Ninh,NQN,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=NQN
+785,Công ty TNHH MTV Cà phê Việt Thắng,,Số 227 Nguyễn Thái Bình - Xã Hòa Thắng - TP.Buôn Ma Thuột - Đắk Lắk.,6000180748,Đắk Lắk,,
+786,Công ty TNHH MTV Quản lý công trình Thủy lợi Đắk Lắk,,Số 251 đường Hà Huy Tập - Phường Tân Lợi - TP.Buôn Ma Thuột - Đắk Lắk.,6000178717,Đắk Lắk,,
+787,Công ty cổ phần Bia Sài Gòn-Miền Trung,,Số 01 đường Nguyễn Văn Linh - Phường Tân An - TP.Buôn Ma Thuột - Đắk Lắk.,4100739909,Đắk Lắk,SMB,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=SMB
+788,Công ty cổ phần Cấp nước Đắk Lắk,,Số 339 Tôn Đức Thắng - Phường Tân An - TP.Buôn Ma Thuột - Đắk Lắk.,6000175995,Đắk Lắk,DWC,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DWC
+789,Công ty cổ phần Đường bộ Đắk Lắk,,Số 36 đường Hùng Vương - Phường Tự An - TP.Buôn Ma Thuột - Đắk Lắk.,6000235066,Đắk Lắk,,
+790,Công ty cổ phần Quản lý và xây dựng đường bộ 26,,Số 387 đường Phạm Văn Đồng - Phường Tân Hoà - TP.Buôn Ma Thuột - Đắk Lắk.,6000234922,Đắk Lắk,,
+791,Công ty cổ phần Du lịch Đắk Lắk,,03 đường Phan Chu Trinh - Phường Thống Nhất - TP.Buôn Ma Thuột - Đắk Lắk.,6000177738,Đắk Lắk,DLD,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DLD
+792,Công ty cổ phần Công trình Việt Nguyên,,Số 396 đường Phan Bội Châu - Phường Thành Nhất - TP.Buôn Ma Thuột - Đắk Lắk.,6000382991,Đắk Lắk,,
+793,Công ty cổ phần Đầu tư xuất nhập khẩu Đắk Lắk,,Số 228 đường Hoàng Diệu - Phường Thành Công - TP.Buôn Ma Thuột - Đắk Lắk.,6000179365,Đắk Lắk,,
+794,Công ty phát triển hạ tầng khu công nghiệp Hòa Phú,,Thôn 12 - Xã Hòa Phú - TP.Buôn Ma Thuột - Đắk Lắk. ,6000853954,Đắk Lắk,,
+795,Công ty TNHH MTV In Đắk Lắk,,Số 45 đường Nguyễn Tất Thành - Phường Tân An - TP.Buôn Ma Thuột - Đắk Lắk.,6000235154,Đắk Lắk,,
+796,Công ty cổ Dược- Vật tư y tế Đắk Lắk,,Số 9 A đường Hùng Vương - Phường Tự An - TP.Buôn Ma Thuột - Đắk Lắk.,6000449389,Đắk Lắk,DBM,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DBM
+797,Công ty cổ phần Lương thực- Vật tư nông nghiệp,,Số 18 đường Nguyễn Tất Thành - Phường Tự An - TP.Buôn Ma Thuột - Đắk Lắk.,6000457333,Đắk Lắk,,
+798,Công ty cổ phần Đầu tư và phát triển An Thái,,Lô B03-B04 Khu công nghiệp Hoà Phú - Xã Hòa Phú - TP.Buôn Ma Thuột - Đắk Lắk.,6000639950,Đắk Lắk,,
+799,Công ty cổ Ong mật Đắk Lắk,,Số 03 đường Đinh Tiên Hoàng - Phường Tự An - TP.Buôn Ma Thuột - Đắk Lắk.,6000381356,Đắk Lắk,,
+800,CTY TNHH giày Ching Luh Việt Nam,,"KCN ấp Thuận Đạo, thị trấn Bến Lức, Bến Lức ",1100555173,Long An,,
+801,Công Ty TNHH Avery Dennison Ris Việt Nam,,Lô E.01 - Đường Trung Tâm - KCN Long Hậu - xã Long Hậu - huyện Cần Giuộc - tỉnh Long An - Việt Nam,3700482964,Long An,,
+802,CÔNG TY TRÁCH NHIỆM HỮU HẠN TRUNG SƠN ALPHA,,"90 Lý Tự Trọng, Phường An Cư, Quận Ninh Kiều, Thành phố Cần Thơ",1801397528,Cần Thơ,,
+803,Công Ty CP Dược Hậu Giang,,"288 Bis, Nguyễn Văn Cừ - Phường An Hòa - Quận Ninh Kiều - Cần Thơ",1800156801,Cần Thơ,DHG,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=DHG
+804,CÔNG TY CỔ PHẦN CẤP THOÁT NƯỚC CẦN THƠ,,"2A, Nguyễn Trãi, Phường Tân An, Quận Ninh Kiều, Thành phố Cần Thơ",1800155244,Cần Thơ,CTW,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=CTW
+805,CÔNG TY CỔ PHẦN CẤP NƯỚC CẦN THƠ 2,,"366C, Cách Mạng Tháng Tám, Phường Bùi Hữu Nghĩa, Quận Bình Thuỷ, Thành phố Cần Thơ",1801116600,Cần Thơ,,
+806,CÔNG TY CP CẤP NƯỚC CÁI RĂNG,,"546, Trần Hưng Đạo, Phường Lê Bình, Quận Cái Răng, Thành phố Cần Thơ",1800715224,Cần Thơ,,
+807,CÔNG TY CP CẤP NƯỚC THỐT NỐT,,"392, Quốc lộ 91, Long Thạnh A, Phường Thốt Nốt, Quận Thốt Nốt,",1800635554,Cần Thơ,,
+808,CÔNG TY TNHH MTV THUỐC THÚ Y VÀ CHẾ PHẨM SINH HỌC VEMEDIM,,"Khu công nghiệp Sông Hậu - giai đoạn 1, Xã Đông Phú, Huyện Châu Thành, Tỉnh Hậu Giang",6300171310,Cần Thơ,,
+809,CÔNG TY CP DƯỢC PHẨM IMEXPHARM ,,"Số 4, Đường 30/4 - Phường 1 - TP. Cao Lãnh - Tỉnh Đồng Tháp ",1400384433,Đồng Tháp,IMP,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=IMP
+810,Công ty Cổ phần đầu tư và phát triển du lịch Phú Quốc,,"Khu Bãi Dài - Xã Gành Dầu - Phú Quốc - Kiên
+Giang ",1701971178,Kiên Giang,,
+811,Công ty Cổ phần Berjaya - Bờ biển dài,,Tổ 4 - ấp Cửa Lấp - Xã Dương Tơ - Huyện Phú Quốc - Kiên Giang ,1700561549,Kiên Giang,,
+812,Công ty Cổ phần Milton ,,"Tổ 6, Xóm Bàn Quy, Ấp Đường Bào, Xã Dương Tơ, Thành phố Phú Quốc, Kiên Giang ",1701642536,Kiên Giang,,
+813,Công ty Cổ phần Starbay Việt Nam,,"Khu Bãi Dài, Xã Gành Dầu, Thành phố Phú Quốc, Kiên Giang ",1700572981,Kiên Giang,,
+814,Công Ty TNHH Huy Nam ,,Khu Cảng Cá Cá Tắc Cậu - Minh Phong - Bình An - Châu Thành - Kiên Giang ,1700415026,Kiên Giang,,
+815,Công Ty TNHH Hwaseung Rạch Giá,,"Đường Số 4, KCN Thạnh Lộc, Xã Thạnh Lộc, Huyện Châu Thành, Kiên Giang ",1702093173,Kiên Giang,,
+816,Công ty TNHH TM Kim Điệp,,142 - Trần Phú - Vĩnh Thanh Vân - Rạch Giá - Kiên Giang ,1700175769,Kiên Giang,,
+817,Trung Tâm Nước Sạch và Vệ Sinh Môi Trường Nông Thôn Tỉnh Bạc Liêu ,,"Số 463, Đường 23/8, Phường 8, TP Bạc Liêu, Bạc Liêu",1900273636,Bạc Liêu,,
+818,Công Ty Cổ Phần Cấp Nước Bạc Liêu ,,"92, Đường Lê Duẩn, Phường 1, TP
+Bạc Liêu, Bạc Liêu ",1900605680,Bạc Liêu,BLW,https://s.cafef.vn/Ajax/CongTy/CongTyCon.aspx?sym=BLW

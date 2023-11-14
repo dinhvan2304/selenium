@@ -1,0 +1,385 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import (
+    ElementNotInteractableException,
+    NoSuchElementException,
+    TimeoutException,
+)
+from selenium import webdriver
+
+from bs4 import BeautifulSoup as bs
+import os
+import pandas as pd
+import numpy as np
+from pathlib import Path
+import os
+import time
+import logging
+from unicodedata import normalize
+from abc import abstractmethod
+
+logger = logging.getLogger(__name__)
+def normalize_nav_string(string):
+    return normalize('NFKC', string.text.strip())
+
+class ProfileScraper(webdriver.Chrome):
+    def __init__(self, headless=True, solver=None):
+        self.options = Options()
+        if headless:
+            self.options.add_argument("--no-sandbox")
+            self.options.add_argument("--headless")
+            self.options.add_argument("--disable-dev-shm-usage")
+        self.options.add_argument("--start-maximized")
+        self.driverPath = "/usr/bin/chromedriver"
+        super().__init__(self.driverPath, options = self.options)
+        self.solver = solver
+        
+
+    def set_solver(self, solver):
+        """Set the solver to be used for captcha regconition. Support any class that has predict method
+        Input: raw image bytes string
+        Output: prediction string
+        """
+        self.solver = solver
+    
+    def _get_captcha_image(self):
+        """Capture the captcha returned by server, then decode and preprocess to a (1,64,128,1) Tensor"""
+        for request in self.requests[::-1]:
+            if 'captcha' in request.url:
+                return request.response.body
+
+    def _answer_captcha(self):
+        """Use model to predict characters in captcha"""
+        try:
+            img = self._get_captcha_image()
+            answer = self.solver.predict(img)
+            return answer
+        except Exception as e:
+            return ""
+    
+    def _submit_captcha(self, answer, click=True):
+        elem = self.find_element(By.XPATH, "//table[@class='search_form']//tr[6]/td[2]/table//tr/td[1]/input[@id='captcha']")
+        elem.send_keys(answer)
+        elem = self.find_element(By.XPATH, "//table[@class='search_form']//tr[7]/td[2]/div/input[@class='subBtn']")
+        if click:
+            elem.click()
+    
+    def _goto_detail(self, mst=None, profile_index=0):
+        """Go to nth-profile"""
+        if profile_index == 0:
+            # a_path = """//a[contains(@href, "javascript:submitform('{}')")]""".format(mst)
+            # self.find_element("xpath", a_path).click()
+            WebDriverWait(self, 25).until(
+                EC.element_to_be_clickable((By.XPATH, "//*[@id='tcmst']/table//tr[2]/td[3]/a"))
+            ).click()
+        else:
+            # elems = self.find_element("xpath", "//a[contains(@href, 'javascript:submitform')]")
+            elem_index = profile_index + 2
+            elems = self.find_element("xpath", "//*[@id='tcmst']/table/tbody/tr[2]/td[{}]/a".format(elem_index))
+            elems.click()
+
+    def _goto_next_page(self, next_page):
+        """Go to next page"""
+        next_elem = self.find_element(By.XPATH, f"//a[@href='javascript:gotoPage({next_page})']")
+        next_elem.click()
+    
+    def _process_outer(self, soup):
+        """Process the outermost page right after submitted the answer and received the first response"""
+        text = soup.get_text()
+        # all of these checks are expensive. Consider improving
+        if "Bạn chưa nhập đủ các thông tin cần thiết." in text:
+            return -1
+        elif "Không tìm thấy người nộp thuế nào phù hợp." in text:
+            return -1
+        elif "Không tìm thấy kết quả." in text:
+            return -1
+        elif "Vui lòng nhập đúng mã xác nhận!" in text:
+            return 0
+        
+        parse_result = []
+        table = soup.find('table', attrs={'class':'ta_border'})
+        rows = table.find_all('tr')
+        rows = rows[:-1]
+        headers = rows[0]
+        headers = [normalize_nav_string(h) for h in headers.find_all('th')]
+        contents = rows[1:]
+        for data in contents:
+            data = (normalize_nav_string(d) for d in data.find_all('td'))
+            parse_result.append({h:d for h,d in zip(headers,data)})
+        return parse_result
+    
+    def _parse_inner(self, soup):
+        """Parse the inner table returned by clicking on a profile"""
+        parse_result = []
+        table = soup.find('table', attrs={'class':'ta_border'})
+        headers = table.find_all('th')
+        for header in headers:
+            data = normalize_nav_string(header.find_next_sibling('td'))
+            header = normalize_nav_string(header)
+            parse_result.append({header:data})
+        return parse_result
+    
+    def _send_search_terms(self, search_terms):
+        """Send the search terms to approriate field. Accept dict-like object"""
+        for term in search_terms:
+            value = search_terms[term]
+            xpath = self.field_xpath[term]
+            elem = self.find_element(By.XPATH, xpath)
+            elem.clear() # field persists data during session, no matter where you are
+            elem.send_keys(value)
+
+    @abstractmethod
+    def pinpoint(self, search_terms):
+        """Method to scrape a single profile in detail"""
+
+    @abstractmethod
+    def sweep(self, search_terms):
+        """Method to scrape multiple records in outer page"""
+        
+    def run(self, command, search_terms):
+        """Main entry point for program"""
+        commands = {'pinpoint': self.pinpoint,
+                    'sweep': self.sweep}
+        assert command in commands, "Invalid command. Supported command: 'pinpoint' for single profile in detail; 'sweep' for multiple profiles in outer page"
+        return {'command':command,
+                'result':commands[command](search_terms)}
+    
+class PersonalProfileScraper(ProfileScraper):
+    """Scraper for personal site http://tracuunnt.gdt.gov.vn/tcnnt/mstcn.jsp"""
+    scopes = ['.+captcha.png.+', '.+mstcn.jsp$']
+    site = r'http://tracuunnt.gdt.gov.vn/tcnnt/mstcn.jsp'
+    field_xpath = {'taxnum': "//input[@name='mst1']",
+                   'name': "//table[@class='search_form']//tr[3]/td[2]/input",
+                   'address': "//input[@name='address']",
+                   'idnum':"//input[@name='cmt2']"}
+    parent_path = Path(__file__).resolve().parents[1]
+    output_path = os.path.join(parent_path, 'data/mstcn.csv')
+    max_page = 2
+    max_attempts = 5
+    def pinpoint(self, search_terms):
+        logger.info("Pinpoint a single profile ... Search terms=%s", str(search_terms))
+        self.get(self.site)
+        parse_result = {}
+        attempt = 0
+        
+        self._send_search_terms(search_terms) # the site never clears its data in field so don't need to resend every loop
+        while True:
+            assert attempt <= self.max_attempts, """Maximum loop reached. Either captcha solver has problem or there are some edge cases that the program failed to catch. Please record the search terms and submit an issue on Github"""
+            answer = self._answer_captcha()
+            del self.requests # avoid catching previous request
+            self._submit_captcha(answer)
+            req = self.wait_for_request(r'.+/mstcn.jsp$')
+            soup = bs(req.response.body,'lxml')
+            outer = self._process_outer(soup)
+            if outer == 0: # captcha failed
+                attempt += 1
+                continue
+            elif outer == -1: # empty table
+                logger.info('Finished scraping. Record is empty.')
+                return None
+            break
+        
+        parse_result['outer'] = outer
+        del self.requests
+        self._goto_detail()
+        req = self.wait_for_request(r'.+/mstcn.jsp$')
+        soup = bs(req.response.body,'lxml')
+        parse_result['inner'] = self._parse_inner(soup)
+        
+        del self.requests # final clean before exit
+        logger.info('Finished scraping. Record is present.')
+        return parse_result
+    
+    def sweep(self, search_terms):
+        logger.info("Sweep all profiles produced under search terms ... Search terms=%s", str(search_terms))
+        self.get(self.site)
+        parse_result = []
+        attempt = 0
+        # next_page = 1
+        WebDriverWait(self, 15).until(
+                EC.element_to_be_clickable((By.XPATH, "//table[@class='search_form']//tr[3]/td[2]/input"))
+            )
+        for term in search_terms:
+            values = search_terms[term]
+            for value in values:
+                # self.refresh()
+                next_page = 1
+                search_term = {term: value}
+                self._send_search_terms(search_term) # the site never clears its data in field so don't need to resend every loop
+                while True:
+                    try:
+                        assert attempt <= self.max_attempts, """Maximum loop reached. Either captcha solver has problem or there are some edge cases that the program failed to catch. Please record the search terms and submit an issue on Github"""
+                        answer = self._answer_captcha()
+                        del self.requests # avoid catching previous request.
+                        print("captcha answer {}".format(answer))
+                    
+                        WebDriverWait(self, 15).until(
+                            EC.element_to_be_clickable((By.XPATH, "//input[@id='captcha']"))
+                        )
+
+                        time.sleep(2)
+                        if next_page == 1:
+                            self._submit_captcha(answer)
+                        else:
+                            self._submit_captcha(answer, False)
+                            self._goto_next_page(next_page)
+                        # req = self.wait_for_request(r'.+/mstcn.jsp$')
+                        # soup = bs(req.response.body,'lxml')
+
+                        WebDriverWait(self, 15).until(
+                            EC.presence_of_element_located((By.XPATH, "//table[@class='ta_border']//tr[1]/th[1]"))
+                        )
+                        soup = bs(self.page_source, "lxml")
+                        outer = self._process_outer(soup)
+                        if outer == 0: # captcha failed
+                            attempt += 1
+                            if next_page > 1:
+                                self.back()
+                            continue
+                        elif outer == -1: # empty table
+                            logger.info('Finished sweeping. Record is empty.')
+                            break
+                        parse_result += outer
+                        for out in outer:
+                            out['search_name'] = value
+                        name_info_df = pd.DataFrame(outer)
+                        name_info_df.to_csv(
+                            self.output_path, index=False, header=False, mode="a"
+                        )
+                        next_page += 1
+                        if len(outer) < 15 or next_page > self.max_page: # page contains max 15 profiles
+                            break
+                        attempt = 0
+                    except Exception as e:
+                        print("Exception to refresh page: {}".format(e))
+                        next_page=1
+                        self.refresh()
+                logger.info('Finished sweeping. %d records found', len(parse_result))
+        # self.close()
+        return {'outer':parse_result}
+
+class BusinessProfileScraper(ProfileScraper):
+    """Scraper for business site http://tracuunnt.gdt.gov.vn/tcnnt/mstdn.jsp"""
+    scopes = ['.+captcha.png.+', '.+mstdn.jsp$', '.+doanhnghiepchuquan.jsp$', '.+chinhanh.jsp$',
+              '.+tructhuoc.jsp$', '.+daidien.jsp$', '.+loaithue.jsp$', '.+nganhkinhdoanh.jsp$']
+    site = r'http://tracuunnt.gdt.gov.vn/tcnnt/mstdn.jsp'
+    field_xpath = {'taxnum': "//input[@name='mst']",
+                   'name': "//input[@name='fullname']",
+                   'address': "//input[@name='address']",
+                   'idnum':"//input[@name='cmt']"}
+    
+    def _parse_subtable(self, soup):
+        parse_result = []
+        soup = soup.find_all('tr')
+        headers = soup[0]
+        headers = [normalize_nav_string(h) for h in headers.find_all('th')]
+        contents = soup[1:]
+        for data in contents:
+            data = (normalize_nav_string(d) for d in data.find_all('td'))
+            parse_result.append({h:d for h,d in zip(headers,data)})
+        return parse_result
+    
+    max_page = 9
+    max_attempts = 5
+    def pinpoint(self, search_terms):
+        logger.info("Pinpoint a single profile ... Search terms=%s", str(search_terms))
+        self.get(self.site)
+        parse_result = {}
+        attempt = 0
+        
+        self._send_search_terms(search_terms) # the site never clears its data in field so don't need to resend every loop
+        while True:
+            assert attempt <= self.max_attempts, """Maximum loop reached. Either captcha solver has problem or there are some edge cases that the program failed to catch. Please record the search terms and submit an issue on Github"""
+            answer = self._answer_captcha()
+            time.sleep(3)
+            # del self.requests # avoid catching previous request
+            if answer != "":
+                self._submit_captcha(answer)
+            else:
+                print('Finished scraping. Not found captcha image.')
+                return None
+            WebDriverWait(self, 15).until(
+                EC.presence_of_element_located((By.XPATH, "//table[@class='ta_border']//tr[1]/th[1]"))
+            )
+            soup = bs(self.page_source, "lxml")
+            outer = self._process_outer(soup)
+            if outer == 0: # captcha failed
+                attempt += 1
+                continue
+            elif outer == -1: # empty table
+                logger.info('Finished scraping. Record is empty.')
+                return None
+            break
+        
+        parse_result['outer'] = outer
+        # del self.requests
+        time.sleep(3)
+        try:
+            self._goto_detail(mst=outer[0]['MST'])
+            WebDriverWait(self, 15).until(
+                EC.presence_of_element_located((By.XPATH, "//table[@class='ta_border']//tr[1]/th[1]"))
+            )
+            soup = bs(self.page_source, "lxml")
+            parse_result['inner'] = self._parse_inner(soup)
+            
+            # working on subtables inside each profile
+            # sub = {}
+            # elems = self.find_element(By.XPATH, "//input[@value='...']")
+            # elems_pattern = [r'.+/doanhnghiepchuquan.jsp$', r'.+/chinhanh.jsp$', r'.+/tructhuoc.jsp$', 
+            #                  r'.+/daidien.jsp$', r'.+/loaithue.jsp$', r'.+/nganhkinhdoanh.jsp$']
+            # assert len(elems) == 6, 'There must be 6 sub-tables'
+            # for ele, pattern in zip(elems, elems_pattern):
+            #     logger.debug('Scraping sub-table=%s...', pattern[3:-5])
+            #     ele.click()
+            #     req = self.wait_for_request(pattern)
+            #     header = req.url.split('/')[-1][:-4]
+            #     soup = bs(req.response.body, 'lxml')
+            #     sub[header] = self._parse_subtable(soup)
+            # parse_result['sub'] = sub
+        except Exception as e:
+            pass
+            
+        del self.requests # final clean before exit
+        logger.info('Finished scraping. Record is present.')
+        return parse_result
+    
+    def sweep(self, search_terms):
+        logger.info("Sweep all profiles produced under search terms ... Search terms=%s", str(search_terms))
+        self.get(self.site)
+        parse_result = []
+        attempt = 0
+        next_page = 1
+        
+        self._send_search_terms(search_terms) # the site never clears its data in field so don't need to resend every loop
+        while True:
+            assert attempt <= self.max_attempts, """Maximum loop reached. Either captcha solver has problem or there are some edge cases that the program failed to catch. Please record the search terms and submit an issue on Github"""
+            answer = self._answer_captcha()
+            del self.requests # avoid catching previous request
+            if next_page == 1:
+                self._submit_captcha(answer)
+            else:
+                self._submit_captcha(answer, False)
+                self._goto_next_page(next_page)
+            req = self.wait_for_request(r'.+/mstdn.jsp$')
+            soup = bs(req.response.body,'lxml')
+            outer = self._process_outer(soup)
+            if outer == 0: # captcha failed
+                attempt += 1
+                if next_page > 1:
+                    self.back()
+                continue
+            elif outer == -1: # empty table
+                logger.info('Finished sweeping. Record is empty.')
+                break
+            parse_result += outer
+            next_page += 1
+            if len(outer) < 15 or next_page > self.max_page: # page contains max 15 profiles
+                break
+            attempt = 0
+        logger.info('Finished sweeping. %d records found', len(parse_result))
+        return {'outer':parse_result}
